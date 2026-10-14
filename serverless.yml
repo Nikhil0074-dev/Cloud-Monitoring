@@ -1,0 +1,109 @@
+service: serverless-task-api
+frameworkVersion: '3'
+
+plugins:
+  - serverless-offline
+
+provider:
+  name: aws
+  runtime: nodejs20.x
+  architecture: arm64            # cheaper + faster cold starts than x86_64
+  region: ${opt:region, 'ap-south-1'}
+  stage: ${opt:stage, 'dev'}
+  memorySize: 256                # more memory = more CPU = faster cold start
+  timeout: 10                    # API Gateway HTTP API max is 30s; 10s is plenty
+  logRetentionInDays: 14
+  environment:
+    TASKS_TABLE: ${self:service}-${self:provider.stage}-tasks
+    CORS_ORIGIN: ${env:CORS_ORIGIN, '*'}
+    NODE_OPTIONS: --enable-source-maps
+  httpApi:
+    cors:
+      allowedOrigins:
+        - ${env:CORS_ORIGIN, '*'}
+      allowedHeaders:
+        - Content-Type
+        - Authorization
+        - X-Requested-With
+      allowedMethods:
+        - GET
+        - POST
+        - PUT
+        - PATCH
+        - DELETE
+        - OPTIONS
+      maxAge: 86400
+  iam:
+    role:
+      statements:
+        - Effect: Allow
+          Action:
+            - dynamodb:PutItem
+            - dynamodb:GetItem
+            - dynamodb:UpdateItem
+            - dynamodb:DeleteItem
+            - dynamodb:Scan
+          Resource:
+            - !GetAtt TasksTable.Arn
+
+package:
+  patterns:
+    - '!tests/**'
+    - '!postman/**'
+    - '!.local-db/**'
+    - '!README.md'
+
+functions:
+  createTask:
+    handler: src/handlers/createTask.handler
+    events:
+      - httpApi:
+          method: POST
+          path: /tasks
+  listTasks:
+    handler: src/handlers/listTasks.handler
+    events:
+      - httpApi:
+          method: GET
+          path: /tasks
+  getTask:
+    handler: src/handlers/getTask.handler
+    events:
+      - httpApi:
+          method: GET
+          path: /tasks/{id}
+  updateTask:
+    handler: src/handlers/updateTask.handler
+    events:
+      - httpApi:
+          method: PATCH
+          path: /tasks/{id}
+      - httpApi:
+          method: PUT
+          path: /tasks/{id}
+  deleteTask:
+    handler: src/handlers/deleteTask.handler
+    events:
+      - httpApi:
+          method: DELETE
+          path: /tasks/{id}
+
+resources:
+  Resources:
+    TasksTable:
+      Type: AWS::DynamoDB::Table
+      DeletionPolicy: Delete
+      Properties:
+        TableName: ${self:provider.environment.TASKS_TABLE}
+        BillingMode: PAY_PER_REQUEST     # no capacity planning, no idle cost
+        AttributeDefinitions:
+          - AttributeName: id
+            AttributeType: S
+        KeySchema:
+          - AttributeName: id
+            KeyType: HASH
+
+custom:
+  serverless-offline:
+    httpPort: 3000
+    noPrependStageInUrl: true
