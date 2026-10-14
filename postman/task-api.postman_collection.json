@@ -1,0 +1,16 @@
+{
+  "info": { "name": "Serverless Task API", "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json" },
+  "variable": [
+    { "key": "baseUrl", "value": "http://localhost:3000" },
+    { "key": "taskId", "value": "" }
+  ],
+  "item": [
+    { "name": "Create task", "event": [{ "listen": "test", "script": { "type": "text/javascript", "exec": ["pm.test('201 Created', () => pm.response.to.have.status(201));", "pm.collectionVariables.set('taskId', pm.response.json().data.id);"] } }],
+      "request": { "method": "POST", "header": [{ "key": "Content-Type", "value": "application/json" }], "body": { "mode": "raw", "raw": "{\n  \"title\": \"Write README\",\n  \"description\": \"Document the API\",\n  \"priority\": \"high\",\n  \"dueDate\": \"2026-12-31\"\n}" }, "url": "{{baseUrl}}/tasks" } },
+    { "name": "Create task - invalid (expect 400)", "request": { "method": "POST", "header": [{ "key": "Content-Type", "value": "application/json" }], "body": { "mode": "raw", "raw": "{\n  \"title\": \"\",\n  \"status\": \"nope\"\n}" }, "url": "{{baseUrl}}/tasks" } },
+    { "name": "List tasks", "request": { "method": "GET", "url": "{{baseUrl}}/tasks?limit=10" } },
+    { "name": "Get task", "request": { "method": "GET", "url": "{{baseUrl}}/tasks/{{taskId}}" } },
+    { "name": "Update task", "request": { "method": "PATCH", "header": [{ "key": "Content-Type", "value": "application/json" }], "body": { "mode": "raw", "raw": "{\n  \"status\": \"done\"\n}" }, "url": "{{baseUrl}}/tasks/{{taskId}}" } },
+    { "name": "Delete task", "request": { "method": "DELETE", "url": "{{baseUrl}}/tasks/{{taskId}}" } }
+  ]
+}
