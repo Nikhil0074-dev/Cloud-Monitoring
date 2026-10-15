@@ -22,7 +22,7 @@
     "down_since": null,
     "first_failure_ts": null,
     "last_alert_ts": "2026-10-15T15:35:33.067Z",
-    "latency_level": "warn",
+    "latency_level": "ok",
     "status": "UP",
     "uptime_breached": true
   },
