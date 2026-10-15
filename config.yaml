@@ -1,0 +1,54 @@
+# cloudmon configuration
+# Every key is optional except `endpoints`. See README.md for the full reference.
+
+interval_seconds: 60        # used by --loop / --count; GitHub Actions cron decides the cadence there
+timeout_seconds: 10         # per-request timeout (counts as a failure when exceeded)
+
+thresholds:
+  latency_warn_ms: 1500     # WARNING alert when a healthy response is slower than this
+  latency_critical_ms: 3000 # CRITICAL alert when slower than this
+  consecutive_failures: 1   # failed checks in a row before a DOWN alert (1 = immediate; 2-3 reduces flapping)
+  uptime_min_percent: 99.0  # WARNING when rolling uptime drops below this ...
+  uptime_window_checks: 100 # ... measured over the last N checks per endpoint
+  uptime_min_samples: 10    # ... but only once at least this many checks exist
+  repeat_alert_minutes: 0   # re-send "still down" reminders every N minutes (0 = off)
+
+alerts:
+  console: true             # coloured warning on stderr (+ ::error:: annotations in GitHub Actions)
+  webhook:
+    enabled: true           # silently skipped with a console note if the secret is not set
+    url_env: WEBHOOK_URL    # name of the environment variable / GitHub secret holding the URL
+    format: slack           # slack | discord | teams | generic
+  email:
+    enabled: false          # needs SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASSWORD, EMAIL_FROM, EMAIL_TO
+    use_ssl: false          # true = implicit TLS (port 465); false = STARTTLS (port 587)
+
+storage:
+  log_file: logs/uptime_log.jsonl
+  state_file: logs/state.json
+  retention_days: 30        # older log lines are pruned automatically
+
+report:
+  output_dir: docs          # index.html (dashboard), uptime_report.md, uptime_log.csv
+  title: Service Uptime Report
+  chart_points: 288        # latency chart length (288 checks = 24 h at a 5-minute cadence)
+
+endpoints:
+  - name: GitHub API
+    url: https://api.github.com
+    expected_status: [200]
+
+  - name: Example.com
+    url: https://example.com
+    expected_status: [200]
+    body_contains: Example Domain     # optional content check
+
+  - name: HTTPBin health
+    url: https://httpbin.org/status/200
+    expected_status: [200]
+    timeout_seconds: 15               # per-endpoint override
+
+  - name: Python.org
+    url: https://www.python.org
+    method: GET
+    expected_status: [200]
