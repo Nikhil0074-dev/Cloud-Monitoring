@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest
+pillow
+playwright   # only for scripts/make_screenshots.py
