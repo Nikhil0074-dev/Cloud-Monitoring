@@ -1,0 +1,320 @@
+{"timestamp":"2026-10-14T15:38:36.801Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":22466.78,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:38:31.845Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":17509.55,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:38:38.510Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":24174.44,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:39:05.014Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":50677.89,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:39:45.090Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":12284.43,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:39:39.984Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":7177.35,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:39:46.556Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":13746.46,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:39:45.279Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":12466.51,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:40:54.307Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":5850.62,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:40:54.311Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":5832.41,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:40:56.649Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":8141.54,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:40:54.334Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":5810.59,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:42:13.258Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":16332.8,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:42:11.575Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":14606.01,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:42:20.865Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":23847.41,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:42:19.143Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":22095.47,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T15:43:52.349Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":22430.2,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:43:41.283Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":11336.3,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:43:57.271Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":27294.5,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:43:52.398Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":22390.26,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:45:23.872Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":26475.52,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:45:22.426Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":24921.43,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:45:29.040Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":31526.7,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:45:23.872Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":26339.9,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:46:45.187Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":16022.84,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:46:45.974Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":16781.7,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:47:03.898Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":34679.1,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:46:55.194Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":25967.59,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:48:31.314Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":27256.6,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:48:22.858Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":18777.62,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:48:36.496Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":32399.28,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-14T15:48:31.269Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":27160.57,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T13:12:40.295Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":17527.43,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:12:40.346Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":17578.09,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:12:46.912Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":24143.88,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:12:43.937Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":21167.59,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:13:05.296Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":10026.44,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T13:13:15.311Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":20040.74,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T13:13:24.860Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":29589.11,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:13:15.311Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":20039.69,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T13:14:44.821Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":19927.19,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:14:38.960Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":14064.95,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T13:14:48.725Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":23826.66,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:14:46.075Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":21175.11,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:15:58.957Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":10204.0,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T13:16:03.538Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":14783.97,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:16:00.857Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":12096.37,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T13:15:50.303Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":1534.97,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:17:14.300Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":10089.88,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:17:12.856Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":8621.77,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:17:17.152Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":12910.84,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:17:14.200Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":9928.37,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:18:26.429Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":8063.89,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:18:24.553Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":6160.5,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:18:28.844Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":10423.47,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:18:26.705Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":8272.28,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:19:31.065Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":2029.91,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:19:31.055Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":1998.51,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:19:34.355Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":5226.67,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:19:31.154Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":2019.1,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:20:46.920Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":12460.97,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:20:46.855Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":12386.35,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:20:47.937Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":13463.89,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:20:47.081Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":12599.49,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:21:52.157Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":4108.8,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:21:51.732Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":3658.53,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:21:54.453Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":6363.74,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:21:52.244Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":4108.38,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:22:56.588Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":2015.57,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:22:56.367Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":1774.71,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:22:57.828Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":3234.21,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:22:56.591Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":1986.92,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:38:28.518Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":1908.21,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:38:28.479Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":1845.02,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:38:29.250Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":2593.59,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:38:28.451Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":1782.4,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:39:32.142Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":2059.98,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:39:31.961Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":1852.86,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:39:33.166Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":3028.83,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:39:32.018Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":1876.08,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:40:47.609Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":11616.41,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T13:40:47.615Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":11595.04,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T13:40:47.608Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":11544.72,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T13:40:47.614Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":11546.94,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T13:41:52.937Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":5137.37,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:41:52.868Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":5042.37,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:41:53.625Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":5784.81,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:41:52.942Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":5063.97,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:43:08.900Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":15118.01,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:43:08.903Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":15025.82,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:43:10.463Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":16556.49,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:43:08.912Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":14998.88,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:44:17.495Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":6854.32,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:44:14.893Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":4228.84,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:44:19.649Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":8975.58,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:44:17.630Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":6928.19,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:45:22.505Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":2443.69,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:45:22.502Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":2304.36,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:45:23.409Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":3106.95,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:45:22.610Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":2240.87,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:46:26.924Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":1936.22,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:46:26.892Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":1882.59,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:46:28.135Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":3095.26,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:46:26.882Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":1764.05,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:47:32.014Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":2529.39,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:47:31.941Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":2434.59,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:47:33.013Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":3486.63,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:47:32.194Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":2666.91,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:48:52.603Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":18879.28,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:48:45.520Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":11769.11,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:49:02.020Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":28246.19,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:48:58.927Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":25113.8,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:50:20.045Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":17795.39,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:50:21.270Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":18988.91,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T13:50:27.993Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":25678.01,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:50:25.257Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":22911.79,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:51:39.665Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":11536.32,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:51:39.076Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":10931.93,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:51:43.491Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":15346.3,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:51:41.741Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":13567.02,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:52:52.664Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":7001.81,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:52:51.569Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":5882.9,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:52:58.141Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":12438.7,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:52:55.688Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":9957.38,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:54:00.406Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":2121.75,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:54:00.373Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":2056.92,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:54:01.251Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":2925.46,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:54:00.548Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":2213.99,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:55:04.189Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":2805.96,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:55:03.483Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":2098.5,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:55:05.540Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":4153.74,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:55:04.316Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":2928.07,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:56:21.576Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":15974.95,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:56:18.752Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":13148.33,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:56:22.468Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":16863.32,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:56:24.171Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":18562.82,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:57:30.083Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":5798.28,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:57:27.291Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":2973.8,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:57:32.277Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":7880.79,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:57:31.764Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":7352.77,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:58:41.329Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":8977.4,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:58:40.118Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":7765.45,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:58:45.636Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":13281.34,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:58:41.977Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":9620.51,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T13:59:47.897Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":2183.07,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:59:47.897Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":2161.06,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:59:48.705Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":2944.84,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T13:59:47.883Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":2102.83,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:00:50.903Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":2066.85,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:00:50.905Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":2063.68,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:00:52.364Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":3519.26,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:00:51.597Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":2748.92,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:01:56.033Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":3445.32,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:01:56.077Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":3407.88,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:01:56.835Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":4198.44,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:01:56.081Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":3426.16,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:02:31.603Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":2687.01,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:02:31.503Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":2586.35,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:02:32.018Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":3101.28,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:02:31.703Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":2785.68,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:02:44.983Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":2569.53,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:02:44.779Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":2363.6,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:02:46.343Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":3921.26,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:02:44.978Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":2555.45,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:02:57.730Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":1348.87,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-15T14:02:57.711Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":1328.66,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-15T14:02:58.814Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":2430.49,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:02:57.825Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":1438.83,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-15T14:03:10.478Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":1578.92,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:03:10.579Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":1679.07,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:03:11.515Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":2612.93,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:03:11.117Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":2213.86,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:03:24.550Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":2977.88,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:03:24.556Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":2982.61,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:03:26.599Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":5023.22,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:03:24.560Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":2981.74,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T14:51:27.062Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":12369.07,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:51:27.206Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":12512.82,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:51:37.458Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":22764.46,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:51:31.737Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":17042.07,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:52:00.048Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":14682.02,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:51:57.451Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":12084.57,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:52:04.968Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":19601.07,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:52:03.791Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":18422.83,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:53:26.252Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":21245.44,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:53:21.474Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":16465.06,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:53:25.713Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":20700.7,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T14:53:35.084Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":30069.4,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:54:53.565Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":18426.2,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T14:54:46.903Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":11763.79,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:54:58.622Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":23481.3,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T14:54:53.550Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":18407.62,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T14:55:42.771Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":12125.69,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:55:41.423Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":10777.3,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:55:51.037Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":20390.44,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:55:46.244Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":15597.73,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T14:59:07.342Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":24706.41,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T14:58:56.766Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":14129.37,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T14:59:12.443Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":29806.25,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T14:59:07.155Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":24518.01,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:00:47.034Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":34470.08,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:00:41.891Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":29301.74,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:00:48.099Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":35504.44,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:00:47.033Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":34415.8,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:02:06.678Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":16155.95,"ok":false,"error":"SSL error: SSLError","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:02:10.026Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":19481.31,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:02:13.922Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":23308.35,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:02:11.549Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":20884.76,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:03:35.174Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":20210.22,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:03:31.183Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":16137.43,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:03:41.844Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":26686.84,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:03:40.369Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":25151.22,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:04:49.604Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":7593.1,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:04:49.038Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":6993.39,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:04:54.265Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":12207.16,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:04:53.123Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":11044.74,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:06:14.814Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":20351.13,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:06:14.807Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":20319.86,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:06:21.219Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":26723.32,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:06:17.158Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":22631.57,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:07:40.850Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":19359.84,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:07:41.388Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":19819.51,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:07:41.730Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":20065.51,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:07:48.909Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":27130.26,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:09:09.473Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":20476.44,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:09:06.861Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":17863.17,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:09:14.748Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":25747.92,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:09:09.534Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":20532.02,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:10:33.320Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":18533.82,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:10:22.695Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":7907.74,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:10:37.466Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":22675.81,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:10:33.321Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":18529.69,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:11:45.115Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":7609.66,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:11:45.033Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":7525.66,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:11:48.249Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":10739.79,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:11:45.202Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":7691.14,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:13:06.428Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":18134.2,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:13:05.525Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":17230.35,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:13:09.117Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":20821.02,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:13:09.276Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":20979.53,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:14:20.573Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":11250.62,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:14:16.601Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":7275.96,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:14:22.235Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":12908.93,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:14:25.989Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":16659.68,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:15:41.727Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":15693.58,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:15:35.008Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":8973.16,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:15:46.934Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":20896.93,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:15:44.000Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":17961.64,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:17:01.651Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":14669.49,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:17:00.818Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":13826.9,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:17:03.717Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":16714.56,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:17:03.581Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":16574.91,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:18:10.378Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":6613.09,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:18:08.768Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":5002.43,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:18:12.385Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":8617.5,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:18:10.441Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":6673.01,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:19:20.661Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":8233.11,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:19:19.195Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":6765.98,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:19:28.449Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":16019.07,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:19:23.340Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":10909.02,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:20:47.648Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":19003.64,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:20:33.366Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":4720.61,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:20:40.714Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":12067.67,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:20:40.714Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":12065.22,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:22:02.654Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":14960.7,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:22:12.850Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":25156.15,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:22:12.759Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":25063.25,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:22:08.573Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":20876.53,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:23:24.937Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":12039.7,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:23:27.557Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":14658.47,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:23:24.952Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":12050.75,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:23:24.952Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":12049.26,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:24:38.509Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":10899.12,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:24:29.662Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":2050.99,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T15:24:33.830Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":6216.87,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:24:38.525Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":10910.37,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:25:49.425Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":10857.79,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:25:49.409Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":10840.85,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:25:54.583Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":16014.04,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:25:58.834Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":20263.66,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:27:10.929Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":12054.87,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:27:18.652Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":19776.98,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:27:26.734Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":27858.17,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:27:10.929Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":12052.09,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:28:31.718Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":4930.38,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:28:29.587Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":2796.65,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T15:28:45.670Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":18878.32,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:28:39.631Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":12838.16,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:29:56.526Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":10805.87,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:29:58.220Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":12495.28,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:30:01.753Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":16026.95,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:30:08.903Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":23175.34,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:31:26.817Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":17868.96,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:31:27.191Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":18241.63,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:31:49.228Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":40277.11,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:31:36.861Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":27908.52,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:33:00.632Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":11313.75,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:33:00.389Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":11063.5,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:33:05.455Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":16128.75,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:33:08.529Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":19196.58,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:33:46.231Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":10993.88,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:33:37.621Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":2382.75,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-15T15:33:40.004Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":4765.16,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:33:56.509Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":21270.11,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:34:15.731Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":9148.34,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:34:19.729Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":13145.67,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:34:23.789Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":17204.04,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:34:33.894Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":27307.48,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:34:56.670Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":12728.27,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:34:47.747Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":3804.87,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:34:53.131Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":9187.18,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:35:06.907Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":22962.23,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:35:27.928Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":10888.92,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:35:36.636Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":19595.79,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-15T15:35:33.067Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":16025.37,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:35:28.007Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":10964.52,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:35:58.449Z","name":"GitHub API","url":"https://api.github.com","status_code":null,"latency_ms":11754.5,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:35:57.417Z","name":"Example.com","url":"https://example.com","status_code":null,"latency_ms":10722.45,"ok":false,"error":"timeout after 10s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:36:05.454Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":null,"latency_ms":18758.49,"ok":false,"error":"timeout after 15s","latency_level":"n/a"}
+{"timestamp":"2026-10-15T15:36:10.627Z","name":"Python.org","url":"https://www.python.org","status_code":null,"latency_ms":23930.56,"ok":false,"error":"connection error (DNS failure or connection refused)","latency_level":"n/a"}
