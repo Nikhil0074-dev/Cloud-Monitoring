@@ -1,38 +1,38 @@
 {
   "Example.com": {
-    "consecutive_failures": 1,
-    "down_since": "2026-10-15T15:35:57.417Z",
-    "first_failure_ts": "2026-10-15T15:35:57.417Z",
+    "consecutive_failures": 0,
+    "down_since": null,
+    "first_failure_ts": null,
     "last_alert_ts": "2026-10-15T15:35:57.417Z",
-    "latency_level": "critical",
-    "status": "DOWN",
+    "latency_level": "ok",
+    "status": "UP",
     "uptime_breached": true
   },
   "GitHub API": {
-    "consecutive_failures": 3,
-    "down_since": "2026-10-15T15:34:56.670Z",
-    "first_failure_ts": "2026-10-15T15:34:56.670Z",
+    "consecutive_failures": 0,
+    "down_since": null,
+    "first_failure_ts": null,
     "last_alert_ts": "2026-10-15T15:34:56.670Z",
-    "latency_level": "critical",
-    "status": "DOWN",
+    "latency_level": "ok",
+    "status": "UP",
     "uptime_breached": true
   },
   "HTTPBin health": {
-    "consecutive_failures": 2,
-    "down_since": "2026-10-15T15:35:33.067Z",
-    "first_failure_ts": "2026-10-15T15:35:33.067Z",
+    "consecutive_failures": 0,
+    "down_since": null,
+    "first_failure_ts": null,
     "last_alert_ts": "2026-10-15T15:35:33.067Z",
-    "latency_level": "critical",
-    "status": "DOWN",
+    "latency_level": "warn",
+    "status": "UP",
     "uptime_breached": true
   },
   "Python.org": {
-    "consecutive_failures": 16,
-    "down_since": "2026-10-15T15:19:23.340Z",
-    "first_failure_ts": "2026-10-15T15:19:23.340Z",
+    "consecutive_failures": 0,
+    "down_since": null,
+    "first_failure_ts": null,
     "last_alert_ts": "2026-10-15T15:19:23.340Z",
-    "latency_level": "critical",
-    "status": "DOWN",
+    "latency_level": "ok",
+    "status": "UP",
     "uptime_breached": true
   }
 }

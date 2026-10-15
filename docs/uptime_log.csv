@@ -319,3 +319,7 @@ timestamp,name,url,status_code,latency_ms,ok,error,latency_level
 2026-10-15T15:35:58.449Z,GitHub API,https://api.github.com,,11754.5,False,timeout after 10s,n/a
 2026-10-15T15:36:05.454Z,HTTPBin health,https://httpbin.org/status/200,,18758.49,False,timeout after 15s,n/a
 2026-10-15T15:36:10.627Z,Python.org,https://www.python.org,,23930.56,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T20:04:00.533Z,Python.org,https://www.python.org,200,54.52,True,,ok
+2026-10-15T20:04:00.543Z,Example.com,https://example.com,200,65.62,True,,ok
+2026-10-15T20:04:00.651Z,GitHub API,https://api.github.com,200,174.58,True,,ok
+2026-10-15T20:04:02.368Z,HTTPBin health,https://httpbin.org/status/200,200,1891.07,True,,warn

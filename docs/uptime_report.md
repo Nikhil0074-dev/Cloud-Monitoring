@@ -1,23 +1,23 @@
 # Service Uptime Report
 
-_Generated 2026-10-15 15:36 UTC from 320 recorded checks._
+_Generated 2026-10-15 20:04 UTC from 324 recorded checks._
 
 ## Availability summary
 
 | Service | Now | Uptime 24h | Uptime 7d | Uptime all | Avg latency | p95 latency | Max latency | Checks (failed) |
 |---|---|---|---|---|---|---|---|---|
-| GitHub API | 🔴 DOWN | 67.50% | 67.50% | 67.50% | 9,205 ms | 20,351 ms | 22,467 ms | 80 (26) |
-| Example.com | 🔴 DOWN | 73.75% | 73.75% | 73.75% | 8,095 ms | 19,820 ms | 25,156 ms | 80 (21) |
-| HTTPBin health | 🔴 DOWN | 73.75% | 73.75% | 73.75% | 13,668 ms | 29,589 ms | 40,277 ms | 80 (21) |
-| Python.org | 🔴 DOWN | 66.25% | 66.25% | 66.25% | 11,663 ms | 27,130 ms | 50,678 ms | 80 (27) |
+| GitHub API | 🟢 UP | 69.86% | 67.90% | 67.90% | 9,041 ms | 20,351 ms | 22,467 ms | 81 (26) |
+| Example.com | 🟢 UP | 76.71% | 74.07% | 74.07% | 7,961 ms | 19,596 ms | 25,156 ms | 81 (21) |
+| HTTPBin health | 🟢 UP | 78.08% | 74.07% | 74.07% | 13,472 ms | 28,246 ms | 40,277 ms | 81 (21) |
+| Python.org | 🟢 UP | 68.49% | 66.67% | 66.67% | 11,448 ms | 27,130 ms | 50,678 ms | 81 (27) |
 
 ## Incidents
 
 | Service | Started (UTC) | Resolved (UTC) | Duration | Failed checks | Cause |
 |---|---|---|---|---|---|
-| Example.com | 2026-10-15T15:35:57.417Z | **ongoing** | 31s | 1 | timeout after 10s |
-| HTTPBin health | 2026-10-15T15:35:33.067Z | **ongoing** | 56s | 2 | timeout after 15s |
-| GitHub API | 2026-10-15T15:34:56.670Z | **ongoing** | 1m 32s | 3 | timeout after 10s |
+| Example.com | 2026-10-15T15:35:57.417Z | 2026-10-15T20:04:00.543Z | 4h 28m | 1 | timeout after 10s |
+| HTTPBin health | 2026-10-15T15:35:33.067Z | 2026-10-15T20:04:02.368Z | 4h 28m | 2 | timeout after 15s |
+| GitHub API | 2026-10-15T15:34:56.670Z | 2026-10-15T20:04:00.651Z | 4h 29m | 3 | timeout after 10s |
 | Example.com | 2026-10-15T15:34:19.729Z | 2026-10-15T15:34:47.747Z | 28s | 1 | timeout after 10s |
 | GitHub API | 2026-10-15T15:33:46.231Z | 2026-10-15T15:34:15.731Z | 30s | 1 | timeout after 10s |
 | HTTPBin health | 2026-10-15T15:33:05.455Z | 2026-10-15T15:33:40.004Z | 35s | 1 | timeout after 15s |
@@ -30,7 +30,7 @@ _Generated 2026-10-15 15:36 UTC from 320 recorded checks._
 | HTTPBin health | 2026-10-15T15:23:24.952Z | 2026-10-15T15:24:33.830Z | 1m 09s | 1 | connection error (DNS failure or connection refused) |
 | GitHub API | 2026-10-15T15:20:47.648Z | 2026-10-15T15:28:31.718Z | 7m 44s | 6 | timeout after 10s |
 | HTTPBin health | 2026-10-15T15:19:28.449Z | 2026-10-15T15:22:12.759Z | 2m 44s | 2 | timeout after 15s |
-| Python.org | 2026-10-15T15:19:23.340Z | **ongoing** | 17m 05s | 16 | connection error (DNS failure or connection refused) |
+| Python.org | 2026-10-15T15:19:23.340Z | 2026-10-15T20:04:00.533Z | 4h 44m | 16 | connection error (DNS failure or connection refused) |
 | HTTPBin health | 2026-10-15T15:15:46.934Z | 2026-10-15T15:17:03.717Z | 1m 17s | 1 | timeout after 15s |
 | Example.com | 2026-10-15T15:10:22.695Z | 2026-10-15T15:11:45.033Z | 1m 22s | 1 | connection error (DNS failure or connection refused) |
 | HTTPBin health | 2026-10-15T15:09:14.748Z | 2026-10-15T15:10:37.466Z | 1m 23s | 1 | timeout after 15s |
@@ -61,15 +61,19 @@ _Generated 2026-10-15 15:36 UTC from 320 recorded checks._
 
 ## Status codes observed
 
-- **GitHub API**: `200` × 54, `no response` × 26
-- **Example.com**: `200` × 59, `no response` × 21
-- **HTTPBin health**: `200` × 59, `no response` × 21
-- **Python.org**: `200` × 53, `no response` × 27
+- **GitHub API**: `200` × 55, `no response` × 26
+- **Example.com**: `200` × 60, `no response` × 21
+- **HTTPBin health**: `200` × 60, `no response` × 21
+- **Python.org**: `200` × 54, `no response` × 27
 
 ## Latest checks
 
 | Time (UTC) | Service | Status | Latency | Result |
 |---|---|---|---|---|
+| 2026-10-15T20:04:02.368Z | HTTPBin health | 200 | 1891 ms | OK |
+| 2026-10-15T20:04:00.651Z | GitHub API | 200 | 175 ms | OK |
+| 2026-10-15T20:04:00.543Z | Example.com | 200 | 66 ms | OK |
+| 2026-10-15T20:04:00.533Z | Python.org | 200 | 55 ms | OK |
 | 2026-10-15T15:36:10.627Z | Python.org | — | 23931 ms | FAIL: connection error (DNS failure or connection refused) |
 | 2026-10-15T15:36:05.454Z | HTTPBin health | — | 18758 ms | FAIL: timeout after 15s |
 | 2026-10-15T15:35:58.449Z | GitHub API | — | 11754 ms | FAIL: timeout after 10s |
@@ -81,7 +85,3 @@ _Generated 2026-10-15 15:36 UTC from 320 recorded checks._
 | 2026-10-15T15:35:06.907Z | Python.org | — | 22962 ms | FAIL: connection error (DNS failure or connection refused) |
 | 2026-10-15T15:34:56.670Z | GitHub API | — | 12728 ms | FAIL: timeout after 10s |
 | 2026-10-15T15:34:53.131Z | HTTPBin health | 200 | 9187 ms | OK |
-| 2026-10-15T15:34:47.747Z | Example.com | 200 | 3805 ms | OK |
-| 2026-10-15T15:34:33.894Z | Python.org | — | 27307 ms | FAIL: connection error (DNS failure or connection refused) |
-| 2026-10-15T15:34:23.789Z | HTTPBin health | 200 | 17204 ms | OK |
-| 2026-10-15T15:34:19.729Z | Example.com | — | 13146 ms | FAIL: timeout after 10s |
