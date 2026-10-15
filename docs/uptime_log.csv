@@ -1,0 +1,321 @@
+timestamp,name,url,status_code,latency_ms,ok,error,latency_level
+2026-10-14T15:38:31.845Z,Example.com,https://example.com,200,17509.55,True,,critical
+2026-10-14T15:38:36.801Z,GitHub API,https://api.github.com,200,22466.78,True,,critical
+2026-10-14T15:38:38.510Z,HTTPBin health,https://httpbin.org/status/200,,24174.44,False,timeout after 15s,n/a
+2026-10-14T15:39:05.014Z,Python.org,https://www.python.org,200,50677.89,True,,critical
+2026-10-14T15:39:39.984Z,Example.com,https://example.com,200,7177.35,True,,critical
+2026-10-14T15:39:45.090Z,GitHub API,https://api.github.com,200,12284.43,True,,critical
+2026-10-14T15:39:45.279Z,Python.org,https://www.python.org,200,12466.51,True,,critical
+2026-10-14T15:39:46.556Z,HTTPBin health,https://httpbin.org/status/200,200,13746.46,True,,critical
+2026-10-14T15:40:54.307Z,GitHub API,https://api.github.com,200,5850.62,True,,critical
+2026-10-14T15:40:54.311Z,Example.com,https://example.com,200,5832.41,True,,critical
+2026-10-14T15:40:54.334Z,Python.org,https://www.python.org,200,5810.59,True,,critical
+2026-10-14T15:40:56.649Z,HTTPBin health,https://httpbin.org/status/200,200,8141.54,True,,critical
+2026-10-14T15:42:11.575Z,Example.com,https://example.com,200,14606.01,True,,critical
+2026-10-14T15:42:13.258Z,GitHub API,https://api.github.com,200,16332.8,True,,critical
+2026-10-14T15:42:19.143Z,Python.org,https://www.python.org,200,22095.47,True,,critical
+2026-10-14T15:42:20.865Z,HTTPBin health,https://httpbin.org/status/200,200,23847.41,True,,critical
+2026-10-14T15:43:41.283Z,Example.com,https://example.com,,11336.3,False,connection error (DNS failure or connection refused),n/a
+2026-10-14T15:43:52.349Z,GitHub API,https://api.github.com,,22430.2,False,timeout after 10s,n/a
+2026-10-14T15:43:52.398Z,Python.org,https://www.python.org,,22390.26,False,timeout after 10s,n/a
+2026-10-14T15:43:57.271Z,HTTPBin health,https://httpbin.org/status/200,,27294.5,False,timeout after 15s,n/a
+2026-10-14T15:45:22.426Z,Example.com,https://example.com,,24921.43,False,connection error (DNS failure or connection refused),n/a
+2026-10-14T15:45:23.872Z,GitHub API,https://api.github.com,,26475.52,False,timeout after 10s,n/a
+2026-10-14T15:45:23.872Z,Python.org,https://www.python.org,,26339.9,False,timeout after 10s,n/a
+2026-10-14T15:45:29.040Z,HTTPBin health,https://httpbin.org/status/200,,31526.7,False,timeout after 15s,n/a
+2026-10-14T15:46:45.187Z,GitHub API,https://api.github.com,,16022.84,False,timeout after 10s,n/a
+2026-10-14T15:46:45.974Z,Example.com,https://example.com,,16781.7,False,timeout after 10s,n/a
+2026-10-14T15:46:55.194Z,Python.org,https://www.python.org,,25967.59,False,timeout after 10s,n/a
+2026-10-14T15:47:03.898Z,HTTPBin health,https://httpbin.org/status/200,,34679.1,False,timeout after 15s,n/a
+2026-10-14T15:48:22.858Z,Example.com,https://example.com,,18777.62,False,timeout after 10s,n/a
+2026-10-14T15:48:31.269Z,Python.org,https://www.python.org,,27160.57,False,timeout after 10s,n/a
+2026-10-14T15:48:31.314Z,GitHub API,https://api.github.com,,27256.6,False,timeout after 10s,n/a
+2026-10-14T15:48:36.496Z,HTTPBin health,https://httpbin.org/status/200,,32399.28,False,timeout after 15s,n/a
+2026-10-15T13:12:40.295Z,GitHub API,https://api.github.com,200,17527.43,True,,critical
+2026-10-15T13:12:40.346Z,Example.com,https://example.com,200,17578.09,True,,critical
+2026-10-15T13:12:43.937Z,Python.org,https://www.python.org,200,21167.59,True,,critical
+2026-10-15T13:12:46.912Z,HTTPBin health,https://httpbin.org/status/200,200,24143.88,True,,critical
+2026-10-15T13:13:05.296Z,GitHub API,https://api.github.com,,10026.44,False,timeout after 10s,n/a
+2026-10-15T13:13:15.311Z,Example.com,https://example.com,,20040.74,False,timeout after 10s,n/a
+2026-10-15T13:13:15.311Z,Python.org,https://www.python.org,,20039.69,False,timeout after 10s,n/a
+2026-10-15T13:13:24.860Z,HTTPBin health,https://httpbin.org/status/200,200,29589.11,True,,critical
+2026-10-15T13:14:38.960Z,Example.com,https://example.com,,14064.95,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T13:14:44.821Z,GitHub API,https://api.github.com,200,19927.19,True,,critical
+2026-10-15T13:14:46.075Z,Python.org,https://www.python.org,200,21175.11,True,,critical
+2026-10-15T13:14:48.725Z,HTTPBin health,https://httpbin.org/status/200,200,23826.66,True,,critical
+2026-10-15T13:15:50.303Z,Python.org,https://www.python.org,200,1534.97,True,,warn
+2026-10-15T13:15:58.957Z,GitHub API,https://api.github.com,,10204.0,False,timeout after 10s,n/a
+2026-10-15T13:16:00.857Z,HTTPBin health,https://httpbin.org/status/200,,12096.37,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T13:16:03.538Z,Example.com,https://example.com,200,14783.97,True,,critical
+2026-10-15T13:17:12.856Z,Example.com,https://example.com,200,8621.77,True,,critical
+2026-10-15T13:17:14.200Z,Python.org,https://www.python.org,200,9928.37,True,,critical
+2026-10-15T13:17:14.300Z,GitHub API,https://api.github.com,200,10089.88,True,,critical
+2026-10-15T13:17:17.152Z,HTTPBin health,https://httpbin.org/status/200,200,12910.84,True,,critical
+2026-10-15T13:18:24.553Z,Example.com,https://example.com,200,6160.5,True,,critical
+2026-10-15T13:18:26.429Z,GitHub API,https://api.github.com,200,8063.89,True,,critical
+2026-10-15T13:18:26.705Z,Python.org,https://www.python.org,200,8272.28,True,,critical
+2026-10-15T13:18:28.844Z,HTTPBin health,https://httpbin.org/status/200,200,10423.47,True,,critical
+2026-10-15T13:19:31.055Z,Example.com,https://example.com,200,1998.51,True,,warn
+2026-10-15T13:19:31.065Z,GitHub API,https://api.github.com,200,2029.91,True,,warn
+2026-10-15T13:19:31.154Z,Python.org,https://www.python.org,200,2019.1,True,,warn
+2026-10-15T13:19:34.355Z,HTTPBin health,https://httpbin.org/status/200,200,5226.67,True,,critical
+2026-10-15T13:20:46.855Z,Example.com,https://example.com,200,12386.35,True,,critical
+2026-10-15T13:20:46.920Z,GitHub API,https://api.github.com,200,12460.97,True,,critical
+2026-10-15T13:20:47.081Z,Python.org,https://www.python.org,200,12599.49,True,,critical
+2026-10-15T13:20:47.937Z,HTTPBin health,https://httpbin.org/status/200,200,13463.89,True,,critical
+2026-10-15T13:21:51.732Z,Example.com,https://example.com,200,3658.53,True,,critical
+2026-10-15T13:21:52.157Z,GitHub API,https://api.github.com,200,4108.8,True,,critical
+2026-10-15T13:21:52.244Z,Python.org,https://www.python.org,200,4108.38,True,,critical
+2026-10-15T13:21:54.453Z,HTTPBin health,https://httpbin.org/status/200,200,6363.74,True,,critical
+2026-10-15T13:22:56.367Z,Example.com,https://example.com,200,1774.71,True,,warn
+2026-10-15T13:22:56.588Z,GitHub API,https://api.github.com,200,2015.57,True,,warn
+2026-10-15T13:22:56.591Z,Python.org,https://www.python.org,200,1986.92,True,,warn
+2026-10-15T13:22:57.828Z,HTTPBin health,https://httpbin.org/status/200,200,3234.21,True,,critical
+2026-10-15T13:38:28.451Z,Python.org,https://www.python.org,200,1782.4,True,,warn
+2026-10-15T13:38:28.479Z,Example.com,https://example.com,200,1845.02,True,,warn
+2026-10-15T13:38:28.518Z,GitHub API,https://api.github.com,200,1908.21,True,,warn
+2026-10-15T13:38:29.250Z,HTTPBin health,https://httpbin.org/status/200,200,2593.59,True,,warn
+2026-10-15T13:39:31.961Z,Example.com,https://example.com,200,1852.86,True,,warn
+2026-10-15T13:39:32.018Z,Python.org,https://www.python.org,200,1876.08,True,,warn
+2026-10-15T13:39:32.142Z,GitHub API,https://api.github.com,200,2059.98,True,,warn
+2026-10-15T13:39:33.166Z,HTTPBin health,https://httpbin.org/status/200,200,3028.83,True,,critical
+2026-10-15T13:40:47.608Z,HTTPBin health,https://httpbin.org/status/200,,11544.72,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T13:40:47.609Z,GitHub API,https://api.github.com,,11616.41,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T13:40:47.614Z,Python.org,https://www.python.org,,11546.94,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T13:40:47.615Z,Example.com,https://example.com,,11595.04,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T13:41:52.868Z,Example.com,https://example.com,200,5042.37,True,,critical
+2026-10-15T13:41:52.937Z,GitHub API,https://api.github.com,200,5137.37,True,,critical
+2026-10-15T13:41:52.942Z,Python.org,https://www.python.org,200,5063.97,True,,critical
+2026-10-15T13:41:53.625Z,HTTPBin health,https://httpbin.org/status/200,200,5784.81,True,,critical
+2026-10-15T13:43:08.900Z,GitHub API,https://api.github.com,200,15118.01,True,,critical
+2026-10-15T13:43:08.903Z,Example.com,https://example.com,200,15025.82,True,,critical
+2026-10-15T13:43:08.912Z,Python.org,https://www.python.org,200,14998.88,True,,critical
+2026-10-15T13:43:10.463Z,HTTPBin health,https://httpbin.org/status/200,200,16556.49,True,,critical
+2026-10-15T13:44:14.893Z,Example.com,https://example.com,200,4228.84,True,,critical
+2026-10-15T13:44:17.495Z,GitHub API,https://api.github.com,200,6854.32,True,,critical
+2026-10-15T13:44:17.630Z,Python.org,https://www.python.org,200,6928.19,True,,critical
+2026-10-15T13:44:19.649Z,HTTPBin health,https://httpbin.org/status/200,200,8975.58,True,,critical
+2026-10-15T13:45:22.502Z,Example.com,https://example.com,200,2304.36,True,,warn
+2026-10-15T13:45:22.505Z,GitHub API,https://api.github.com,200,2443.69,True,,warn
+2026-10-15T13:45:22.610Z,Python.org,https://www.python.org,200,2240.87,True,,warn
+2026-10-15T13:45:23.409Z,HTTPBin health,https://httpbin.org/status/200,200,3106.95,True,,critical
+2026-10-15T13:46:26.882Z,Python.org,https://www.python.org,200,1764.05,True,,warn
+2026-10-15T13:46:26.892Z,Example.com,https://example.com,200,1882.59,True,,warn
+2026-10-15T13:46:26.924Z,GitHub API,https://api.github.com,200,1936.22,True,,warn
+2026-10-15T13:46:28.135Z,HTTPBin health,https://httpbin.org/status/200,200,3095.26,True,,critical
+2026-10-15T13:47:31.941Z,Example.com,https://example.com,200,2434.59,True,,warn
+2026-10-15T13:47:32.014Z,GitHub API,https://api.github.com,200,2529.39,True,,warn
+2026-10-15T13:47:32.194Z,Python.org,https://www.python.org,200,2666.91,True,,warn
+2026-10-15T13:47:33.013Z,HTTPBin health,https://httpbin.org/status/200,200,3486.63,True,,critical
+2026-10-15T13:48:45.520Z,Example.com,https://example.com,200,11769.11,True,,critical
+2026-10-15T13:48:52.603Z,GitHub API,https://api.github.com,200,18879.28,True,,critical
+2026-10-15T13:48:58.927Z,Python.org,https://www.python.org,200,25113.8,True,,critical
+2026-10-15T13:49:02.020Z,HTTPBin health,https://httpbin.org/status/200,200,28246.19,True,,critical
+2026-10-15T13:50:20.045Z,GitHub API,https://api.github.com,200,17795.39,True,,critical
+2026-10-15T13:50:21.270Z,Example.com,https://example.com,,18988.91,False,timeout after 10s,n/a
+2026-10-15T13:50:25.257Z,Python.org,https://www.python.org,200,22911.79,True,,critical
+2026-10-15T13:50:27.993Z,HTTPBin health,https://httpbin.org/status/200,200,25678.01,True,,critical
+2026-10-15T13:51:39.076Z,Example.com,https://example.com,200,10931.93,True,,critical
+2026-10-15T13:51:39.665Z,GitHub API,https://api.github.com,200,11536.32,True,,critical
+2026-10-15T13:51:41.741Z,Python.org,https://www.python.org,200,13567.02,True,,critical
+2026-10-15T13:51:43.491Z,HTTPBin health,https://httpbin.org/status/200,200,15346.3,True,,critical
+2026-10-15T13:52:51.569Z,Example.com,https://example.com,200,5882.9,True,,critical
+2026-10-15T13:52:52.664Z,GitHub API,https://api.github.com,200,7001.81,True,,critical
+2026-10-15T13:52:55.688Z,Python.org,https://www.python.org,200,9957.38,True,,critical
+2026-10-15T13:52:58.141Z,HTTPBin health,https://httpbin.org/status/200,200,12438.7,True,,critical
+2026-10-15T13:54:00.373Z,Example.com,https://example.com,200,2056.92,True,,warn
+2026-10-15T13:54:00.406Z,GitHub API,https://api.github.com,200,2121.75,True,,warn
+2026-10-15T13:54:00.548Z,Python.org,https://www.python.org,200,2213.99,True,,warn
+2026-10-15T13:54:01.251Z,HTTPBin health,https://httpbin.org/status/200,200,2925.46,True,,warn
+2026-10-15T13:55:03.483Z,Example.com,https://example.com,200,2098.5,True,,warn
+2026-10-15T13:55:04.189Z,GitHub API,https://api.github.com,200,2805.96,True,,warn
+2026-10-15T13:55:04.316Z,Python.org,https://www.python.org,200,2928.07,True,,warn
+2026-10-15T13:55:05.540Z,HTTPBin health,https://httpbin.org/status/200,200,4153.74,True,,critical
+2026-10-15T13:56:18.752Z,Example.com,https://example.com,200,13148.33,True,,critical
+2026-10-15T13:56:21.576Z,GitHub API,https://api.github.com,200,15974.95,True,,critical
+2026-10-15T13:56:22.468Z,HTTPBin health,https://httpbin.org/status/200,200,16863.32,True,,critical
+2026-10-15T13:56:24.171Z,Python.org,https://www.python.org,200,18562.82,True,,critical
+2026-10-15T13:57:27.291Z,Example.com,https://example.com,200,2973.8,True,,warn
+2026-10-15T13:57:30.083Z,GitHub API,https://api.github.com,200,5798.28,True,,critical
+2026-10-15T13:57:31.764Z,Python.org,https://www.python.org,200,7352.77,True,,critical
+2026-10-15T13:57:32.277Z,HTTPBin health,https://httpbin.org/status/200,200,7880.79,True,,critical
+2026-10-15T13:58:40.118Z,Example.com,https://example.com,200,7765.45,True,,critical
+2026-10-15T13:58:41.329Z,GitHub API,https://api.github.com,200,8977.4,True,,critical
+2026-10-15T13:58:41.977Z,Python.org,https://www.python.org,200,9620.51,True,,critical
+2026-10-15T13:58:45.636Z,HTTPBin health,https://httpbin.org/status/200,200,13281.34,True,,critical
+2026-10-15T13:59:47.883Z,Python.org,https://www.python.org,200,2102.83,True,,warn
+2026-10-15T13:59:47.897Z,Example.com,https://example.com,200,2161.06,True,,warn
+2026-10-15T13:59:47.897Z,GitHub API,https://api.github.com,200,2183.07,True,,warn
+2026-10-15T13:59:48.705Z,HTTPBin health,https://httpbin.org/status/200,200,2944.84,True,,warn
+2026-10-15T14:00:50.903Z,GitHub API,https://api.github.com,200,2066.85,True,,warn
+2026-10-15T14:00:50.905Z,Example.com,https://example.com,200,2063.68,True,,warn
+2026-10-15T14:00:51.597Z,Python.org,https://www.python.org,200,2748.92,True,,warn
+2026-10-15T14:00:52.364Z,HTTPBin health,https://httpbin.org/status/200,200,3519.26,True,,critical
+2026-10-15T14:01:56.033Z,GitHub API,https://api.github.com,200,3445.32,True,,critical
+2026-10-15T14:01:56.077Z,Example.com,https://example.com,200,3407.88,True,,critical
+2026-10-15T14:01:56.081Z,Python.org,https://www.python.org,200,3426.16,True,,critical
+2026-10-15T14:01:56.835Z,HTTPBin health,https://httpbin.org/status/200,200,4198.44,True,,critical
+2026-10-15T14:02:31.503Z,Example.com,https://example.com,200,2586.35,True,,warn
+2026-10-15T14:02:31.603Z,GitHub API,https://api.github.com,200,2687.01,True,,warn
+2026-10-15T14:02:31.703Z,Python.org,https://www.python.org,200,2785.68,True,,warn
+2026-10-15T14:02:32.018Z,HTTPBin health,https://httpbin.org/status/200,200,3101.28,True,,critical
+2026-10-15T14:02:44.779Z,Example.com,https://example.com,200,2363.6,True,,warn
+2026-10-15T14:02:44.978Z,Python.org,https://www.python.org,200,2555.45,True,,warn
+2026-10-15T14:02:44.983Z,GitHub API,https://api.github.com,200,2569.53,True,,warn
+2026-10-15T14:02:46.343Z,HTTPBin health,https://httpbin.org/status/200,200,3921.26,True,,critical
+2026-10-15T14:02:57.711Z,Example.com,https://example.com,200,1328.66,True,,ok
+2026-10-15T14:02:57.730Z,GitHub API,https://api.github.com,200,1348.87,True,,ok
+2026-10-15T14:02:57.825Z,Python.org,https://www.python.org,200,1438.83,True,,ok
+2026-10-15T14:02:58.814Z,HTTPBin health,https://httpbin.org/status/200,200,2430.49,True,,warn
+2026-10-15T14:03:10.478Z,GitHub API,https://api.github.com,200,1578.92,True,,warn
+2026-10-15T14:03:10.579Z,Example.com,https://example.com,200,1679.07,True,,warn
+2026-10-15T14:03:11.117Z,Python.org,https://www.python.org,200,2213.86,True,,warn
+2026-10-15T14:03:11.515Z,HTTPBin health,https://httpbin.org/status/200,200,2612.93,True,,warn
+2026-10-15T14:03:24.550Z,GitHub API,https://api.github.com,200,2977.88,True,,warn
+2026-10-15T14:03:24.556Z,Example.com,https://example.com,200,2982.61,True,,warn
+2026-10-15T14:03:24.560Z,Python.org,https://www.python.org,200,2981.74,True,,warn
+2026-10-15T14:03:26.599Z,HTTPBin health,https://httpbin.org/status/200,200,5023.22,True,,critical
+2026-10-15T14:51:27.062Z,GitHub API,https://api.github.com,200,12369.07,True,,critical
+2026-10-15T14:51:27.206Z,Example.com,https://example.com,200,12512.82,True,,critical
+2026-10-15T14:51:31.737Z,Python.org,https://www.python.org,200,17042.07,True,,critical
+2026-10-15T14:51:37.458Z,HTTPBin health,https://httpbin.org/status/200,200,22764.46,True,,critical
+2026-10-15T14:51:57.451Z,Example.com,https://example.com,200,12084.57,True,,critical
+2026-10-15T14:52:00.048Z,GitHub API,https://api.github.com,200,14682.02,True,,critical
+2026-10-15T14:52:03.791Z,Python.org,https://www.python.org,200,18422.83,True,,critical
+2026-10-15T14:52:04.968Z,HTTPBin health,https://httpbin.org/status/200,200,19601.07,True,,critical
+2026-10-15T14:53:21.474Z,Example.com,https://example.com,200,16465.06,True,,critical
+2026-10-15T14:53:25.713Z,HTTPBin health,https://httpbin.org/status/200,,20700.7,False,timeout after 15s,n/a
+2026-10-15T14:53:26.252Z,GitHub API,https://api.github.com,200,21245.44,True,,critical
+2026-10-15T14:53:35.084Z,Python.org,https://www.python.org,200,30069.4,True,,critical
+2026-10-15T14:54:46.903Z,Example.com,https://example.com,200,11763.79,True,,critical
+2026-10-15T14:54:53.550Z,Python.org,https://www.python.org,,18407.62,False,timeout after 10s,n/a
+2026-10-15T14:54:53.565Z,GitHub API,https://api.github.com,,18426.2,False,timeout after 10s,n/a
+2026-10-15T14:54:58.622Z,HTTPBin health,https://httpbin.org/status/200,,23481.3,False,timeout after 15s,n/a
+2026-10-15T14:55:41.423Z,Example.com,https://example.com,200,10777.3,True,,critical
+2026-10-15T14:55:42.771Z,GitHub API,https://api.github.com,200,12125.69,True,,critical
+2026-10-15T14:55:46.244Z,Python.org,https://www.python.org,200,15597.73,True,,critical
+2026-10-15T14:55:51.037Z,HTTPBin health,https://httpbin.org/status/200,200,20390.44,True,,critical
+2026-10-15T14:58:56.766Z,Example.com,https://example.com,,14129.37,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T14:59:07.155Z,Python.org,https://www.python.org,,24518.01,False,timeout after 10s,n/a
+2026-10-15T14:59:07.342Z,GitHub API,https://api.github.com,,24706.41,False,timeout after 10s,n/a
+2026-10-15T14:59:12.443Z,HTTPBin health,https://httpbin.org/status/200,,29806.25,False,timeout after 15s,n/a
+2026-10-15T15:00:41.891Z,Example.com,https://example.com,,29301.74,False,timeout after 10s,n/a
+2026-10-15T15:00:47.033Z,Python.org,https://www.python.org,,34415.8,False,timeout after 10s,n/a
+2026-10-15T15:00:47.034Z,GitHub API,https://api.github.com,,34470.08,False,timeout after 10s,n/a
+2026-10-15T15:00:48.099Z,HTTPBin health,https://httpbin.org/status/200,200,35504.44,True,,critical
+2026-10-15T15:02:06.678Z,GitHub API,https://api.github.com,,16155.95,False,SSL error: SSLError,n/a
+2026-10-15T15:02:10.026Z,Example.com,https://example.com,,19481.31,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:02:11.549Z,Python.org,https://www.python.org,200,20884.76,True,,critical
+2026-10-15T15:02:13.922Z,HTTPBin health,https://httpbin.org/status/200,200,23308.35,True,,critical
+2026-10-15T15:03:31.183Z,Example.com,https://example.com,,16137.43,False,timeout after 10s,n/a
+2026-10-15T15:03:35.174Z,GitHub API,https://api.github.com,200,20210.22,True,,critical
+2026-10-15T15:03:40.369Z,Python.org,https://www.python.org,200,25151.22,True,,critical
+2026-10-15T15:03:41.844Z,HTTPBin health,https://httpbin.org/status/200,200,26686.84,True,,critical
+2026-10-15T15:04:49.038Z,Example.com,https://example.com,200,6993.39,True,,critical
+2026-10-15T15:04:49.604Z,GitHub API,https://api.github.com,200,7593.1,True,,critical
+2026-10-15T15:04:53.123Z,Python.org,https://www.python.org,200,11044.74,True,,critical
+2026-10-15T15:04:54.265Z,HTTPBin health,https://httpbin.org/status/200,200,12207.16,True,,critical
+2026-10-15T15:06:14.807Z,Example.com,https://example.com,200,20319.86,True,,critical
+2026-10-15T15:06:14.814Z,GitHub API,https://api.github.com,200,20351.13,True,,critical
+2026-10-15T15:06:17.158Z,Python.org,https://www.python.org,200,22631.57,True,,critical
+2026-10-15T15:06:21.219Z,HTTPBin health,https://httpbin.org/status/200,200,26723.32,True,,critical
+2026-10-15T15:07:40.850Z,GitHub API,https://api.github.com,,19359.84,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:07:41.388Z,Example.com,https://example.com,200,19819.51,True,,critical
+2026-10-15T15:07:41.730Z,HTTPBin health,https://httpbin.org/status/200,200,20065.51,True,,critical
+2026-10-15T15:07:48.909Z,Python.org,https://www.python.org,200,27130.26,True,,critical
+2026-10-15T15:09:06.861Z,Example.com,https://example.com,200,17863.17,True,,critical
+2026-10-15T15:09:09.473Z,GitHub API,https://api.github.com,,20476.44,False,timeout after 10s,n/a
+2026-10-15T15:09:09.534Z,Python.org,https://www.python.org,,20532.02,False,timeout after 10s,n/a
+2026-10-15T15:09:14.748Z,HTTPBin health,https://httpbin.org/status/200,,25747.92,False,timeout after 15s,n/a
+2026-10-15T15:10:22.695Z,Example.com,https://example.com,,7907.74,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:10:33.320Z,GitHub API,https://api.github.com,,18533.82,False,timeout after 10s,n/a
+2026-10-15T15:10:33.321Z,Python.org,https://www.python.org,,18529.69,False,timeout after 10s,n/a
+2026-10-15T15:10:37.466Z,HTTPBin health,https://httpbin.org/status/200,200,22675.81,True,,critical
+2026-10-15T15:11:45.033Z,Example.com,https://example.com,200,7525.66,True,,critical
+2026-10-15T15:11:45.115Z,GitHub API,https://api.github.com,200,7609.66,True,,critical
+2026-10-15T15:11:45.202Z,Python.org,https://www.python.org,200,7691.14,True,,critical
+2026-10-15T15:11:48.249Z,HTTPBin health,https://httpbin.org/status/200,200,10739.79,True,,critical
+2026-10-15T15:13:05.525Z,Example.com,https://example.com,200,17230.35,True,,critical
+2026-10-15T15:13:06.428Z,GitHub API,https://api.github.com,200,18134.2,True,,critical
+2026-10-15T15:13:09.117Z,HTTPBin health,https://httpbin.org/status/200,200,20821.02,True,,critical
+2026-10-15T15:13:09.276Z,Python.org,https://www.python.org,200,20979.53,True,,critical
+2026-10-15T15:14:16.601Z,Example.com,https://example.com,200,7275.96,True,,critical
+2026-10-15T15:14:20.573Z,GitHub API,https://api.github.com,200,11250.62,True,,critical
+2026-10-15T15:14:22.235Z,HTTPBin health,https://httpbin.org/status/200,200,12908.93,True,,critical
+2026-10-15T15:14:25.989Z,Python.org,https://www.python.org,200,16659.68,True,,critical
+2026-10-15T15:15:35.008Z,Example.com,https://example.com,200,8973.16,True,,critical
+2026-10-15T15:15:41.727Z,GitHub API,https://api.github.com,200,15693.58,True,,critical
+2026-10-15T15:15:44.000Z,Python.org,https://www.python.org,200,17961.64,True,,critical
+2026-10-15T15:15:46.934Z,HTTPBin health,https://httpbin.org/status/200,,20896.93,False,timeout after 15s,n/a
+2026-10-15T15:17:00.818Z,Example.com,https://example.com,200,13826.9,True,,critical
+2026-10-15T15:17:01.651Z,GitHub API,https://api.github.com,200,14669.49,True,,critical
+2026-10-15T15:17:03.581Z,Python.org,https://www.python.org,200,16574.91,True,,critical
+2026-10-15T15:17:03.717Z,HTTPBin health,https://httpbin.org/status/200,200,16714.56,True,,critical
+2026-10-15T15:18:08.768Z,Example.com,https://example.com,200,5002.43,True,,critical
+2026-10-15T15:18:10.378Z,GitHub API,https://api.github.com,200,6613.09,True,,critical
+2026-10-15T15:18:10.441Z,Python.org,https://www.python.org,200,6673.01,True,,critical
+2026-10-15T15:18:12.385Z,HTTPBin health,https://httpbin.org/status/200,200,8617.5,True,,critical
+2026-10-15T15:19:19.195Z,Example.com,https://example.com,200,6765.98,True,,critical
+2026-10-15T15:19:20.661Z,GitHub API,https://api.github.com,200,8233.11,True,,critical
+2026-10-15T15:19:23.340Z,Python.org,https://www.python.org,,10909.02,False,timeout after 10s,n/a
+2026-10-15T15:19:28.449Z,HTTPBin health,https://httpbin.org/status/200,,16019.07,False,timeout after 15s,n/a
+2026-10-15T15:20:33.366Z,Example.com,https://example.com,200,4720.61,True,,critical
+2026-10-15T15:20:40.714Z,HTTPBin health,https://httpbin.org/status/200,,12067.67,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:20:40.714Z,Python.org,https://www.python.org,,12065.22,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:20:47.648Z,GitHub API,https://api.github.com,,19003.64,False,timeout after 10s,n/a
+2026-10-15T15:22:02.654Z,GitHub API,https://api.github.com,,14960.7,False,timeout after 10s,n/a
+2026-10-15T15:22:08.573Z,Python.org,https://www.python.org,,20876.53,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:22:12.759Z,HTTPBin health,https://httpbin.org/status/200,200,25063.25,True,,critical
+2026-10-15T15:22:12.850Z,Example.com,https://example.com,200,25156.15,True,,critical
+2026-10-15T15:23:24.937Z,GitHub API,https://api.github.com,,12039.7,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:23:24.952Z,HTTPBin health,https://httpbin.org/status/200,,12050.75,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:23:24.952Z,Python.org,https://www.python.org,,12049.26,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:23:27.557Z,Example.com,https://example.com,,14658.47,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:24:29.662Z,Example.com,https://example.com,200,2050.99,True,,warn
+2026-10-15T15:24:33.830Z,HTTPBin health,https://httpbin.org/status/200,200,6216.87,True,,critical
+2026-10-15T15:24:38.509Z,GitHub API,https://api.github.com,,10899.12,False,timeout after 10s,n/a
+2026-10-15T15:24:38.525Z,Python.org,https://www.python.org,,10910.37,False,timeout after 10s,n/a
+2026-10-15T15:25:49.409Z,Example.com,https://example.com,,10840.85,False,timeout after 10s,n/a
+2026-10-15T15:25:49.425Z,GitHub API,https://api.github.com,,10857.79,False,timeout after 10s,n/a
+2026-10-15T15:25:54.583Z,HTTPBin health,https://httpbin.org/status/200,,16014.04,False,timeout after 15s,n/a
+2026-10-15T15:25:58.834Z,Python.org,https://www.python.org,,20263.66,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:27:10.929Z,GitHub API,https://api.github.com,,12054.87,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:27:10.929Z,Python.org,https://www.python.org,,12052.09,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:27:18.652Z,Example.com,https://example.com,,19776.98,False,timeout after 10s,n/a
+2026-10-15T15:27:26.734Z,HTTPBin health,https://httpbin.org/status/200,200,27858.17,True,,critical
+2026-10-15T15:28:29.587Z,Example.com,https://example.com,200,2796.65,True,,warn
+2026-10-15T15:28:31.718Z,GitHub API,https://api.github.com,200,4930.38,True,,critical
+2026-10-15T15:28:39.631Z,Python.org,https://www.python.org,,12838.16,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:28:45.670Z,HTTPBin health,https://httpbin.org/status/200,,18878.32,False,timeout after 15s,n/a
+2026-10-15T15:29:56.526Z,GitHub API,https://api.github.com,,10805.87,False,timeout after 10s,n/a
+2026-10-15T15:29:58.220Z,Example.com,https://example.com,,12495.28,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:30:01.753Z,HTTPBin health,https://httpbin.org/status/200,,16026.95,False,timeout after 15s,n/a
+2026-10-15T15:30:08.903Z,Python.org,https://www.python.org,,23175.34,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:31:26.817Z,GitHub API,https://api.github.com,,17868.96,False,timeout after 10s,n/a
+2026-10-15T15:31:27.191Z,Example.com,https://example.com,,18241.63,False,timeout after 10s,n/a
+2026-10-15T15:31:36.861Z,Python.org,https://www.python.org,,27908.52,False,timeout after 10s,n/a
+2026-10-15T15:31:49.228Z,HTTPBin health,https://httpbin.org/status/200,200,40277.11,True,,critical
+2026-10-15T15:33:00.389Z,Example.com,https://example.com,,11063.5,False,timeout after 10s,n/a
+2026-10-15T15:33:00.632Z,GitHub API,https://api.github.com,200,11313.75,True,,critical
+2026-10-15T15:33:05.455Z,HTTPBin health,https://httpbin.org/status/200,,16128.75,False,timeout after 15s,n/a
+2026-10-15T15:33:08.529Z,Python.org,https://www.python.org,,19196.58,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:33:37.621Z,Example.com,https://example.com,200,2382.75,True,,warn
+2026-10-15T15:33:40.004Z,HTTPBin health,https://httpbin.org/status/200,200,4765.16,True,,critical
+2026-10-15T15:33:46.231Z,GitHub API,https://api.github.com,,10993.88,False,timeout after 10s,n/a
+2026-10-15T15:33:56.509Z,Python.org,https://www.python.org,,21270.11,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:34:15.731Z,GitHub API,https://api.github.com,200,9148.34,True,,critical
+2026-10-15T15:34:19.729Z,Example.com,https://example.com,,13145.67,False,timeout after 10s,n/a
+2026-10-15T15:34:23.789Z,HTTPBin health,https://httpbin.org/status/200,200,17204.04,True,,critical
+2026-10-15T15:34:33.894Z,Python.org,https://www.python.org,,27307.48,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:34:47.747Z,Example.com,https://example.com,200,3804.87,True,,critical
+2026-10-15T15:34:53.131Z,HTTPBin health,https://httpbin.org/status/200,200,9187.18,True,,critical
+2026-10-15T15:34:56.670Z,GitHub API,https://api.github.com,,12728.27,False,timeout after 10s,n/a
+2026-10-15T15:35:06.907Z,Python.org,https://www.python.org,,22962.23,False,connection error (DNS failure or connection refused),n/a
+2026-10-15T15:35:27.928Z,GitHub API,https://api.github.com,,10888.92,False,timeout after 10s,n/a
+2026-10-15T15:35:28.007Z,Python.org,https://www.python.org,,10964.52,False,timeout after 10s,n/a
+2026-10-15T15:35:33.067Z,HTTPBin health,https://httpbin.org/status/200,,16025.37,False,timeout after 15s,n/a
+2026-10-15T15:35:36.636Z,Example.com,https://example.com,200,19595.79,True,,critical
+2026-10-15T15:35:57.417Z,Example.com,https://example.com,,10722.45,False,timeout after 10s,n/a
+2026-10-15T15:35:58.449Z,GitHub API,https://api.github.com,,11754.5,False,timeout after 10s,n/a
+2026-10-15T15:36:05.454Z,HTTPBin health,https://httpbin.org/status/200,,18758.49,False,timeout after 15s,n/a
+2026-10-15T15:36:10.627Z,Python.org,https://www.python.org,,23930.56,False,connection error (DNS failure or connection refused),n/a

@@ -1,0 +1,49 @@
+
+=== 1. Normal operation (3 checks) ===
+2026-10-14T06:10:41.753Z | UP   | Orders API               | HTTP 200 |      4.29 ms
+2026-10-14T06:10:41.752Z | UP   | Auth API                 | HTTP 200 |      1.91 ms
+2026-10-14T06:10:42.160Z | UP   | Orders API               | HTTP 200 |      4.19 ms
+2026-10-14T06:10:42.160Z | UP   | Auth API                 | HTTP 200 |      2.89 ms
+2026-10-14T06:10:42.565Z | UP   | Orders API               | HTTP 200 |      3.13 ms
+2026-10-14T06:10:42.564Z | UP   | Auth API                 | HTTP 200 |      1.76 ms
+
+=== 2. SIMULATED OUTAGE: Orders API returns 503 ===
+2026-10-14T06:10:42.970Z | DOWN | Orders API               | HTTP 503 |      2.75 ms  (unexpected status 503 (expected [200]))
+2026-10-14T06:10:42.971Z | UP   | Auth API                 | HTTP 200 |      3.16 ms
+🔴 [CRITICAL] DOWN | Orders API is DOWN: unexpected status 503 (expected [200]) (1 consecutive failed check(s)) | 2026-10-14T06:10:42.970Z
+2026-10-14T06:10:43.378Z | DOWN | Orders API               | HTTP 503 |      3.67 ms  (unexpected status 503 (expected [200]))
+2026-10-14T06:10:43.378Z | UP   | Auth API                 | HTTP 200 |      2.46 ms
+2026-10-14T06:10:43.784Z | DOWN | Orders API               | HTTP 503 |      3.65 ms  (unexpected status 503 (expected [200]))
+2026-10-14T06:10:43.784Z | UP   | Auth API                 | HTTP 200 |      2.73 ms
+
+=== 3. Service restored ===
+2026-10-14T06:10:44.191Z | UP   | Orders API               | HTTP 200 |      3.66 ms
+2026-10-14T06:10:44.192Z | UP   | Auth API                 | HTTP 200 |      2.86 ms
+🟢 [INFO] RECOVERED | Orders API has RECOVERED after 1s of downtime (HTTP 200, 4 ms) | 2026-10-14T06:10:44.191Z
+2026-10-14T06:10:44.600Z | UP   | Orders API               | HTTP 200 |      3.71 ms
+2026-10-14T06:10:44.599Z | UP   | Auth API                 | HTTP 200 |      3.25 ms
+
+=== 4. Degraded: Orders API slow (~1000 ms) ===
+2026-10-14T06:10:46.005Z | UP   | Orders API               | HTTP 200 |   1002.85 ms
+2026-10-14T06:10:45.005Z | UP   | Auth API                 | HTTP 200 |      2.27 ms
+🟠 [WARNING] LATENCY_WARN | Orders API latency 1003 ms exceeds warning threshold 800 ms | 2026-10-14T06:10:46.005Z
+2026-10-14T06:10:47.414Z | UP   | Orders API               | HTTP 200 |   1003.35 ms
+2026-10-14T06:10:46.413Z | UP   | Auth API                 | HTTP 200 |      2.18 ms
+🟠 [WARNING] UPTIME_BREACH | Orders API rolling uptime 70.00% is below the 99.0% target (last 10 checks) | 2026-10-14T06:10:47.414Z
+
+=== 5. Critically slow (~2300 ms) ===
+2026-10-14T06:10:50.121Z | UP   | Orders API               | HTTP 200 |   2303.55 ms
+2026-10-14T06:10:47.820Z | UP   | Auth API                 | HTTP 200 |      1.77 ms
+🔴 [CRITICAL] LATENCY_CRITICAL | Orders API latency 2304 ms exceeds critical threshold 2000 ms | 2026-10-14T06:10:50.121Z
+
+=== 6. Back to normal ===
+2026-10-14T06:10:50.329Z | UP   | Orders API               | HTTP 200 |      2.61 ms
+2026-10-14T06:10:50.329Z | UP   | Auth API                 | HTTP 200 |      2.75 ms
+🟢 [INFO] LATENCY_RECOVERED | Orders API latency back to normal (3 ms) | 2026-10-14T06:10:50.329Z
+2026-10-14T06:10:50.736Z | UP   | Orders API               | HTTP 200 |      3.00 ms
+2026-10-14T06:10:50.736Z | UP   | Auth API                 | HTTP 200 |      1.91 ms
+
+=== Summary ===
+26 checks logged -> demo_output/uptime_log.jsonl
+6 webhook notifications captured -> demo_output/webhook_payloads.jsonl
+Report -> demo_output/report/index.html
