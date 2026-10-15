@@ -1,0 +1,2305 @@
+timestamp,name,url,status_code,latency_ms,ok,error,latency_level
+2026-10-12T12:05:00.155Z,Example.com,https://example.com,200,99.47,True,,ok
+2026-10-12T12:05:00.276Z,HTTPBin health,https://httpbin.org/status/200,200,536.45,True,,ok
+2026-10-12T12:05:00.605Z,GitHub API,https://api.github.com,200,156.22,True,,ok
+2026-10-12T12:05:00.676Z,Python.org,https://www.python.org,200,142.68,True,,ok
+2026-10-12T12:10:00.137Z,HTTPBin health,https://httpbin.org/status/200,200,494.64,True,,ok
+2026-10-12T12:10:00.220Z,Example.com,https://example.com,200,125.69,True,,ok
+2026-10-12T12:10:00.269Z,GitHub API,https://api.github.com,200,142.88,True,,ok
+2026-10-12T12:10:00.892Z,Python.org,https://www.python.org,200,156.29,True,,ok
+2026-10-12T12:15:00.100Z,GitHub API,https://api.github.com,200,111.68,True,,ok
+2026-10-12T12:15:00.170Z,Example.com,https://example.com,200,95.64,True,,ok
+2026-10-12T12:15:00.217Z,Python.org,https://www.python.org,200,252.36,True,,ok
+2026-10-12T12:15:00.289Z,HTTPBin health,https://httpbin.org/status/200,200,371.92,True,,ok
+2026-10-12T12:20:00.008Z,HTTPBin health,https://httpbin.org/status/200,200,418.72,True,,ok
+2026-10-12T12:20:00.226Z,Python.org,https://www.python.org,200,179.67,True,,ok
+2026-10-12T12:20:00.530Z,Example.com,https://example.com,200,98.86,True,,ok
+2026-10-12T12:20:00.802Z,GitHub API,https://api.github.com,200,126.56,True,,ok
+2026-10-12T12:25:00.213Z,Python.org,https://www.python.org,200,180.16,True,,ok
+2026-10-12T12:25:00.229Z,HTTPBin health,https://httpbin.org/status/200,200,522.33,True,,ok
+2026-10-12T12:25:00.384Z,Example.com,https://example.com,200,106.03,True,,ok
+2026-10-12T12:25:00.426Z,GitHub API,https://api.github.com,200,141.55,True,,ok
+2026-10-12T12:30:00.000Z,Example.com,https://example.com,200,91.26,True,,ok
+2026-10-12T12:30:00.301Z,Python.org,https://www.python.org,200,227.01,True,,ok
+2026-10-12T12:30:00.308Z,HTTPBin health,https://httpbin.org/status/200,200,471.91,True,,ok
+2026-10-12T12:30:00.444Z,GitHub API,https://api.github.com,200,161.68,True,,ok
+2026-10-12T12:35:00.162Z,Python.org,https://www.python.org,200,211.32,True,,ok
+2026-10-12T12:35:00.597Z,GitHub API,https://api.github.com,200,118.73,True,,ok
+2026-10-12T12:35:00.759Z,HTTPBin health,https://httpbin.org/status/200,200,581.19,True,,ok
+2026-10-12T12:35:00.803Z,Example.com,https://example.com,200,104.19,True,,ok
+2026-10-12T12:40:00.042Z,HTTPBin health,https://httpbin.org/status/200,200,537.14,True,,ok
+2026-10-12T12:40:00.049Z,Example.com,https://example.com,200,77.64,True,,ok
+2026-10-12T12:40:00.085Z,Python.org,https://www.python.org,200,218.6,True,,ok
+2026-10-12T12:40:00.161Z,GitHub API,https://api.github.com,200,149.46,True,,ok
+2026-10-12T12:45:00.339Z,HTTPBin health,https://httpbin.org/status/200,200,455.51,True,,ok
+2026-10-12T12:45:00.457Z,GitHub API,https://api.github.com,200,150.85,True,,ok
+2026-10-12T12:45:00.606Z,Python.org,https://www.python.org,200,180.56,True,,ok
+2026-10-12T12:45:00.943Z,Example.com,https://example.com,200,83.95,True,,ok
+2026-10-12T12:50:00.042Z,Example.com,https://example.com,200,106.41,True,,ok
+2026-10-12T12:50:00.128Z,HTTPBin health,https://httpbin.org/status/200,200,418.15,True,,ok
+2026-10-12T12:50:00.184Z,Python.org,https://www.python.org,200,283.02,True,,ok
+2026-10-12T12:50:00.426Z,GitHub API,https://api.github.com,200,173.11,True,,ok
+2026-10-12T12:55:00.060Z,HTTPBin health,https://httpbin.org/status/200,200,506.44,True,,ok
+2026-10-12T12:55:00.175Z,Python.org,https://www.python.org,200,200.14,True,,ok
+2026-10-12T12:55:00.468Z,GitHub API,https://api.github.com,200,106.38,True,,ok
+2026-10-12T12:55:00.925Z,Example.com,https://example.com,200,99.76,True,,ok
+2026-10-12T13:00:00.293Z,Example.com,https://example.com,200,108.45,True,,ok
+2026-10-12T13:00:00.327Z,HTTPBin health,https://httpbin.org/status/200,200,340.49,True,,ok
+2026-10-12T13:00:00.570Z,Python.org,https://www.python.org,200,175.91,True,,ok
+2026-10-12T13:00:00.691Z,GitHub API,https://api.github.com,200,140.82,True,,ok
+2026-10-12T13:05:00.018Z,Example.com,https://example.com,200,110.74,True,,ok
+2026-10-12T13:05:00.184Z,GitHub API,https://api.github.com,200,98.47,True,,ok
+2026-10-12T13:05:00.204Z,Python.org,https://www.python.org,200,180.05,True,,ok
+2026-10-12T13:05:00.460Z,HTTPBin health,https://httpbin.org/status/200,200,530.07,True,,ok
+2026-10-12T13:10:00.005Z,Example.com,https://example.com,200,86.82,True,,ok
+2026-10-12T13:10:00.115Z,HTTPBin health,https://httpbin.org/status/200,200,354.94,True,,ok
+2026-10-12T13:10:00.221Z,Python.org,https://www.python.org,200,165.98,True,,ok
+2026-10-12T13:10:00.451Z,GitHub API,https://api.github.com,200,139.43,True,,ok
+2026-10-12T13:15:00.033Z,Python.org,https://www.python.org,200,207.39,True,,ok
+2026-10-12T13:15:00.125Z,GitHub API,https://api.github.com,200,163.64,True,,ok
+2026-10-12T13:15:00.865Z,HTTPBin health,https://httpbin.org/status/200,200,477.52,True,,ok
+2026-10-12T13:15:00.869Z,Example.com,https://example.com,200,101.0,True,,ok
+2026-10-12T13:20:00.316Z,GitHub API,https://api.github.com,200,175.89,True,,ok
+2026-10-12T13:20:00.776Z,Python.org,https://www.python.org,200,189.29,True,,ok
+2026-10-12T13:20:00.938Z,HTTPBin health,https://httpbin.org/status/200,200,398.42,True,,ok
+2026-10-12T13:20:00.946Z,Example.com,https://example.com,200,69.47,True,,ok
+2026-10-12T13:25:00.554Z,Example.com,https://example.com,200,114.66,True,,ok
+2026-10-12T13:25:00.783Z,Python.org,https://www.python.org,200,181.41,True,,ok
+2026-10-12T13:25:00.791Z,HTTPBin health,https://httpbin.org/status/200,200,531.33,True,,ok
+2026-10-12T13:25:00.981Z,GitHub API,https://api.github.com,200,169.36,True,,ok
+2026-10-12T13:30:00.358Z,HTTPBin health,https://httpbin.org/status/200,200,413.84,True,,ok
+2026-10-12T13:30:00.816Z,Python.org,https://www.python.org,200,157.28,True,,ok
+2026-10-12T13:30:00.835Z,Example.com,https://example.com,200,77.29,True,,ok
+2026-10-12T13:30:00.950Z,GitHub API,https://api.github.com,200,98.78,True,,ok
+2026-10-12T13:35:00.238Z,Python.org,https://www.python.org,200,163.88,True,,ok
+2026-10-12T13:35:00.713Z,HTTPBin health,https://httpbin.org/status/200,200,429.67,True,,ok
+2026-10-12T13:35:00.904Z,Example.com,https://example.com,200,108.46,True,,ok
+2026-10-12T13:35:00.998Z,GitHub API,https://api.github.com,200,144.03,True,,ok
+2026-10-12T13:40:00.047Z,Python.org,https://www.python.org,200,191.64,True,,ok
+2026-10-12T13:40:00.097Z,HTTPBin health,https://httpbin.org/status/200,200,340.36,True,,ok
+2026-10-12T13:40:00.481Z,Example.com,https://example.com,200,71.73,True,,ok
+2026-10-12T13:40:00.997Z,GitHub API,https://api.github.com,200,119.92,True,,ok
+2026-10-12T13:45:00.113Z,GitHub API,https://api.github.com,200,165.29,True,,ok
+2026-10-12T13:45:00.205Z,Example.com,https://example.com,200,106.94,True,,ok
+2026-10-12T13:45:00.829Z,HTTPBin health,https://httpbin.org/status/200,200,399.58,True,,ok
+2026-10-12T13:45:00.939Z,Python.org,https://www.python.org,200,173.57,True,,ok
+2026-10-12T13:50:00.204Z,Python.org,https://www.python.org,200,197.14,True,,ok
+2026-10-12T13:50:00.410Z,GitHub API,https://api.github.com,200,149.52,True,,ok
+2026-10-12T13:50:00.864Z,HTTPBin health,https://httpbin.org/status/200,200,443.49,True,,ok
+2026-10-12T13:50:00.951Z,Example.com,https://example.com,200,94.32,True,,ok
+2026-10-12T13:55:00.441Z,Python.org,https://www.python.org,200,181.56,True,,ok
+2026-10-12T13:55:00.635Z,HTTPBin health,https://httpbin.org/status/200,200,438.64,True,,ok
+2026-10-12T13:55:00.652Z,Example.com,https://example.com,200,97.25,True,,ok
+2026-10-12T13:55:00.728Z,GitHub API,https://api.github.com,200,129.36,True,,ok
+2026-10-12T14:00:00.088Z,GitHub API,https://api.github.com,200,134.71,True,,ok
+2026-10-12T14:00:00.095Z,Python.org,https://www.python.org,200,164.27,True,,ok
+2026-10-12T14:00:00.779Z,Example.com,https://example.com,200,86.99,True,,ok
+2026-10-12T14:00:00.864Z,HTTPBin health,https://httpbin.org/status/200,200,482.98,True,,ok
+2026-10-12T14:05:00.005Z,GitHub API,https://api.github.com,200,162.59,True,,ok
+2026-10-12T14:05:00.008Z,Example.com,https://example.com,200,86.9,True,,ok
+2026-10-12T14:05:00.044Z,Python.org,https://www.python.org,200,161.2,True,,ok
+2026-10-12T14:05:00.223Z,HTTPBin health,https://httpbin.org/status/200,200,568.75,True,,ok
+2026-10-12T14:10:00.505Z,GitHub API,https://api.github.com,200,150.75,True,,ok
+2026-10-12T14:10:00.802Z,HTTPBin health,https://httpbin.org/status/200,200,423.8,True,,ok
+2026-10-12T14:10:00.816Z,Example.com,https://example.com,200,99.04,True,,ok
+2026-10-12T14:10:00.885Z,Python.org,https://www.python.org,200,1027.77,True,,ok
+2026-10-12T14:15:00.207Z,Example.com,https://example.com,200,124.75,True,,ok
+2026-10-12T14:15:00.257Z,Python.org,https://www.python.org,200,203.36,True,,ok
+2026-10-12T14:15:00.573Z,HTTPBin health,https://httpbin.org/status/200,200,504.0,True,,ok
+2026-10-12T14:15:00.858Z,GitHub API,https://api.github.com,200,175.32,True,,ok
+2026-10-12T14:20:00.142Z,Example.com,https://example.com,200,108.17,True,,ok
+2026-10-12T14:20:00.148Z,Python.org,https://www.python.org,200,226.53,True,,ok
+2026-10-12T14:20:00.321Z,HTTPBin health,https://httpbin.org/status/200,200,591.95,True,,ok
+2026-10-12T14:20:00.727Z,GitHub API,https://api.github.com,200,158.19,True,,ok
+2026-10-12T14:25:00.140Z,GitHub API,https://api.github.com,200,183.23,True,,ok
+2026-10-12T14:25:00.501Z,Python.org,https://www.python.org,200,265.88,True,,ok
+2026-10-12T14:25:00.640Z,HTTPBin health,https://httpbin.org/status/200,200,419.44,True,,ok
+2026-10-12T14:25:00.991Z,Example.com,https://example.com,200,98.91,True,,ok
+2026-10-12T14:30:00.545Z,Python.org,https://www.python.org,200,152.15,True,,ok
+2026-10-12T14:30:00.667Z,Example.com,https://example.com,200,84.84,True,,ok
+2026-10-12T14:30:00.829Z,HTTPBin health,https://httpbin.org/status/200,200,460.11,True,,ok
+2026-10-12T14:30:00.939Z,GitHub API,https://api.github.com,200,167.46,True,,ok
+2026-10-12T14:35:00.015Z,HTTPBin health,https://httpbin.org/status/200,200,462.02,True,,ok
+2026-10-12T14:35:00.078Z,Python.org,https://www.python.org,200,146.51,True,,ok
+2026-10-12T14:35:00.585Z,GitHub API,https://api.github.com,200,144.05,True,,ok
+2026-10-12T14:35:00.808Z,Example.com,https://example.com,200,84.43,True,,ok
+2026-10-12T14:40:00.195Z,GitHub API,https://api.github.com,200,158.87,True,,ok
+2026-10-12T14:40:00.287Z,HTTPBin health,https://httpbin.org/status/200,200,464.83,True,,ok
+2026-10-12T14:40:00.393Z,Python.org,https://www.python.org,200,116.02,True,,ok
+2026-10-12T14:40:00.698Z,Example.com,https://example.com,200,122.51,True,,ok
+2026-10-12T14:45:00.260Z,GitHub API,https://api.github.com,200,144.69,True,,ok
+2026-10-12T14:45:00.306Z,Python.org,https://www.python.org,200,222.86,True,,ok
+2026-10-12T14:45:00.769Z,HTTPBin health,https://httpbin.org/status/200,200,394.44,True,,ok
+2026-10-12T14:45:00.783Z,Example.com,https://example.com,200,85.49,True,,ok
+2026-10-12T14:50:00.036Z,Example.com,https://example.com,200,84.09,True,,ok
+2026-10-12T14:50:00.091Z,GitHub API,https://api.github.com,200,96.2,True,,ok
+2026-10-12T14:50:00.400Z,HTTPBin health,https://httpbin.org/status/200,200,437.15,True,,ok
+2026-10-12T14:50:00.901Z,Python.org,https://www.python.org,200,159.6,True,,ok
+2026-10-12T14:55:00.093Z,HTTPBin health,https://httpbin.org/status/200,200,385.64,True,,ok
+2026-10-12T14:55:00.277Z,Python.org,https://www.python.org,200,129.4,True,,ok
+2026-10-12T14:55:00.508Z,GitHub API,https://api.github.com,200,175.03,True,,ok
+2026-10-12T14:55:00.922Z,Example.com,https://example.com,200,113.41,True,,ok
+2026-10-12T15:00:00.397Z,Python.org,https://www.python.org,200,229.49,True,,ok
+2026-10-12T15:00:00.561Z,HTTPBin health,https://httpbin.org/status/200,200,477.31,True,,ok
+2026-10-12T15:00:00.734Z,Example.com,https://example.com,200,136.92,True,,ok
+2026-10-12T15:00:00.736Z,GitHub API,https://api.github.com,200,151.88,True,,ok
+2026-10-12T15:05:00.258Z,GitHub API,https://api.github.com,200,156.28,True,,ok
+2026-10-12T15:05:00.664Z,HTTPBin health,https://httpbin.org/status/200,200,373.38,True,,ok
+2026-10-12T15:05:00.696Z,Python.org,https://www.python.org,200,208.09,True,,ok
+2026-10-12T15:05:00.740Z,Example.com,https://example.com,200,94.46,True,,ok
+2026-10-12T15:10:00.032Z,HTTPBin health,https://httpbin.org/status/200,200,575.86,True,,ok
+2026-10-12T15:10:00.088Z,Example.com,https://example.com,200,143.22,True,,ok
+2026-10-12T15:10:00.406Z,Python.org,https://www.python.org,200,172.05,True,,ok
+2026-10-12T15:10:00.663Z,GitHub API,https://api.github.com,200,145.74,True,,ok
+2026-10-12T15:15:00.056Z,GitHub API,https://api.github.com,200,146.34,True,,ok
+2026-10-12T15:15:00.097Z,HTTPBin health,https://httpbin.org/status/200,200,525.32,True,,ok
+2026-10-12T15:15:00.253Z,Python.org,https://www.python.org,200,167.16,True,,ok
+2026-10-12T15:15:00.782Z,Example.com,https://example.com,200,147.11,True,,ok
+2026-10-12T15:20:00.070Z,HTTPBin health,https://httpbin.org/status/200,200,2257.97,True,,warn
+2026-10-12T15:20:00.334Z,Python.org,https://www.python.org,200,239.34,True,,ok
+2026-10-12T15:20:00.429Z,GitHub API,https://api.github.com,200,137.28,True,,ok
+2026-10-12T15:20:00.759Z,Example.com,https://example.com,200,96.73,True,,ok
+2026-10-12T15:25:00.123Z,Python.org,https://www.python.org,200,215.55,True,,ok
+2026-10-12T15:25:00.323Z,Example.com,https://example.com,200,82.66,True,,ok
+2026-10-12T15:25:00.389Z,GitHub API,https://api.github.com,200,140.66,True,,ok
+2026-10-12T15:25:00.796Z,HTTPBin health,https://httpbin.org/status/200,200,353.7,True,,ok
+2026-10-12T15:30:00.054Z,GitHub API,https://api.github.com,200,142.27,True,,ok
+2026-10-12T15:30:00.271Z,Python.org,https://www.python.org,200,168.45,True,,ok
+2026-10-12T15:30:00.487Z,HTTPBin health,https://httpbin.org/status/200,200,488.77,True,,ok
+2026-10-12T15:30:00.727Z,Example.com,https://example.com,200,83.95,True,,ok
+2026-10-12T15:35:00.162Z,GitHub API,https://api.github.com,200,131.39,True,,ok
+2026-10-12T15:35:00.239Z,Python.org,https://www.python.org,200,209.14,True,,ok
+2026-10-12T15:35:00.492Z,HTTPBin health,https://httpbin.org/status/200,200,415.74,True,,ok
+2026-10-12T15:35:00.904Z,Example.com,https://example.com,200,96.36,True,,ok
+2026-10-12T15:40:00.128Z,Python.org,https://www.python.org,200,212.85,True,,ok
+2026-10-12T15:40:00.204Z,GitHub API,https://api.github.com,200,135.26,True,,ok
+2026-10-12T15:40:00.608Z,HTTPBin health,https://httpbin.org/status/200,200,400.88,True,,ok
+2026-10-12T15:40:00.903Z,Example.com,https://example.com,200,122.89,True,,ok
+2026-10-12T15:45:00.125Z,Python.org,https://www.python.org,200,228.57,True,,ok
+2026-10-12T15:45:00.252Z,HTTPBin health,https://httpbin.org/status/200,200,400.06,True,,ok
+2026-10-12T15:45:00.797Z,GitHub API,https://api.github.com,200,153.78,True,,ok
+2026-10-12T15:45:00.818Z,Example.com,https://example.com,200,77.25,True,,ok
+2026-10-12T15:50:00.359Z,HTTPBin health,https://httpbin.org/status/200,200,460.9,True,,ok
+2026-10-12T15:50:00.385Z,Python.org,https://www.python.org,200,181.75,True,,ok
+2026-10-12T15:50:00.539Z,Example.com,https://example.com,200,90.33,True,,ok
+2026-10-12T15:50:00.973Z,GitHub API,https://api.github.com,200,129.05,True,,ok
+2026-10-12T15:55:00.122Z,Example.com,https://example.com,200,94.93,True,,ok
+2026-10-12T15:55:00.263Z,GitHub API,https://api.github.com,200,115.88,True,,ok
+2026-10-12T15:55:00.284Z,HTTPBin health,https://httpbin.org/status/200,200,408.15,True,,ok
+2026-10-12T15:55:00.623Z,Python.org,https://www.python.org,200,149.77,True,,ok
+2026-10-12T16:00:00.097Z,Python.org,https://www.python.org,200,186.62,True,,ok
+2026-10-12T16:00:00.669Z,GitHub API,https://api.github.com,200,105.26,True,,ok
+2026-10-12T16:00:00.850Z,Example.com,https://example.com,200,99.08,True,,ok
+2026-10-12T16:00:00.987Z,HTTPBin health,https://httpbin.org/status/200,200,459.58,True,,ok
+2026-10-12T16:05:00.091Z,Example.com,https://example.com,200,125.79,True,,ok
+2026-10-12T16:05:00.268Z,GitHub API,https://api.github.com,200,1031.33,True,,ok
+2026-10-12T16:05:00.896Z,Python.org,https://www.python.org,200,220.43,True,,ok
+2026-10-12T16:05:00.971Z,HTTPBin health,https://httpbin.org/status/200,200,377.96,True,,ok
+2026-10-12T16:10:00.130Z,Python.org,https://www.python.org,200,167.78,True,,ok
+2026-10-12T16:10:00.132Z,HTTPBin health,https://httpbin.org/status/200,200,329.74,True,,ok
+2026-10-12T16:10:00.689Z,GitHub API,https://api.github.com,200,160.41,True,,ok
+2026-10-12T16:10:00.758Z,Example.com,https://example.com,200,145.87,True,,ok
+2026-10-12T16:15:00.162Z,GitHub API,https://api.github.com,200,100.15,True,,ok
+2026-10-12T16:15:00.523Z,Example.com,https://example.com,200,92.5,True,,ok
+2026-10-12T16:15:00.545Z,HTTPBin health,https://httpbin.org/status/200,200,421.41,True,,ok
+2026-10-12T16:15:00.872Z,Python.org,https://www.python.org,200,204.18,True,,ok
+2026-10-12T16:20:00.006Z,Python.org,https://www.python.org,200,177.15,True,,ok
+2026-10-12T16:20:00.126Z,GitHub API,https://api.github.com,200,177.66,True,,ok
+2026-10-12T16:20:00.593Z,Example.com,https://example.com,200,98.77,True,,ok
+2026-10-12T16:20:00.668Z,HTTPBin health,https://httpbin.org/status/200,200,359.92,True,,ok
+2026-10-12T16:25:00.369Z,Python.org,https://www.python.org,200,145.91,True,,ok
+2026-10-12T16:25:00.429Z,HTTPBin health,https://httpbin.org/status/200,200,344.92,True,,ok
+2026-10-12T16:25:00.807Z,GitHub API,https://api.github.com,200,133.56,True,,ok
+2026-10-12T16:25:00.814Z,Example.com,https://example.com,200,99.89,True,,ok
+2026-10-12T16:30:00.435Z,GitHub API,https://api.github.com,200,148.15,True,,ok
+2026-10-12T16:30:00.444Z,Example.com,https://example.com,200,98.12,True,,ok
+2026-10-12T16:30:00.517Z,Python.org,https://www.python.org,200,235.98,True,,ok
+2026-10-12T16:30:00.895Z,HTTPBin health,https://httpbin.org/status/200,200,407.74,True,,ok
+2026-10-12T16:35:00.027Z,HTTPBin health,https://httpbin.org/status/200,200,387.25,True,,ok
+2026-10-12T16:35:00.200Z,Python.org,https://www.python.org,200,228.29,True,,ok
+2026-10-12T16:35:00.422Z,GitHub API,https://api.github.com,200,129.45,True,,ok
+2026-10-12T16:35:00.443Z,Example.com,https://example.com,200,79.87,True,,ok
+2026-10-12T16:40:00.125Z,Example.com,https://example.com,200,125.09,True,,ok
+2026-10-12T16:40:00.174Z,Python.org,https://www.python.org,200,211.41,True,,ok
+2026-10-12T16:40:00.214Z,HTTPBin health,https://httpbin.org/status/200,200,306.57,True,,ok
+2026-10-12T16:40:00.315Z,GitHub API,https://api.github.com,200,144.82,True,,ok
+2026-10-12T16:45:00.328Z,HTTPBin health,https://httpbin.org/status/200,200,432.34,True,,ok
+2026-10-12T16:45:00.349Z,Python.org,https://www.python.org,200,213.31,True,,ok
+2026-10-12T16:45:00.827Z,GitHub API,https://api.github.com,200,153.75,True,,ok
+2026-10-12T16:45:00.904Z,Example.com,https://example.com,200,98.53,True,,ok
+2026-10-12T16:50:00.162Z,HTTPBin health,https://httpbin.org/status/200,200,450.91,True,,ok
+2026-10-12T16:50:00.330Z,Python.org,https://www.python.org,200,171.45,True,,ok
+2026-10-12T16:50:00.583Z,Example.com,https://example.com,200,111.03,True,,ok
+2026-10-12T16:50:00.869Z,GitHub API,https://api.github.com,200,131.83,True,,ok
+2026-10-12T16:55:00.236Z,GitHub API,https://api.github.com,200,138.92,True,,ok
+2026-10-12T16:55:00.512Z,Python.org,https://www.python.org,200,174.08,True,,ok
+2026-10-12T16:55:00.777Z,HTTPBin health,https://httpbin.org/status/200,200,454.76,True,,ok
+2026-10-12T16:55:00.970Z,Example.com,https://example.com,200,118.35,True,,ok
+2026-10-12T17:00:00.028Z,Example.com,https://example.com,200,83.95,True,,ok
+2026-10-12T17:00:00.279Z,HTTPBin health,https://httpbin.org/status/200,200,554.27,True,,ok
+2026-10-12T17:00:00.319Z,Python.org,https://www.python.org,200,187.6,True,,ok
+2026-10-12T17:00:00.614Z,GitHub API,https://api.github.com,200,118.43,True,,ok
+2026-10-12T17:05:00.195Z,GitHub API,https://api.github.com,200,106.44,True,,ok
+2026-10-12T17:05:00.224Z,HTTPBin health,https://httpbin.org/status/200,200,292.04,True,,ok
+2026-10-12T17:05:00.813Z,Python.org,https://www.python.org,200,257.58,True,,ok
+2026-10-12T17:05:00.873Z,Example.com,https://example.com,200,91.92,True,,ok
+2026-10-12T17:10:00.158Z,HTTPBin health,https://httpbin.org/status/200,200,332.76,True,,ok
+2026-10-12T17:10:00.365Z,Example.com,https://example.com,200,133.5,True,,ok
+2026-10-12T17:10:00.408Z,GitHub API,https://api.github.com,200,137.25,True,,ok
+2026-10-12T17:10:00.574Z,Python.org,https://www.python.org,200,209.5,True,,ok
+2026-10-12T17:15:00.067Z,Example.com,https://example.com,200,89.52,True,,ok
+2026-10-12T17:15:00.132Z,GitHub API,https://api.github.com,200,147.16,True,,ok
+2026-10-12T17:15:00.175Z,Python.org,https://www.python.org,200,120.07,True,,ok
+2026-10-12T17:15:00.757Z,HTTPBin health,https://httpbin.org/status/200,200,464.38,True,,ok
+2026-10-12T17:20:00.248Z,HTTPBin health,https://httpbin.org/status/200,200,375.74,True,,ok
+2026-10-12T17:20:00.313Z,Example.com,https://example.com,200,91.08,True,,ok
+2026-10-12T17:20:00.604Z,GitHub API,https://api.github.com,200,114.55,True,,ok
+2026-10-12T17:20:00.985Z,Python.org,https://www.python.org,200,156.21,True,,ok
+2026-10-12T17:25:00.201Z,Example.com,https://example.com,200,109.55,True,,ok
+2026-10-12T17:25:00.321Z,Python.org,https://www.python.org,200,213.86,True,,ok
+2026-10-12T17:25:00.456Z,HTTPBin health,https://httpbin.org/status/200,200,405.34,True,,ok
+2026-10-12T17:25:00.503Z,GitHub API,https://api.github.com,200,158.52,True,,ok
+2026-10-12T17:30:00.201Z,HTTPBin health,https://httpbin.org/status/200,200,451.11,True,,ok
+2026-10-12T17:30:00.325Z,Python.org,https://www.python.org,200,232.24,True,,ok
+2026-10-12T17:30:00.891Z,GitHub API,https://api.github.com,200,154.29,True,,ok
+2026-10-12T17:30:00.996Z,Example.com,https://example.com,200,91.68,True,,ok
+2026-10-12T17:35:00.099Z,HTTPBin health,https://httpbin.org/status/200,200,355.11,True,,ok
+2026-10-12T17:35:00.691Z,Example.com,https://example.com,200,90.35,True,,ok
+2026-10-12T17:35:00.743Z,Python.org,https://www.python.org,200,184.91,True,,ok
+2026-10-12T17:35:00.779Z,GitHub API,https://api.github.com,200,156.97,True,,ok
+2026-10-12T17:40:00.305Z,GitHub API,https://api.github.com,200,121.07,True,,ok
+2026-10-12T17:40:00.436Z,Example.com,https://example.com,200,107.03,True,,ok
+2026-10-12T17:40:00.602Z,Python.org,https://www.python.org,200,188.12,True,,ok
+2026-10-12T17:40:00.881Z,HTTPBin health,https://httpbin.org/status/200,200,443.2,True,,ok
+2026-10-12T17:45:00.136Z,Example.com,https://example.com,200,99.05,True,,ok
+2026-10-12T17:45:00.473Z,GitHub API,https://api.github.com,200,120.61,True,,ok
+2026-10-12T17:45:00.514Z,Python.org,https://www.python.org,200,234.49,True,,ok
+2026-10-12T17:45:00.743Z,HTTPBin health,https://httpbin.org/status/200,200,424.25,True,,ok
+2026-10-12T17:50:00.190Z,Example.com,https://example.com,200,81.91,True,,ok
+2026-10-12T17:50:00.715Z,GitHub API,https://api.github.com,200,152.15,True,,ok
+2026-10-12T17:50:00.781Z,Python.org,https://www.python.org,200,202.49,True,,ok
+2026-10-12T17:50:00.992Z,HTTPBin health,https://httpbin.org/status/200,200,411.08,True,,ok
+2026-10-12T17:55:00.300Z,GitHub API,https://api.github.com,200,138.09,True,,ok
+2026-10-12T17:55:00.759Z,Example.com,https://example.com,200,103.49,True,,ok
+2026-10-12T17:55:00.801Z,Python.org,https://www.python.org,200,213.61,True,,ok
+2026-10-12T17:55:00.882Z,HTTPBin health,https://httpbin.org/status/200,200,339.25,True,,ok
+2026-10-12T18:00:00.196Z,GitHub API,https://api.github.com,200,123.57,True,,ok
+2026-10-12T18:00:00.610Z,HTTPBin health,https://httpbin.org/status/200,200,377.77,True,,ok
+2026-10-12T18:00:00.730Z,Example.com,https://example.com,200,86.91,True,,ok
+2026-10-12T18:00:00.917Z,Python.org,https://www.python.org,200,193.28,True,,ok
+2026-10-12T18:05:00.044Z,Example.com,https://example.com,200,79.05,True,,ok
+2026-10-12T18:05:00.421Z,HTTPBin health,https://httpbin.org/status/200,200,353.41,True,,ok
+2026-10-12T18:05:00.506Z,GitHub API,https://api.github.com,200,133.59,True,,ok
+2026-10-12T18:05:00.882Z,Python.org,https://www.python.org,200,149.68,True,,ok
+2026-10-12T18:10:00.089Z,GitHub API,https://api.github.com,200,126.39,True,,ok
+2026-10-12T18:10:00.138Z,HTTPBin health,https://httpbin.org/status/200,200,368.15,True,,ok
+2026-10-12T18:10:00.496Z,Python.org,https://www.python.org,200,150.91,True,,ok
+2026-10-12T18:10:00.612Z,Example.com,https://example.com,200,101.87,True,,ok
+2026-10-12T18:15:00.063Z,GitHub API,https://api.github.com,200,142.41,True,,ok
+2026-10-12T18:15:00.083Z,HTTPBin health,https://httpbin.org/status/200,200,416.23,True,,ok
+2026-10-12T18:15:00.120Z,Example.com,https://example.com,200,136.14,True,,ok
+2026-10-12T18:15:00.642Z,Python.org,https://www.python.org,200,203.6,True,,ok
+2026-10-12T18:20:00.134Z,Python.org,https://www.python.org,200,161.47,True,,ok
+2026-10-12T18:20:00.413Z,Example.com,https://example.com,200,131.17,True,,ok
+2026-10-12T18:20:00.778Z,HTTPBin health,https://httpbin.org/status/200,200,433.64,True,,ok
+2026-10-12T18:20:00.831Z,GitHub API,https://api.github.com,200,124.21,True,,ok
+2026-10-12T18:25:00.299Z,Example.com,https://example.com,200,90.58,True,,ok
+2026-10-12T18:25:00.518Z,GitHub API,https://api.github.com,200,134.37,True,,ok
+2026-10-12T18:25:00.585Z,Python.org,https://www.python.org,200,213.66,True,,ok
+2026-10-12T18:25:00.881Z,HTTPBin health,https://httpbin.org/status/200,200,389.24,True,,ok
+2026-10-12T18:30:00.091Z,HTTPBin health,https://httpbin.org/status/200,200,641.85,True,,ok
+2026-10-12T18:30:00.136Z,Example.com,https://example.com,200,101.63,True,,ok
+2026-10-12T18:30:00.484Z,Python.org,https://www.python.org,200,171.24,True,,ok
+2026-10-12T18:30:00.708Z,GitHub API,https://api.github.com,200,123.41,True,,ok
+2026-10-12T18:35:00.064Z,GitHub API,https://api.github.com,200,135.62,True,,ok
+2026-10-12T18:35:00.267Z,Example.com,https://example.com,200,106.91,True,,ok
+2026-10-12T18:35:00.351Z,Python.org,https://www.python.org,200,232.21,True,,ok
+2026-10-12T18:35:00.633Z,HTTPBin health,https://httpbin.org/status/200,200,453.89,True,,ok
+2026-10-12T18:40:00.017Z,Python.org,https://www.python.org,200,225.76,True,,ok
+2026-10-12T18:40:00.553Z,Example.com,https://example.com,200,93.04,True,,ok
+2026-10-12T18:40:00.752Z,GitHub API,https://api.github.com,200,151.46,True,,ok
+2026-10-12T18:40:00.781Z,HTTPBin health,https://httpbin.org/status/200,200,335.86,True,,ok
+2026-10-12T18:45:00.151Z,GitHub API,https://api.github.com,200,135.4,True,,ok
+2026-10-12T18:45:00.423Z,HTTPBin health,https://httpbin.org/status/200,200,552.28,True,,ok
+2026-10-12T18:45:00.490Z,Python.org,https://www.python.org,200,166.93,True,,ok
+2026-10-12T18:45:00.515Z,Example.com,https://example.com,200,93.46,True,,ok
+2026-10-12T18:50:00.064Z,Python.org,https://www.python.org,200,190.79,True,,ok
+2026-10-12T18:50:00.214Z,Example.com,https://example.com,200,93.74,True,,ok
+2026-10-12T18:50:00.757Z,GitHub API,https://api.github.com,200,143.66,True,,ok
+2026-10-12T18:50:00.903Z,HTTPBin health,https://httpbin.org/status/200,200,322.73,True,,ok
+2026-10-12T18:55:00.224Z,Example.com,https://example.com,200,116.36,True,,ok
+2026-10-12T18:55:00.372Z,Python.org,https://www.python.org,200,220.66,True,,ok
+2026-10-12T18:55:00.602Z,GitHub API,https://api.github.com,200,127.1,True,,ok
+2026-10-12T18:55:00.802Z,HTTPBin health,https://httpbin.org/status/200,200,392.04,True,,ok
+2026-10-12T19:00:00.005Z,Example.com,https://example.com,200,104.18,True,,ok
+2026-10-12T19:00:00.302Z,GitHub API,https://api.github.com,200,131.93,True,,ok
+2026-10-12T19:00:00.447Z,HTTPBin health,https://httpbin.org/status/200,200,320.23,True,,ok
+2026-10-12T19:00:00.672Z,Python.org,https://www.python.org,200,245.27,True,,ok
+2026-10-12T19:05:00.544Z,GitHub API,https://api.github.com,200,129.92,True,,ok
+2026-10-12T19:05:00.592Z,Example.com,https://example.com,200,85.88,True,,ok
+2026-10-12T19:05:00.688Z,HTTPBin health,https://httpbin.org/status/200,200,434.42,True,,ok
+2026-10-12T19:05:00.725Z,Python.org,https://www.python.org,200,214.04,True,,ok
+2026-10-12T19:10:00.142Z,Python.org,https://www.python.org,200,206.45,True,,ok
+2026-10-12T19:10:00.580Z,HTTPBin health,https://httpbin.org/status/200,200,323.01,True,,ok
+2026-10-12T19:10:00.761Z,GitHub API,https://api.github.com,200,175.95,True,,ok
+2026-10-12T19:10:00.889Z,Example.com,https://example.com,200,75.05,True,,ok
+2026-10-12T19:15:00.198Z,HTTPBin health,https://httpbin.org/status/200,200,497.92,True,,ok
+2026-10-12T19:15:00.603Z,Example.com,https://example.com,200,127.06,True,,ok
+2026-10-12T19:15:00.811Z,GitHub API,https://api.github.com,200,160.12,True,,ok
+2026-10-12T19:15:00.857Z,Python.org,https://www.python.org,200,216.8,True,,ok
+2026-10-12T19:20:00.061Z,GitHub API,https://api.github.com,200,128.79,True,,ok
+2026-10-12T19:20:00.202Z,Example.com,https://example.com,200,92.1,True,,ok
+2026-10-12T19:20:00.799Z,HTTPBin health,https://httpbin.org/status/200,200,427.82,True,,ok
+2026-10-12T19:20:00.965Z,Python.org,https://www.python.org,200,203.32,True,,ok
+2026-10-12T19:25:00.066Z,HTTPBin health,https://httpbin.org/status/200,200,311.85,True,,ok
+2026-10-12T19:25:00.103Z,GitHub API,https://api.github.com,200,138.23,True,,ok
+2026-10-12T19:25:00.819Z,Python.org,https://www.python.org,200,270.36,True,,ok
+2026-10-12T19:25:00.912Z,Example.com,https://example.com,200,138.31,True,,ok
+2026-10-12T19:30:00.320Z,HTTPBin health,https://httpbin.org/status/200,200,391.08,True,,ok
+2026-10-12T19:30:00.758Z,GitHub API,https://api.github.com,200,112.53,True,,ok
+2026-10-12T19:30:00.821Z,Example.com,https://example.com,200,155.3,True,,ok
+2026-10-12T19:30:00.830Z,Python.org,https://www.python.org,200,196.41,True,,ok
+2026-10-12T19:35:00.139Z,Example.com,https://example.com,200,104.4,True,,ok
+2026-10-12T19:35:00.158Z,GitHub API,https://api.github.com,200,104.72,True,,ok
+2026-10-12T19:35:00.246Z,HTTPBin health,https://httpbin.org/status/200,200,382.69,True,,ok
+2026-10-12T19:35:00.788Z,Python.org,https://www.python.org,200,194.05,True,,ok
+2026-10-12T19:40:00.250Z,Python.org,https://www.python.org,200,147.43,True,,ok
+2026-10-12T19:40:00.520Z,GitHub API,https://api.github.com,200,122.62,True,,ok
+2026-10-12T19:40:00.921Z,HTTPBin health,https://httpbin.org/status/200,200,376.28,True,,ok
+2026-10-12T19:40:00.983Z,Example.com,https://example.com,200,106.59,True,,ok
+2026-10-12T19:45:00.010Z,Example.com,https://example.com,200,88.04,True,,ok
+2026-10-12T19:45:00.588Z,HTTPBin health,https://httpbin.org/status/200,200,457.94,True,,ok
+2026-10-12T19:45:00.908Z,GitHub API,https://api.github.com,200,130.96,True,,ok
+2026-10-12T19:45:00.991Z,Python.org,https://www.python.org,200,153.73,True,,ok
+2026-10-12T19:50:00.024Z,Example.com,https://example.com,200,104.17,True,,ok
+2026-10-12T19:50:00.424Z,HTTPBin health,https://httpbin.org/status/200,200,310.81,True,,ok
+2026-10-12T19:50:00.587Z,GitHub API,https://api.github.com,200,148.4,True,,ok
+2026-10-12T19:50:00.611Z,Python.org,https://www.python.org,200,185.64,True,,ok
+2026-10-12T19:55:00.212Z,Example.com,https://example.com,200,73.48,True,,ok
+2026-10-12T19:55:00.503Z,HTTPBin health,https://httpbin.org/status/200,200,350.94,True,,ok
+2026-10-12T19:55:00.744Z,Python.org,https://www.python.org,200,124.51,True,,ok
+2026-10-12T19:55:00.754Z,GitHub API,https://api.github.com,200,109.74,True,,ok
+2026-10-12T20:00:00.141Z,HTTPBin health,https://httpbin.org/status/200,200,363.21,True,,ok
+2026-10-12T20:00:00.217Z,Python.org,https://www.python.org,200,171.46,True,,ok
+2026-10-12T20:00:00.269Z,Example.com,https://example.com,200,121.18,True,,ok
+2026-10-12T20:00:00.962Z,GitHub API,https://api.github.com,200,160.8,True,,ok
+2026-10-12T20:05:00.081Z,HTTPBin health,https://httpbin.org/status/200,200,359.89,True,,ok
+2026-10-12T20:05:00.115Z,Python.org,https://www.python.org,200,183.56,True,,ok
+2026-10-12T20:05:00.450Z,Example.com,https://example.com,200,97.86,True,,ok
+2026-10-12T20:05:00.584Z,GitHub API,https://api.github.com,200,131.96,True,,ok
+2026-10-12T20:10:00.090Z,HTTPBin health,https://httpbin.org/status/200,200,405.12,True,,ok
+2026-10-12T20:10:00.187Z,Example.com,https://example.com,200,130.54,True,,ok
+2026-10-12T20:10:00.587Z,Python.org,https://www.python.org,200,209.98,True,,ok
+2026-10-12T20:10:00.861Z,GitHub API,https://api.github.com,200,105.09,True,,ok
+2026-10-12T20:15:00.007Z,Python.org,https://www.python.org,200,136.99,True,,ok
+2026-10-12T20:15:00.221Z,HTTPBin health,https://httpbin.org/status/200,200,442.38,True,,ok
+2026-10-12T20:15:00.479Z,Example.com,https://example.com,200,116.08,True,,ok
+2026-10-12T20:15:00.929Z,GitHub API,https://api.github.com,200,115.47,True,,ok
+2026-10-12T20:20:00.219Z,HTTPBin health,https://httpbin.org/status/200,200,401.25,True,,ok
+2026-10-12T20:20:00.567Z,GitHub API,https://api.github.com,200,108.82,True,,ok
+2026-10-12T20:20:00.730Z,Example.com,https://example.com,200,77.6,True,,ok
+2026-10-12T20:20:00.931Z,Python.org,https://www.python.org,200,153.04,True,,ok
+2026-10-12T20:25:00.478Z,Example.com,https://example.com,200,118.28,True,,ok
+2026-10-12T20:25:00.547Z,HTTPBin health,https://httpbin.org/status/200,200,381.99,True,,ok
+2026-10-12T20:25:00.550Z,GitHub API,https://api.github.com,200,168.03,True,,ok
+2026-10-12T20:25:00.852Z,Python.org,https://www.python.org,200,145.8,True,,ok
+2026-10-12T20:30:00.094Z,Example.com,https://example.com,200,82.27,True,,ok
+2026-10-12T20:30:00.523Z,Python.org,https://www.python.org,200,201.23,True,,ok
+2026-10-12T20:30:00.614Z,HTTPBin health,https://httpbin.org/status/200,200,415.6,True,,ok
+2026-10-12T20:30:00.868Z,GitHub API,https://api.github.com,200,129.48,True,,ok
+2026-10-12T20:35:00.217Z,GitHub API,https://api.github.com,200,161.43,True,,ok
+2026-10-12T20:35:00.467Z,HTTPBin health,https://httpbin.org/status/200,200,421.26,True,,ok
+2026-10-12T20:35:00.631Z,Example.com,https://example.com,200,94.16,True,,ok
+2026-10-12T20:35:00.736Z,Python.org,https://www.python.org,200,184.86,True,,ok
+2026-10-12T20:40:00.042Z,GitHub API,https://api.github.com,200,171.69,True,,ok
+2026-10-12T20:40:00.104Z,Python.org,https://www.python.org,200,211.29,True,,ok
+2026-10-12T20:40:00.324Z,Example.com,https://example.com,200,108.43,True,,ok
+2026-10-12T20:40:00.375Z,HTTPBin health,https://httpbin.org/status/200,200,461.6,True,,ok
+2026-10-12T20:45:00.085Z,Example.com,https://example.com,200,106.87,True,,ok
+2026-10-12T20:45:00.409Z,GitHub API,https://api.github.com,200,121.29,True,,ok
+2026-10-12T20:45:00.763Z,Python.org,https://www.python.org,200,170.59,True,,ok
+2026-10-12T20:45:00.768Z,HTTPBin health,https://httpbin.org/status/200,200,500.01,True,,ok
+2026-10-12T20:50:00.004Z,Python.org,https://www.python.org,200,198.02,True,,ok
+2026-10-12T20:50:00.517Z,Example.com,https://example.com,200,84.74,True,,ok
+2026-10-12T20:50:00.520Z,GitHub API,https://api.github.com,200,105.77,True,,ok
+2026-10-12T20:50:00.641Z,HTTPBin health,https://httpbin.org/status/200,200,461.67,True,,ok
+2026-10-12T20:55:00.104Z,HTTPBin health,https://httpbin.org/status/200,200,466.34,True,,ok
+2026-10-12T20:55:00.368Z,GitHub API,https://api.github.com,200,148.77,True,,ok
+2026-10-12T20:55:00.486Z,Example.com,https://example.com,200,110.67,True,,ok
+2026-10-12T20:55:00.954Z,Python.org,https://www.python.org,200,164.9,True,,ok
+2026-10-12T21:00:00.020Z,Python.org,https://www.python.org,200,207.88,True,,ok
+2026-10-12T21:00:00.319Z,Example.com,https://example.com,200,95.06,True,,ok
+2026-10-12T21:00:00.496Z,GitHub API,https://api.github.com,200,188.81,True,,ok
+2026-10-12T21:00:00.716Z,HTTPBin health,https://httpbin.org/status/200,200,512.76,True,,ok
+2026-10-12T21:05:00.194Z,HTTPBin health,https://httpbin.org/status/200,200,440.08,True,,ok
+2026-10-12T21:05:00.320Z,Example.com,https://example.com,200,133.94,True,,ok
+2026-10-12T21:05:00.337Z,GitHub API,https://api.github.com,200,163.73,True,,ok
+2026-10-12T21:05:00.496Z,Python.org,https://www.python.org,200,232.64,True,,ok
+2026-10-12T21:10:00.490Z,HTTPBin health,https://httpbin.org/status/200,200,432.19,True,,ok
+2026-10-12T21:10:00.618Z,GitHub API,https://api.github.com,200,107.94,True,,ok
+2026-10-12T21:10:00.688Z,Python.org,https://www.python.org,200,233.56,True,,ok
+2026-10-12T21:10:00.890Z,Example.com,https://example.com,200,125.41,True,,ok
+2026-10-12T21:15:00.126Z,HTTPBin health,https://httpbin.org/status/200,200,391.93,True,,ok
+2026-10-12T21:15:00.379Z,GitHub API,https://api.github.com,200,141.38,True,,ok
+2026-10-12T21:15:00.673Z,Python.org,https://www.python.org,200,190.47,True,,ok
+2026-10-12T21:15:00.684Z,Example.com,https://example.com,200,86.12,True,,ok
+2026-10-12T21:20:00.298Z,HTTPBin health,https://httpbin.org/status/200,200,501.02,True,,ok
+2026-10-12T21:20:00.360Z,Example.com,https://example.com,200,61.65,True,,ok
+2026-10-12T21:20:00.801Z,Python.org,https://www.python.org,200,196.66,True,,ok
+2026-10-12T21:20:00.955Z,GitHub API,https://api.github.com,200,109.21,True,,ok
+2026-10-12T21:25:00.420Z,Example.com,https://example.com,200,84.39,True,,ok
+2026-10-12T21:25:00.612Z,Python.org,https://www.python.org,200,140.57,True,,ok
+2026-10-12T21:25:00.623Z,HTTPBin health,https://httpbin.org/status/200,200,383.92,True,,ok
+2026-10-12T21:25:00.916Z,GitHub API,https://api.github.com,200,154.75,True,,ok
+2026-10-12T21:30:00.335Z,GitHub API,https://api.github.com,200,147.73,True,,ok
+2026-10-12T21:30:00.555Z,Python.org,https://www.python.org,200,141.1,True,,ok
+2026-10-12T21:30:00.839Z,Example.com,https://example.com,200,75.26,True,,ok
+2026-10-12T21:30:00.904Z,HTTPBin health,https://httpbin.org/status/200,200,427.04,True,,ok
+2026-10-12T21:35:00.283Z,Python.org,https://www.python.org,200,208.6,True,,ok
+2026-10-12T21:35:00.544Z,Example.com,https://example.com,200,116.3,True,,ok
+2026-10-12T21:35:00.606Z,GitHub API,https://api.github.com,200,119.77,True,,ok
+2026-10-12T21:35:00.901Z,HTTPBin health,https://httpbin.org/status/200,200,451.18,True,,ok
+2026-10-12T21:40:00.038Z,Python.org,https://www.python.org,200,207.45,True,,ok
+2026-10-12T21:40:00.083Z,Example.com,https://example.com,200,87.76,True,,ok
+2026-10-12T21:40:00.509Z,GitHub API,https://api.github.com,200,98.7,True,,ok
+2026-10-12T21:40:00.808Z,HTTPBin health,https://httpbin.org/status/200,200,320.04,True,,ok
+2026-10-12T21:45:00.181Z,Example.com,https://example.com,200,115.5,True,,ok
+2026-10-12T21:45:00.542Z,GitHub API,https://api.github.com,200,148.64,True,,ok
+2026-10-12T21:45:00.771Z,Python.org,https://www.python.org,200,186.13,True,,ok
+2026-10-12T21:45:00.972Z,HTTPBin health,https://httpbin.org/status/200,200,480.79,True,,ok
+2026-10-12T21:50:00.056Z,HTTPBin health,https://httpbin.org/status/200,200,444.8,True,,ok
+2026-10-12T21:50:00.257Z,GitHub API,https://api.github.com,200,143.84,True,,ok
+2026-10-12T21:50:00.430Z,Python.org,https://www.python.org,200,133.17,True,,ok
+2026-10-12T21:50:00.946Z,Example.com,https://example.com,200,133.79,True,,ok
+2026-10-12T21:55:00.126Z,Python.org,https://www.python.org,200,204.93,True,,ok
+2026-10-12T21:55:00.146Z,HTTPBin health,https://httpbin.org/status/200,200,506.55,True,,ok
+2026-10-12T21:55:00.701Z,GitHub API,https://api.github.com,200,132.29,True,,ok
+2026-10-12T21:55:00.768Z,Example.com,https://example.com,200,95.88,True,,ok
+2026-10-12T22:00:00.326Z,HTTPBin health,https://httpbin.org/status/200,200,488.97,True,,ok
+2026-10-12T22:00:00.560Z,Example.com,https://example.com,200,80.73,True,,ok
+2026-10-12T22:00:00.839Z,GitHub API,https://api.github.com,200,175.59,True,,ok
+2026-10-12T22:00:00.953Z,Python.org,https://www.python.org,200,209.18,True,,ok
+2026-10-12T22:05:00.647Z,GitHub API,https://api.github.com,200,162.2,True,,ok
+2026-10-12T22:05:00.656Z,Example.com,https://example.com,200,114.9,True,,ok
+2026-10-12T22:05:00.897Z,HTTPBin health,https://httpbin.org/status/200,200,447.13,True,,ok
+2026-10-12T22:05:00.922Z,Python.org,https://www.python.org,200,217.19,True,,ok
+2026-10-12T22:10:00.026Z,Python.org,https://www.python.org,200,175.34,True,,ok
+2026-10-12T22:10:00.294Z,HTTPBin health,https://httpbin.org/status/200,200,486.21,True,,ok
+2026-10-12T22:10:00.396Z,GitHub API,https://api.github.com,200,173.23,True,,ok
+2026-10-12T22:10:00.502Z,Example.com,https://example.com,200,102.12,True,,ok
+2026-10-12T22:15:00.200Z,Example.com,https://example.com,200,144.93,True,,ok
+2026-10-12T22:15:00.259Z,HTTPBin health,https://httpbin.org/status/200,200,388.02,True,,ok
+2026-10-12T22:15:00.533Z,GitHub API,https://api.github.com,200,129.59,True,,ok
+2026-10-12T22:15:00.796Z,Python.org,https://www.python.org,200,142.77,True,,ok
+2026-10-12T22:20:00.094Z,Python.org,https://www.python.org,200,174.88,True,,ok
+2026-10-12T22:20:00.167Z,HTTPBin health,https://httpbin.org/status/200,200,472.42,True,,ok
+2026-10-12T22:20:00.435Z,Example.com,https://example.com,200,139.58,True,,ok
+2026-10-12T22:20:00.731Z,GitHub API,https://api.github.com,200,187.99,True,,ok
+2026-10-12T22:25:00.120Z,GitHub API,https://api.github.com,200,180.91,True,,ok
+2026-10-12T22:25:00.463Z,Example.com,https://example.com,200,85.12,True,,ok
+2026-10-12T22:25:00.665Z,HTTPBin health,https://httpbin.org/status/200,200,330.94,True,,ok
+2026-10-12T22:25:00.898Z,Python.org,https://www.python.org,200,161.42,True,,ok
+2026-10-12T22:30:00.485Z,Python.org,https://www.python.org,200,151.3,True,,ok
+2026-10-12T22:30:00.505Z,Example.com,https://example.com,200,130.6,True,,ok
+2026-10-12T22:30:00.805Z,HTTPBin health,https://httpbin.org/status/200,200,350.03,True,,ok
+2026-10-12T22:30:00.832Z,GitHub API,https://api.github.com,200,174.88,True,,ok
+2026-10-12T22:35:00.007Z,HTTPBin health,https://httpbin.org/status/200,200,379.45,True,,ok
+2026-10-12T22:35:00.192Z,Python.org,https://www.python.org,200,204.31,True,,ok
+2026-10-12T22:35:00.543Z,GitHub API,https://api.github.com,200,117.95,True,,ok
+2026-10-12T22:35:00.767Z,Example.com,https://example.com,200,119.27,True,,ok
+2026-10-12T22:40:00.215Z,Example.com,https://example.com,200,92.28,True,,ok
+2026-10-12T22:40:00.220Z,Python.org,https://www.python.org,200,112.64,True,,ok
+2026-10-12T22:40:00.384Z,GitHub API,https://api.github.com,200,176.5,True,,ok
+2026-10-12T22:40:00.476Z,HTTPBin health,https://httpbin.org/status/200,200,355.18,True,,ok
+2026-10-12T22:45:00.244Z,HTTPBin health,https://httpbin.org/status/200,200,626.42,True,,ok
+2026-10-12T22:45:00.249Z,GitHub API,https://api.github.com,200,143.98,True,,ok
+2026-10-12T22:45:00.605Z,Python.org,https://www.python.org,200,165.47,True,,ok
+2026-10-12T22:45:00.700Z,Example.com,https://example.com,200,95.6,True,,ok
+2026-10-12T22:50:00.323Z,Python.org,https://www.python.org,200,192.19,True,,ok
+2026-10-12T22:50:00.533Z,HTTPBin health,https://httpbin.org/status/200,200,394.33,True,,ok
+2026-10-12T22:50:00.613Z,GitHub API,https://api.github.com,200,119.08,True,,ok
+2026-10-12T22:50:00.782Z,Example.com,https://example.com,200,88.62,True,,ok
+2026-10-12T22:55:00.197Z,GitHub API,https://api.github.com,200,171.36,True,,ok
+2026-10-12T22:55:00.605Z,Example.com,https://example.com,200,102.84,True,,ok
+2026-10-12T22:55:00.692Z,HTTPBin health,https://httpbin.org/status/200,200,517.08,True,,ok
+2026-10-12T22:55:00.825Z,Python.org,https://www.python.org,200,225.36,True,,ok
+2026-10-12T23:00:00.033Z,Python.org,https://www.python.org,200,175.16,True,,ok
+2026-10-12T23:00:00.238Z,GitHub API,https://api.github.com,200,145.83,True,,ok
+2026-10-12T23:00:00.700Z,HTTPBin health,https://httpbin.org/status/200,200,750.22,True,,ok
+2026-10-12T23:00:00.791Z,Example.com,https://example.com,200,116.21,True,,ok
+2026-10-12T23:05:00.063Z,Example.com,https://example.com,200,84.16,True,,ok
+2026-10-12T23:05:00.243Z,GitHub API,https://api.github.com,200,1014.28,True,,ok
+2026-10-12T23:05:00.245Z,Python.org,https://www.python.org,200,214.9,True,,ok
+2026-10-12T23:05:00.545Z,HTTPBin health,https://httpbin.org/status/200,200,378.63,True,,ok
+2026-10-12T23:10:00.293Z,Python.org,https://www.python.org,200,214.28,True,,ok
+2026-10-12T23:10:00.648Z,HTTPBin health,https://httpbin.org/status/200,200,381.33,True,,ok
+2026-10-12T23:10:00.893Z,GitHub API,https://api.github.com,200,154.69,True,,ok
+2026-10-12T23:10:00.970Z,Example.com,https://example.com,200,113.93,True,,ok
+2026-10-12T23:15:00.018Z,HTTPBin health,https://httpbin.org/status/200,200,334.94,True,,ok
+2026-10-12T23:15:00.234Z,Example.com,https://example.com,200,105.37,True,,ok
+2026-10-12T23:15:00.474Z,Python.org,https://www.python.org,200,149.14,True,,ok
+2026-10-12T23:15:00.699Z,GitHub API,https://api.github.com,200,107.5,True,,ok
+2026-10-12T23:20:00.379Z,Python.org,https://www.python.org,200,160.17,True,,ok
+2026-10-12T23:20:00.813Z,Example.com,https://example.com,200,93.09,True,,ok
+2026-10-12T23:20:00.954Z,HTTPBin health,https://httpbin.org/status/200,200,428.45,True,,ok
+2026-10-12T23:20:00.965Z,GitHub API,https://api.github.com,200,113.57,True,,ok
+2026-10-12T23:25:00.164Z,HTTPBin health,https://httpbin.org/status/200,200,449.27,True,,ok
+2026-10-12T23:25:00.728Z,GitHub API,https://api.github.com,200,181.19,True,,ok
+2026-10-12T23:25:00.798Z,Example.com,https://example.com,200,87.26,True,,ok
+2026-10-12T23:25:00.882Z,Python.org,https://www.python.org,200,194.46,True,,ok
+2026-10-12T23:30:00.022Z,Python.org,https://www.python.org,200,221.12,True,,ok
+2026-10-12T23:30:00.759Z,GitHub API,https://api.github.com,200,107.15,True,,ok
+2026-10-12T23:30:00.761Z,HTTPBin health,https://httpbin.org/status/200,200,411.52,True,,ok
+2026-10-12T23:30:00.884Z,Example.com,https://example.com,200,108.52,True,,ok
+2026-10-12T23:35:00.311Z,HTTPBin health,https://httpbin.org/status/200,200,425.81,True,,ok
+2026-10-12T23:35:00.437Z,Example.com,https://example.com,200,93.11,True,,ok
+2026-10-12T23:35:00.705Z,Python.org,https://www.python.org,200,233.26,True,,ok
+2026-10-12T23:35:00.838Z,GitHub API,https://api.github.com,200,138.05,True,,ok
+2026-10-12T23:40:00.071Z,HTTPBin health,https://httpbin.org/status/200,200,440.99,True,,ok
+2026-10-12T23:40:00.116Z,GitHub API,https://api.github.com,200,121.14,True,,ok
+2026-10-12T23:40:00.501Z,Python.org,https://www.python.org,200,207.68,True,,ok
+2026-10-12T23:40:00.847Z,Example.com,https://example.com,200,143.9,True,,ok
+2026-10-12T23:45:00.094Z,Example.com,https://example.com,200,102.15,True,,ok
+2026-10-12T23:45:00.747Z,Python.org,https://www.python.org,200,252.92,True,,ok
+2026-10-12T23:45:00.842Z,GitHub API,https://api.github.com,200,125.93,True,,ok
+2026-10-12T23:45:00.888Z,HTTPBin health,https://httpbin.org/status/200,200,467.42,True,,ok
+2026-10-12T23:50:00.047Z,GitHub API,https://api.github.com,200,144.49,True,,ok
+2026-10-12T23:50:00.152Z,Example.com,https://example.com,200,97.93,True,,ok
+2026-10-12T23:50:00.210Z,HTTPBin health,https://httpbin.org/status/200,200,512.17,True,,ok
+2026-10-12T23:50:00.237Z,Python.org,https://www.python.org,200,175.73,True,,ok
+2026-10-12T23:55:00.083Z,Python.org,https://www.python.org,200,152.36,True,,ok
+2026-10-12T23:55:00.363Z,HTTPBin health,https://httpbin.org/status/200,200,435.5,True,,ok
+2026-10-12T23:55:00.585Z,GitHub API,https://api.github.com,200,113.21,True,,ok
+2026-10-12T23:55:00.747Z,Example.com,https://example.com,200,90.33,True,,ok
+2026-10-13T00:00:00.022Z,GitHub API,https://api.github.com,200,170.58,True,,ok
+2026-10-13T00:00:00.134Z,HTTPBin health,https://httpbin.org/status/200,200,309.45,True,,ok
+2026-10-13T00:00:00.135Z,Python.org,https://www.python.org,200,192.61,True,,ok
+2026-10-13T00:00:00.671Z,Example.com,https://example.com,200,105.95,True,,ok
+2026-10-13T00:05:00.406Z,HTTPBin health,https://httpbin.org/status/200,200,444.55,True,,ok
+2026-10-13T00:05:00.430Z,Python.org,https://www.python.org,200,137.96,True,,ok
+2026-10-13T00:05:00.659Z,Example.com,https://example.com,200,129.49,True,,ok
+2026-10-13T00:05:00.688Z,GitHub API,https://api.github.com,200,143.99,True,,ok
+2026-10-13T00:10:00.014Z,Python.org,https://www.python.org,200,187.46,True,,ok
+2026-10-13T00:10:00.545Z,Example.com,https://example.com,200,107.86,True,,ok
+2026-10-13T00:10:00.760Z,GitHub API,https://api.github.com,200,120.27,True,,ok
+2026-10-13T00:10:00.830Z,HTTPBin health,https://httpbin.org/status/200,200,512.26,True,,ok
+2026-10-13T00:15:00.148Z,GitHub API,https://api.github.com,200,155.78,True,,ok
+2026-10-13T00:15:00.464Z,Example.com,https://example.com,200,85.29,True,,ok
+2026-10-13T00:15:00.642Z,Python.org,https://www.python.org,200,191.58,True,,ok
+2026-10-13T00:15:00.728Z,HTTPBin health,https://httpbin.org/status/200,200,326.33,True,,ok
+2026-10-13T00:20:00.394Z,Example.com,https://example.com,200,107.02,True,,ok
+2026-10-13T00:20:00.452Z,GitHub API,https://api.github.com,200,153.91,True,,ok
+2026-10-13T00:20:00.686Z,HTTPBin health,https://httpbin.org/status/200,200,369.74,True,,ok
+2026-10-13T00:20:00.812Z,Python.org,https://www.python.org,200,180.39,True,,ok
+2026-10-13T00:25:00.005Z,Example.com,https://example.com,200,88.78,True,,ok
+2026-10-13T00:25:00.005Z,HTTPBin health,https://httpbin.org/status/200,200,433.64,True,,ok
+2026-10-13T00:25:00.115Z,GitHub API,https://api.github.com,200,120.46,True,,ok
+2026-10-13T00:25:00.555Z,Python.org,https://www.python.org,200,172.95,True,,ok
+2026-10-13T00:30:00.443Z,Example.com,https://example.com,200,94.27,True,,ok
+2026-10-13T00:30:00.506Z,HTTPBin health,https://httpbin.org/status/200,200,477.16,True,,ok
+2026-10-13T00:30:00.717Z,Python.org,https://www.python.org,200,185.95,True,,ok
+2026-10-13T00:30:00.854Z,GitHub API,https://api.github.com,200,145.17,True,,ok
+2026-10-13T00:35:00.242Z,Python.org,https://www.python.org,200,236.84,True,,ok
+2026-10-13T00:35:00.269Z,GitHub API,https://api.github.com,200,101.98,True,,ok
+2026-10-13T00:35:00.851Z,HTTPBin health,https://httpbin.org/status/200,200,562.88,True,,ok
+2026-10-13T00:35:00.893Z,Example.com,https://example.com,200,99.64,True,,ok
+2026-10-13T00:40:00.148Z,Python.org,https://www.python.org,200,159.45,True,,ok
+2026-10-13T00:40:00.163Z,HTTPBin health,https://httpbin.org/status/200,200,487.44,True,,ok
+2026-10-13T00:40:00.392Z,GitHub API,https://api.github.com,200,694.37,True,,ok
+2026-10-13T00:40:00.745Z,Example.com,https://example.com,200,83.06,True,,ok
+2026-10-13T00:45:00.216Z,HTTPBin health,https://httpbin.org/status/200,200,535.48,True,,ok
+2026-10-13T00:45:00.397Z,GitHub API,https://api.github.com,200,155.61,True,,ok
+2026-10-13T00:45:00.458Z,Python.org,https://www.python.org,200,169.63,True,,ok
+2026-10-13T00:45:00.911Z,Example.com,https://example.com,200,112.39,True,,ok
+2026-10-13T00:50:00.452Z,HTTPBin health,https://httpbin.org/status/200,200,547.16,True,,ok
+2026-10-13T00:50:00.790Z,Example.com,https://example.com,200,86.15,True,,ok
+2026-10-13T00:50:00.962Z,GitHub API,https://api.github.com,200,145.88,True,,ok
+2026-10-13T00:50:00.971Z,Python.org,https://www.python.org,200,144.08,True,,ok
+2026-10-13T00:55:00.432Z,HTTPBin health,https://httpbin.org/status/200,200,444.66,True,,ok
+2026-10-13T00:55:00.626Z,GitHub API,https://api.github.com,200,111.53,True,,ok
+2026-10-13T00:55:00.736Z,Example.com,https://example.com,200,73.77,True,,ok
+2026-10-13T00:55:00.785Z,Python.org,https://www.python.org,200,246.53,True,,ok
+2026-10-13T01:00:00.404Z,GitHub API,https://api.github.com,200,121.17,True,,ok
+2026-10-13T01:00:00.515Z,Example.com,https://example.com,200,99.9,True,,ok
+2026-10-13T01:00:00.702Z,Python.org,https://www.python.org,200,270.11,True,,ok
+2026-10-13T01:00:00.975Z,HTTPBin health,https://httpbin.org/status/200,200,397.34,True,,ok
+2026-10-13T01:05:00.009Z,HTTPBin health,https://httpbin.org/status/200,200,311.01,True,,ok
+2026-10-13T01:05:00.420Z,Python.org,https://www.python.org,200,167.69,True,,ok
+2026-10-13T01:05:00.677Z,GitHub API,https://api.github.com,200,138.68,True,,ok
+2026-10-13T01:05:00.702Z,Example.com,https://example.com,200,139.58,True,,ok
+2026-10-13T01:10:00.228Z,Example.com,https://example.com,200,111.07,True,,ok
+2026-10-13T01:10:00.288Z,Python.org,https://www.python.org,200,172.25,True,,ok
+2026-10-13T01:10:00.737Z,HTTPBin health,https://httpbin.org/status/200,200,462.81,True,,ok
+2026-10-13T01:10:00.879Z,GitHub API,https://api.github.com,200,154.54,True,,ok
+2026-10-13T01:15:00.127Z,GitHub API,https://api.github.com,200,180.04,True,,ok
+2026-10-13T01:15:00.222Z,Example.com,https://example.com,200,88.51,True,,ok
+2026-10-13T01:15:00.303Z,HTTPBin health,https://httpbin.org/status/200,200,395.62,True,,ok
+2026-10-13T01:15:00.606Z,Python.org,https://www.python.org,200,196.34,True,,ok
+2026-10-13T01:20:00.031Z,GitHub API,https://api.github.com,200,118.74,True,,ok
+2026-10-13T01:20:00.249Z,Example.com,https://example.com,200,117.9,True,,ok
+2026-10-13T01:20:00.472Z,HTTPBin health,https://httpbin.org/status/200,200,418.78,True,,ok
+2026-10-13T01:20:00.547Z,Python.org,https://www.python.org,200,196.69,True,,ok
+2026-10-13T01:25:00.342Z,GitHub API,https://api.github.com,200,118.88,True,,ok
+2026-10-13T01:25:00.419Z,Python.org,https://www.python.org,200,225.73,True,,ok
+2026-10-13T01:25:00.619Z,HTTPBin health,https://httpbin.org/status/200,200,351.5,True,,ok
+2026-10-13T01:25:00.914Z,Example.com,https://example.com,200,122.53,True,,ok
+2026-10-13T01:30:00.163Z,GitHub API,https://api.github.com,200,143.22,True,,ok
+2026-10-13T01:30:00.479Z,Example.com,https://example.com,200,125.27,True,,ok
+2026-10-13T01:30:00.749Z,HTTPBin health,https://httpbin.org/status/200,200,633.7,True,,ok
+2026-10-13T01:30:00.832Z,Python.org,https://www.python.org,200,178.01,True,,ok
+2026-10-13T01:35:00.124Z,GitHub API,https://api.github.com,200,131.24,True,,ok
+2026-10-13T01:35:00.755Z,Example.com,https://example.com,200,82.37,True,,ok
+2026-10-13T01:35:00.864Z,Python.org,https://www.python.org,200,271.65,True,,ok
+2026-10-13T01:35:00.967Z,HTTPBin health,https://httpbin.org/status/200,200,425.86,True,,ok
+2026-10-13T01:40:00.241Z,Example.com,https://example.com,200,74.53,True,,ok
+2026-10-13T01:40:00.276Z,HTTPBin health,https://httpbin.org/status/200,200,448.96,True,,ok
+2026-10-13T01:40:00.638Z,GitHub API,https://api.github.com,200,111.18,True,,ok
+2026-10-13T01:40:00.778Z,Python.org,https://www.python.org,200,133.45,True,,ok
+2026-10-13T01:45:00.028Z,GitHub API,https://api.github.com,200,163.97,True,,ok
+2026-10-13T01:45:00.268Z,Example.com,https://example.com,200,102.14,True,,ok
+2026-10-13T01:45:00.280Z,HTTPBin health,https://httpbin.org/status/200,200,320.84,True,,ok
+2026-10-13T01:45:00.632Z,Python.org,https://www.python.org,200,165.04,True,,ok
+2026-10-13T01:50:00.282Z,Example.com,https://example.com,200,96.45,True,,ok
+2026-10-13T01:50:00.464Z,GitHub API,https://api.github.com,200,132.99,True,,ok
+2026-10-13T01:50:00.889Z,Python.org,https://www.python.org,200,201.88,True,,ok
+2026-10-13T01:50:00.941Z,HTTPBin health,https://httpbin.org/status/200,200,376.47,True,,ok
+2026-10-13T01:55:00.068Z,GitHub API,https://api.github.com,200,140.33,True,,ok
+2026-10-13T01:55:00.281Z,Python.org,https://www.python.org,200,170.59,True,,ok
+2026-10-13T01:55:00.521Z,HTTPBin health,https://httpbin.org/status/200,200,496.59,True,,ok
+2026-10-13T01:55:00.711Z,Example.com,https://example.com,200,116.1,True,,ok
+2026-10-13T02:00:00.142Z,Python.org,https://www.python.org,200,174.38,True,,ok
+2026-10-13T02:00:00.397Z,Example.com,https://example.com,200,85.01,True,,ok
+2026-10-13T02:00:00.440Z,HTTPBin health,https://httpbin.org/status/200,200,352.87,True,,ok
+2026-10-13T02:00:00.450Z,GitHub API,https://api.github.com,200,121.52,True,,ok
+2026-10-13T02:05:00.297Z,Python.org,https://www.python.org,200,155.92,True,,ok
+2026-10-13T02:05:00.339Z,Example.com,https://example.com,200,88.95,True,,ok
+2026-10-13T02:05:00.492Z,HTTPBin health,https://httpbin.org/status/200,200,337.93,True,,ok
+2026-10-13T02:05:00.907Z,GitHub API,https://api.github.com,200,171.86,True,,ok
+2026-10-13T02:10:00.212Z,HTTPBin health,https://httpbin.org/status/200,200,500.32,True,,ok
+2026-10-13T02:10:00.357Z,GitHub API,https://api.github.com,200,147.88,True,,ok
+2026-10-13T02:10:00.376Z,Python.org,https://www.python.org,200,225.58,True,,ok
+2026-10-13T02:10:00.798Z,Example.com,https://example.com,200,96.6,True,,ok
+2026-10-13T02:15:00.355Z,Python.org,https://www.python.org,200,131.67,True,,ok
+2026-10-13T02:15:00.386Z,Example.com,https://example.com,200,155.19,True,,ok
+2026-10-13T02:15:00.420Z,HTTPBin health,https://httpbin.org/status/200,200,528.31,True,,ok
+2026-10-13T02:15:00.834Z,GitHub API,https://api.github.com,200,117.9,True,,ok
+2026-10-13T02:20:00.069Z,GitHub API,https://api.github.com,200,109.11,True,,ok
+2026-10-13T02:20:00.295Z,Python.org,https://www.python.org,200,215.8,True,,ok
+2026-10-13T02:20:00.756Z,HTTPBin health,https://httpbin.org/status/200,200,376.89,True,,ok
+2026-10-13T02:20:00.929Z,Example.com,https://example.com,200,89.23,True,,ok
+2026-10-13T02:25:00.281Z,GitHub API,https://api.github.com,200,159.3,True,,ok
+2026-10-13T02:25:00.335Z,Example.com,https://example.com,200,76.52,True,,ok
+2026-10-13T02:25:00.440Z,HTTPBin health,https://httpbin.org/status/200,200,377.67,True,,ok
+2026-10-13T02:25:00.879Z,Python.org,https://www.python.org,200,164.56,True,,ok
+2026-10-13T02:30:00.542Z,Example.com,https://example.com,200,117.82,True,,ok
+2026-10-13T02:30:00.631Z,HTTPBin health,https://httpbin.org/status/200,200,293.47,True,,ok
+2026-10-13T02:30:00.714Z,Python.org,https://www.python.org,200,136.84,True,,ok
+2026-10-13T02:30:00.947Z,GitHub API,https://api.github.com,200,140.7,True,,ok
+2026-10-13T02:35:00.441Z,Python.org,https://www.python.org,200,201.98,True,,ok
+2026-10-13T02:35:00.452Z,GitHub API,https://api.github.com,200,116.79,True,,ok
+2026-10-13T02:35:00.476Z,Example.com,https://example.com,200,103.56,True,,ok
+2026-10-13T02:35:00.726Z,HTTPBin health,https://httpbin.org/status/200,200,402.03,True,,ok
+2026-10-13T02:40:00.476Z,Example.com,https://example.com,200,104.5,True,,ok
+2026-10-13T02:40:00.737Z,GitHub API,https://api.github.com,200,141.78,True,,ok
+2026-10-13T02:40:00.758Z,Python.org,https://www.python.org,200,162.8,True,,ok
+2026-10-13T02:40:00.838Z,HTTPBin health,https://httpbin.org/status/200,200,486.49,True,,ok
+2026-10-13T02:45:00.038Z,GitHub API,https://api.github.com,200,143.99,True,,ok
+2026-10-13T02:45:00.144Z,Example.com,https://example.com,200,73.92,True,,ok
+2026-10-13T02:45:00.148Z,Python.org,https://www.python.org,200,140.09,True,,ok
+2026-10-13T02:45:00.751Z,HTTPBin health,https://httpbin.org/status/200,200,330.12,True,,ok
+2026-10-13T02:50:00.049Z,GitHub API,https://api.github.com,200,100.24,True,,ok
+2026-10-13T02:50:00.158Z,Example.com,https://example.com,200,93.09,True,,ok
+2026-10-13T02:50:00.844Z,HTTPBin health,https://httpbin.org/status/200,200,420.72,True,,ok
+2026-10-13T02:50:00.930Z,Python.org,https://www.python.org,200,174.0,True,,ok
+2026-10-13T02:55:00.141Z,GitHub API,https://api.github.com,200,157.66,True,,ok
+2026-10-13T02:55:00.476Z,HTTPBin health,https://httpbin.org/status/200,200,583.95,True,,ok
+2026-10-13T02:55:00.732Z,Example.com,https://example.com,200,88.54,True,,ok
+2026-10-13T02:55:00.937Z,Python.org,https://www.python.org,200,180.12,True,,ok
+2026-10-13T03:00:00.218Z,Python.org,https://www.python.org,200,147.67,True,,ok
+2026-10-13T03:00:00.526Z,Example.com,https://example.com,200,100.25,True,,ok
+2026-10-13T03:00:00.754Z,GitHub API,https://api.github.com,200,181.75,True,,ok
+2026-10-13T03:00:00.932Z,HTTPBin health,https://httpbin.org/status/200,200,561.67,True,,ok
+2026-10-13T03:05:00.260Z,Example.com,https://example.com,200,122.41,True,,ok
+2026-10-13T03:05:00.353Z,Python.org,https://www.python.org,200,195.49,True,,ok
+2026-10-13T03:05:00.386Z,HTTPBin health,https://httpbin.org/status/200,200,445.5,True,,ok
+2026-10-13T03:05:00.399Z,GitHub API,https://api.github.com,200,112.85,True,,ok
+2026-10-13T03:10:00.248Z,HTTPBin health,https://httpbin.org/status/200,200,496.1,True,,ok
+2026-10-13T03:10:00.709Z,Python.org,https://www.python.org,200,159.2,True,,ok
+2026-10-13T03:10:00.736Z,Example.com,https://example.com,200,101.23,True,,ok
+2026-10-13T03:10:00.985Z,GitHub API,https://api.github.com,200,165.31,True,,ok
+2026-10-13T03:15:00.318Z,GitHub API,https://api.github.com,200,157.21,True,,ok
+2026-10-13T03:15:00.425Z,Python.org,https://www.python.org,200,129.79,True,,ok
+2026-10-13T03:15:00.758Z,Example.com,https://example.com,200,129.97,True,,ok
+2026-10-13T03:15:00.780Z,HTTPBin health,https://httpbin.org/status/200,200,450.61,True,,ok
+2026-10-13T03:20:00.180Z,GitHub API,https://api.github.com,200,172.13,True,,ok
+2026-10-13T03:20:00.397Z,Python.org,https://www.python.org,200,166.62,True,,ok
+2026-10-13T03:20:00.503Z,Example.com,https://example.com,200,92.27,True,,ok
+2026-10-13T03:20:00.750Z,HTTPBin health,https://httpbin.org/status/200,200,296.15,True,,ok
+2026-10-13T03:25:00.036Z,GitHub API,https://api.github.com,200,143.81,True,,ok
+2026-10-13T03:25:00.363Z,Python.org,https://www.python.org,200,209.7,True,,ok
+2026-10-13T03:25:00.551Z,HTTPBin health,https://httpbin.org/status/200,200,387.07,True,,ok
+2026-10-13T03:25:00.906Z,Example.com,https://example.com,200,113.75,True,,ok
+2026-10-13T03:30:00.071Z,GitHub API,https://api.github.com,200,165.23,True,,ok
+2026-10-13T03:30:00.377Z,Example.com,https://example.com,200,93.88,True,,ok
+2026-10-13T03:30:00.895Z,HTTPBin health,https://httpbin.org/status/200,200,446.11,True,,ok
+2026-10-13T03:30:00.955Z,Python.org,https://www.python.org,200,149.6,True,,ok
+2026-10-13T03:35:00.349Z,Example.com,https://example.com,200,106.74,True,,ok
+2026-10-13T03:35:00.446Z,GitHub API,https://api.github.com,200,154.65,True,,ok
+2026-10-13T03:35:00.707Z,HTTPBin health,https://httpbin.org/status/200,200,404.36,True,,ok
+2026-10-13T03:35:00.951Z,Python.org,https://www.python.org,200,176.01,True,,ok
+2026-10-13T03:40:00.064Z,HTTPBin health,https://httpbin.org/status/200,200,416.31,True,,ok
+2026-10-13T03:40:00.222Z,Python.org,https://www.python.org,200,166.79,True,,ok
+2026-10-13T03:40:00.732Z,Example.com,https://example.com,200,117.68,True,,ok
+2026-10-13T03:40:00.950Z,GitHub API,https://api.github.com,200,139.35,True,,ok
+2026-10-13T03:45:00.111Z,Python.org,https://www.python.org,200,189.63,True,,ok
+2026-10-13T03:45:00.468Z,GitHub API,https://api.github.com,200,102.52,True,,ok
+2026-10-13T03:45:00.565Z,HTTPBin health,https://httpbin.org/status/200,200,378.42,True,,ok
+2026-10-13T03:45:00.915Z,Example.com,https://example.com,200,115.09,True,,ok
+2026-10-13T03:50:00.090Z,HTTPBin health,https://httpbin.org/status/200,200,451.67,True,,ok
+2026-10-13T03:50:00.225Z,GitHub API,https://api.github.com,200,141.08,True,,ok
+2026-10-13T03:50:00.257Z,Example.com,https://example.com,200,124.89,True,,ok
+2026-10-13T03:50:00.804Z,Python.org,https://www.python.org,200,165.59,True,,ok
+2026-10-13T03:55:00.225Z,Example.com,https://example.com,200,114.01,True,,ok
+2026-10-13T03:55:00.629Z,HTTPBin health,https://httpbin.org/status/200,200,361.64,True,,ok
+2026-10-13T03:55:00.653Z,GitHub API,https://api.github.com,200,198.87,True,,ok
+2026-10-13T03:55:00.975Z,Python.org,https://www.python.org,200,227.08,True,,ok
+2026-10-13T04:00:00.347Z,HTTPBin health,https://httpbin.org/status/200,200,545.63,True,,ok
+2026-10-13T04:00:00.502Z,GitHub API,https://api.github.com,200,112.29,True,,ok
+2026-10-13T04:00:00.602Z,Python.org,https://www.python.org,200,214.96,True,,ok
+2026-10-13T04:00:00.911Z,Example.com,https://example.com,200,92.16,True,,ok
+2026-10-13T04:05:00.088Z,Example.com,https://example.com,200,82.59,True,,ok
+2026-10-13T04:05:00.145Z,GitHub API,https://api.github.com,200,145.27,True,,ok
+2026-10-13T04:05:00.343Z,Python.org,https://www.python.org,200,221.11,True,,ok
+2026-10-13T04:05:00.491Z,HTTPBin health,https://httpbin.org/status/200,200,357.95,True,,ok
+2026-10-13T04:10:00.171Z,HTTPBin health,https://httpbin.org/status/200,200,358.7,True,,ok
+2026-10-13T04:10:00.224Z,GitHub API,https://api.github.com,200,159.4,True,,ok
+2026-10-13T04:10:00.802Z,Python.org,https://www.python.org,200,181.63,True,,ok
+2026-10-13T04:10:00.888Z,Example.com,https://example.com,200,163.91,True,,ok
+2026-10-13T04:15:00.164Z,GitHub API,https://api.github.com,200,116.64,True,,ok
+2026-10-13T04:15:00.238Z,Example.com,https://example.com,200,109.99,True,,ok
+2026-10-13T04:15:00.883Z,Python.org,https://www.python.org,200,172.7,True,,ok
+2026-10-13T04:15:00.974Z,HTTPBin health,https://httpbin.org/status/200,200,574.35,True,,ok
+2026-10-13T04:20:00.118Z,Example.com,https://example.com,200,106.37,True,,ok
+2026-10-13T04:20:00.185Z,HTTPBin health,https://httpbin.org/status/200,200,514.26,True,,ok
+2026-10-13T04:20:00.803Z,Python.org,https://www.python.org,200,206.63,True,,ok
+2026-10-13T04:20:00.967Z,GitHub API,https://api.github.com,200,129.4,True,,ok
+2026-10-13T04:25:00.063Z,HTTPBin health,https://httpbin.org/status/200,200,424.5,True,,ok
+2026-10-13T04:25:00.137Z,Example.com,https://example.com,200,94.91,True,,ok
+2026-10-13T04:25:00.563Z,GitHub API,https://api.github.com,200,166.41,True,,ok
+2026-10-13T04:25:00.899Z,Python.org,https://www.python.org,200,147.82,True,,ok
+2026-10-13T04:30:00.206Z,Example.com,https://example.com,200,94.37,True,,ok
+2026-10-13T04:30:00.351Z,GitHub API,https://api.github.com,200,148.44,True,,ok
+2026-10-13T04:30:00.351Z,Python.org,https://www.python.org,200,157.37,True,,ok
+2026-10-13T04:30:00.381Z,HTTPBin health,https://httpbin.org/status/200,200,317.87,True,,ok
+2026-10-13T04:35:00.092Z,HTTPBin health,https://httpbin.org/status/200,200,495.91,True,,ok
+2026-10-13T04:35:00.513Z,Example.com,https://example.com,200,84.42,True,,ok
+2026-10-13T04:35:00.897Z,Python.org,https://www.python.org,200,216.96,True,,ok
+2026-10-13T04:35:00.924Z,GitHub API,https://api.github.com,200,129.34,True,,ok
+2026-10-13T04:40:00.173Z,HTTPBin health,https://httpbin.org/status/200,200,561.62,True,,ok
+2026-10-13T04:40:00.449Z,GitHub API,https://api.github.com,200,114.96,True,,ok
+2026-10-13T04:40:00.714Z,Python.org,https://www.python.org,200,202.06,True,,ok
+2026-10-13T04:40:00.719Z,Example.com,https://example.com,200,71.2,True,,ok
+2026-10-13T04:45:00.564Z,GitHub API,https://api.github.com,200,105.98,True,,ok
+2026-10-13T04:45:00.666Z,Example.com,https://example.com,200,123.22,True,,ok
+2026-10-13T04:45:00.909Z,Python.org,https://www.python.org,200,151.67,True,,ok
+2026-10-13T04:45:00.917Z,HTTPBin health,https://httpbin.org/status/200,200,395.86,True,,ok
+2026-10-13T04:50:00.194Z,Python.org,https://www.python.org,200,271.7,True,,ok
+2026-10-13T04:50:00.261Z,HTTPBin health,https://httpbin.org/status/200,200,503.09,True,,ok
+2026-10-13T04:50:00.467Z,GitHub API,https://api.github.com,200,117.89,True,,ok
+2026-10-13T04:50:00.971Z,Example.com,https://example.com,200,118.25,True,,ok
+2026-10-13T04:55:00.041Z,GitHub API,https://api.github.com,200,123.77,True,,ok
+2026-10-13T04:55:00.440Z,Example.com,https://example.com,200,109.51,True,,ok
+2026-10-13T04:55:00.919Z,Python.org,https://www.python.org,200,169.01,True,,ok
+2026-10-13T04:55:00.968Z,HTTPBin health,https://httpbin.org/status/200,200,527.44,True,,ok
+2026-10-13T05:00:00.377Z,HTTPBin health,https://httpbin.org/status/200,200,389.83,True,,ok
+2026-10-13T05:00:00.666Z,Example.com,https://example.com,200,115.28,True,,ok
+2026-10-13T05:00:00.680Z,Python.org,https://www.python.org,200,165.98,True,,ok
+2026-10-13T05:00:00.806Z,GitHub API,https://api.github.com,200,153.41,True,,ok
+2026-10-13T05:05:00.000Z,HTTPBin health,https://httpbin.org/status/200,200,462.18,True,,ok
+2026-10-13T05:05:00.295Z,GitHub API,https://api.github.com,200,186.63,True,,ok
+2026-10-13T05:05:00.372Z,Example.com,https://example.com,200,80.21,True,,ok
+2026-10-13T05:05:00.694Z,Python.org,https://www.python.org,200,133.46,True,,ok
+2026-10-13T05:10:00.214Z,GitHub API,https://api.github.com,200,137.92,True,,ok
+2026-10-13T05:10:00.258Z,HTTPBin health,https://httpbin.org/status/200,200,396.65,True,,ok
+2026-10-13T05:10:00.623Z,Python.org,https://www.python.org,200,156.73,True,,ok
+2026-10-13T05:10:00.968Z,Example.com,https://example.com,200,138.71,True,,ok
+2026-10-13T05:15:00.395Z,Example.com,https://example.com,200,113.69,True,,ok
+2026-10-13T05:15:00.521Z,Python.org,https://www.python.org,200,203.72,True,,ok
+2026-10-13T05:15:00.634Z,GitHub API,https://api.github.com,200,116.62,True,,ok
+2026-10-13T05:15:00.788Z,HTTPBin health,https://httpbin.org/status/200,200,576.44,True,,ok
+2026-10-13T05:20:00.162Z,Python.org,https://www.python.org,200,140.97,True,,ok
+2026-10-13T05:20:00.253Z,Example.com,https://example.com,200,98.12,True,,ok
+2026-10-13T05:20:00.846Z,GitHub API,https://api.github.com,200,197.29,True,,ok
+2026-10-13T05:20:00.898Z,HTTPBin health,https://httpbin.org/status/200,200,503.8,True,,ok
+2026-10-13T05:25:00.165Z,HTTPBin health,https://httpbin.org/status/200,200,540.5,True,,ok
+2026-10-13T05:25:00.262Z,Example.com,https://example.com,200,145.89,True,,ok
+2026-10-13T05:25:00.399Z,Python.org,https://www.python.org,200,177.14,True,,ok
+2026-10-13T05:25:00.645Z,GitHub API,https://api.github.com,200,160.14,True,,ok
+2026-10-13T05:30:00.292Z,HTTPBin health,https://httpbin.org/status/200,200,377.23,True,,ok
+2026-10-13T05:30:00.682Z,GitHub API,https://api.github.com,200,128.56,True,,ok
+2026-10-13T05:30:00.822Z,Example.com,https://example.com,200,123.64,True,,ok
+2026-10-13T05:30:00.896Z,Python.org,https://www.python.org,200,203.84,True,,ok
+2026-10-13T05:35:00.027Z,GitHub API,https://api.github.com,200,128.07,True,,ok
+2026-10-13T05:35:00.669Z,HTTPBin health,https://httpbin.org/status/200,200,406.73,True,,ok
+2026-10-13T05:35:00.825Z,Example.com,https://example.com,200,90.25,True,,ok
+2026-10-13T05:35:00.931Z,Python.org,https://www.python.org,200,159.05,True,,ok
+2026-10-13T05:40:00.287Z,GitHub API,https://api.github.com,200,118.92,True,,ok
+2026-10-13T05:40:00.363Z,Python.org,https://www.python.org,200,180.73,True,,ok
+2026-10-13T05:40:00.492Z,Example.com,https://example.com,200,103.65,True,,ok
+2026-10-13T05:40:00.747Z,HTTPBin health,https://httpbin.org/status/200,200,494.49,True,,ok
+2026-10-13T05:45:00.180Z,GitHub API,https://api.github.com,200,145.35,True,,ok
+2026-10-13T05:45:00.261Z,HTTPBin health,https://httpbin.org/status/200,200,466.72,True,,ok
+2026-10-13T05:45:00.270Z,Example.com,https://example.com,200,135.9,True,,ok
+2026-10-13T05:45:00.891Z,Python.org,https://www.python.org,200,213.78,True,,ok
+2026-10-13T05:50:00.017Z,Python.org,https://www.python.org,200,199.12,True,,ok
+2026-10-13T05:50:00.483Z,Example.com,https://example.com,200,132.87,True,,ok
+2026-10-13T05:50:00.583Z,HTTPBin health,https://httpbin.org/status/200,200,442.22,True,,ok
+2026-10-13T05:50:00.660Z,GitHub API,https://api.github.com,200,177.58,True,,ok
+2026-10-13T05:55:00.327Z,GitHub API,https://api.github.com,200,150.63,True,,ok
+2026-10-13T05:55:00.510Z,Python.org,https://www.python.org,200,149.68,True,,ok
+2026-10-13T05:55:00.516Z,Example.com,https://example.com,200,78.37,True,,ok
+2026-10-13T05:55:00.647Z,HTTPBin health,https://httpbin.org/status/200,200,382.13,True,,ok
+2026-10-13T06:00:00.443Z,HTTPBin health,https://httpbin.org/status/200,200,459.05,True,,ok
+2026-10-13T06:00:00.676Z,Python.org,https://www.python.org,200,121.03,True,,ok
+2026-10-13T06:00:00.790Z,GitHub API,https://api.github.com,200,183.71,True,,ok
+2026-10-13T06:00:00.986Z,Example.com,https://example.com,200,114.79,True,,ok
+2026-10-13T06:05:00.142Z,Example.com,https://example.com,200,89.21,True,,ok
+2026-10-13T06:05:00.476Z,HTTPBin health,https://httpbin.org/status/200,200,443.86,True,,ok
+2026-10-13T06:05:00.850Z,Python.org,https://www.python.org,200,157.72,True,,ok
+2026-10-13T06:05:00.993Z,GitHub API,https://api.github.com,200,154.63,True,,ok
+2026-10-13T06:10:00.419Z,Example.com,https://example.com,200,102.04,True,,ok
+2026-10-13T06:10:00.475Z,GitHub API,https://api.github.com,200,170.98,True,,ok
+2026-10-13T06:10:00.484Z,HTTPBin health,https://httpbin.org/status/200,200,296.08,True,,ok
+2026-10-13T06:10:00.749Z,Python.org,https://www.python.org,200,145.81,True,,ok
+2026-10-13T06:15:00.388Z,Example.com,https://example.com,200,98.23,True,,ok
+2026-10-13T06:15:00.416Z,GitHub API,https://api.github.com,200,197.06,True,,ok
+2026-10-13T06:15:00.824Z,Python.org,https://www.python.org,200,169.06,True,,ok
+2026-10-13T06:15:00.988Z,HTTPBin health,https://httpbin.org/status/200,200,439.15,True,,ok
+2026-10-13T06:20:00.174Z,Python.org,https://www.python.org,200,183.0,True,,ok
+2026-10-13T06:20:00.635Z,GitHub API,https://api.github.com,200,154.33,True,,ok
+2026-10-13T06:20:00.800Z,HTTPBin health,https://httpbin.org/status/200,200,502.47,True,,ok
+2026-10-13T06:20:00.918Z,Example.com,https://example.com,200,100.54,True,,ok
+2026-10-13T06:25:00.154Z,Example.com,https://example.com,200,143.65,True,,ok
+2026-10-13T06:25:00.556Z,Python.org,https://www.python.org,200,209.26,True,,ok
+2026-10-13T06:25:00.834Z,HTTPBin health,https://httpbin.org/status/200,200,415.56,True,,ok
+2026-10-13T06:25:00.901Z,GitHub API,https://api.github.com,200,113.09,True,,ok
+2026-10-13T06:30:00.015Z,Python.org,https://www.python.org,200,250.0,True,,ok
+2026-10-13T06:30:00.110Z,GitHub API,https://api.github.com,200,163.8,True,,ok
+2026-10-13T06:30:00.610Z,Example.com,https://example.com,200,79.57,True,,ok
+2026-10-13T06:30:00.713Z,HTTPBin health,https://httpbin.org/status/200,200,462.24,True,,ok
+2026-10-13T06:35:00.165Z,Python.org,https://www.python.org,200,138.53,True,,ok
+2026-10-13T06:35:00.263Z,HTTPBin health,https://httpbin.org/status/200,200,456.83,True,,ok
+2026-10-13T06:35:00.509Z,Example.com,https://example.com,200,68.51,True,,ok
+2026-10-13T06:35:00.800Z,GitHub API,https://api.github.com,200,142.0,True,,ok
+2026-10-13T06:40:00.189Z,HTTPBin health,https://httpbin.org/status/200,200,333.82,True,,ok
+2026-10-13T06:40:00.305Z,GitHub API,https://api.github.com,200,115.54,True,,ok
+2026-10-13T06:40:00.362Z,Python.org,https://www.python.org,200,173.05,True,,ok
+2026-10-13T06:40:00.782Z,Example.com,https://example.com,200,89.58,True,,ok
+2026-10-13T06:45:00.318Z,HTTPBin health,https://httpbin.org/status/200,200,303.44,True,,ok
+2026-10-13T06:45:00.406Z,Python.org,https://www.python.org,200,170.77,True,,ok
+2026-10-13T06:45:00.455Z,Example.com,https://example.com,200,121.7,True,,ok
+2026-10-13T06:45:00.573Z,GitHub API,https://api.github.com,200,136.7,True,,ok
+2026-10-13T06:50:00.035Z,HTTPBin health,https://httpbin.org/status/200,200,383.02,True,,ok
+2026-10-13T06:50:00.379Z,Python.org,https://www.python.org,200,207.47,True,,ok
+2026-10-13T06:50:00.426Z,Example.com,https://example.com,200,101.7,True,,ok
+2026-10-13T06:50:00.721Z,GitHub API,https://api.github.com,200,118.18,True,,ok
+2026-10-13T06:55:00.163Z,HTTPBin health,https://httpbin.org/status/200,200,544.82,True,,ok
+2026-10-13T06:55:00.439Z,Example.com,https://example.com,200,77.3,True,,ok
+2026-10-13T06:55:00.772Z,Python.org,https://www.python.org,200,168.48,True,,ok
+2026-10-13T06:55:00.839Z,GitHub API,https://api.github.com,200,110.6,True,,ok
+2026-10-13T07:00:00.059Z,Example.com,https://example.com,200,92.42,True,,ok
+2026-10-13T07:00:00.276Z,HTTPBin health,https://httpbin.org/status/200,200,339.17,True,,ok
+2026-10-13T07:00:00.299Z,GitHub API,https://api.github.com,200,119.08,True,,ok
+2026-10-13T07:00:00.603Z,Python.org,https://www.python.org,200,195.04,True,,ok
+2026-10-13T07:05:00.223Z,Example.com,https://example.com,200,92.32,True,,ok
+2026-10-13T07:05:00.361Z,HTTPBin health,https://httpbin.org/status/200,200,448.77,True,,ok
+2026-10-13T07:05:00.392Z,Python.org,https://www.python.org,200,161.89,True,,ok
+2026-10-13T07:05:00.492Z,GitHub API,https://api.github.com,200,142.98,True,,ok
+2026-10-13T07:10:00.259Z,GitHub API,https://api.github.com,200,127.38,True,,ok
+2026-10-13T07:10:00.321Z,Python.org,https://www.python.org,200,157.41,True,,ok
+2026-10-13T07:10:00.617Z,Example.com,https://example.com,200,87.74,True,,ok
+2026-10-13T07:10:00.703Z,HTTPBin health,https://httpbin.org/status/200,200,459.58,True,,ok
+2026-10-13T07:15:00.240Z,GitHub API,https://api.github.com,200,154.1,True,,ok
+2026-10-13T07:15:00.344Z,Example.com,https://example.com,200,89.57,True,,ok
+2026-10-13T07:15:00.478Z,HTTPBin health,https://httpbin.org/status/200,200,495.96,True,,ok
+2026-10-13T07:15:00.759Z,Python.org,https://www.python.org,200,173.82,True,,ok
+2026-10-13T07:20:00.460Z,HTTPBin health,https://httpbin.org/status/200,200,480.31,True,,ok
+2026-10-13T07:20:00.771Z,Example.com,https://example.com,200,79.94,True,,ok
+2026-10-13T07:20:00.944Z,Python.org,https://www.python.org,200,167.51,True,,ok
+2026-10-13T07:20:00.978Z,GitHub API,https://api.github.com,200,152.83,True,,ok
+2026-10-13T07:25:00.106Z,GitHub API,https://api.github.com,200,108.31,True,,ok
+2026-10-13T07:25:00.448Z,HTTPBin health,https://httpbin.org/status/200,200,477.66,True,,ok
+2026-10-13T07:25:00.448Z,Python.org,https://www.python.org,200,195.65,True,,ok
+2026-10-13T07:25:00.758Z,Example.com,https://example.com,200,111.86,True,,ok
+2026-10-13T07:30:00.004Z,HTTPBin health,https://httpbin.org/status/200,200,345.41,True,,ok
+2026-10-13T07:30:00.019Z,Python.org,https://www.python.org,200,149.1,True,,ok
+2026-10-13T07:30:00.521Z,Example.com,https://example.com,200,109.1,True,,ok
+2026-10-13T07:30:00.542Z,GitHub API,https://api.github.com,200,98.11,True,,ok
+2026-10-13T07:35:00.065Z,Python.org,https://www.python.org,200,216.72,True,,ok
+2026-10-13T07:35:00.403Z,HTTPBin health,https://httpbin.org/status/200,200,480.88,True,,ok
+2026-10-13T07:35:00.454Z,GitHub API,https://api.github.com,200,147.54,True,,ok
+2026-10-13T07:35:00.908Z,Example.com,https://example.com,200,108.63,True,,ok
+2026-10-13T07:40:00.198Z,GitHub API,https://api.github.com,200,147.91,True,,ok
+2026-10-13T07:40:00.474Z,Example.com,https://example.com,200,81.07,True,,ok
+2026-10-13T07:40:00.479Z,HTTPBin health,https://httpbin.org/status/200,200,426.03,True,,ok
+2026-10-13T07:40:00.501Z,Python.org,https://www.python.org,200,161.39,True,,ok
+2026-10-13T07:45:00.325Z,HTTPBin health,https://httpbin.org/status/200,200,290.52,True,,ok
+2026-10-13T07:45:00.402Z,GitHub API,https://api.github.com,200,101.65,True,,ok
+2026-10-13T07:45:00.810Z,Example.com,https://example.com,200,136.37,True,,ok
+2026-10-13T07:45:00.948Z,Python.org,https://www.python.org,200,148.92,True,,ok
+2026-10-13T07:50:00.174Z,Example.com,https://example.com,200,80.89,True,,ok
+2026-10-13T07:50:00.459Z,GitHub API,https://api.github.com,200,133.55,True,,ok
+2026-10-13T07:50:00.530Z,Python.org,https://www.python.org,200,183.55,True,,ok
+2026-10-13T07:50:00.804Z,HTTPBin health,https://httpbin.org/status/200,200,567.32,True,,ok
+2026-10-13T07:55:00.255Z,HTTPBin health,https://httpbin.org/status/200,200,445.98,True,,ok
+2026-10-13T07:55:00.619Z,Python.org,https://www.python.org,200,138.63,True,,ok
+2026-10-13T07:55:00.692Z,Example.com,https://example.com,200,78.1,True,,ok
+2026-10-13T07:55:00.696Z,GitHub API,https://api.github.com,200,116.95,True,,ok
+2026-10-13T08:00:00.300Z,GitHub API,https://api.github.com,200,130.26,True,,ok
+2026-10-13T08:00:00.610Z,HTTPBin health,https://httpbin.org/status/200,200,451.23,True,,ok
+2026-10-13T08:00:00.675Z,Python.org,https://www.python.org,200,197.24,True,,ok
+2026-10-13T08:00:00.827Z,Example.com,https://example.com,200,104.96,True,,ok
+2026-10-13T08:05:00.102Z,Example.com,https://example.com,200,117.84,True,,ok
+2026-10-13T08:05:00.457Z,Python.org,https://www.python.org,200,198.44,True,,ok
+2026-10-13T08:05:00.542Z,GitHub API,https://api.github.com,200,187.67,True,,ok
+2026-10-13T08:05:00.663Z,HTTPBin health,https://httpbin.org/status/200,200,361.02,True,,ok
+2026-10-13T08:10:00.115Z,GitHub API,https://api.github.com,200,160.26,True,,ok
+2026-10-13T08:10:00.300Z,Python.org,https://www.python.org,200,192.91,True,,ok
+2026-10-13T08:10:00.332Z,HTTPBin health,https://httpbin.org/status/200,200,485.99,True,,ok
+2026-10-13T08:10:00.652Z,Example.com,https://example.com,200,106.42,True,,ok
+2026-10-13T08:15:00.011Z,Example.com,https://example.com,200,115.92,True,,ok
+2026-10-13T08:15:00.036Z,GitHub API,https://api.github.com,200,106.32,True,,ok
+2026-10-13T08:15:00.730Z,HTTPBin health,https://httpbin.org/status/200,200,366.71,True,,ok
+2026-10-13T08:15:00.897Z,Python.org,https://www.python.org,200,174.0,True,,ok
+2026-10-13T08:20:00.416Z,Python.org,https://www.python.org,200,219.52,True,,ok
+2026-10-13T08:20:00.784Z,GitHub API,https://api.github.com,200,183.64,True,,ok
+2026-10-13T08:20:00.789Z,Example.com,https://example.com,200,87.29,True,,ok
+2026-10-13T08:20:00.995Z,HTTPBin health,https://httpbin.org/status/200,200,486.76,True,,ok
+2026-10-13T08:25:00.248Z,Python.org,https://www.python.org,200,200.87,True,,ok
+2026-10-13T08:25:00.371Z,GitHub API,https://api.github.com,200,152.31,True,,ok
+2026-10-13T08:25:00.617Z,Example.com,https://example.com,200,84.96,True,,ok
+2026-10-13T08:25:00.823Z,HTTPBin health,https://httpbin.org/status/200,200,240.51,True,,ok
+2026-10-13T08:30:00.015Z,GitHub API,https://api.github.com,200,160.97,True,,ok
+2026-10-13T08:30:00.178Z,HTTPBin health,https://httpbin.org/status/200,200,506.97,True,,ok
+2026-10-13T08:30:00.340Z,Example.com,https://example.com,200,118.88,True,,ok
+2026-10-13T08:30:00.434Z,Python.org,https://www.python.org,200,128.22,True,,ok
+2026-10-13T08:35:00.553Z,GitHub API,https://api.github.com,200,147.06,True,,ok
+2026-10-13T08:35:00.623Z,HTTPBin health,https://httpbin.org/status/200,200,365.66,True,,ok
+2026-10-13T08:35:00.629Z,Python.org,https://www.python.org,200,133.36,True,,ok
+2026-10-13T08:35:00.887Z,Example.com,https://example.com,200,122.09,True,,ok
+2026-10-13T08:40:00.310Z,GitHub API,https://api.github.com,200,179.41,True,,ok
+2026-10-13T08:40:00.465Z,Example.com,https://example.com,200,97.82,True,,ok
+2026-10-13T08:40:00.559Z,HTTPBin health,https://httpbin.org/status/200,200,519.69,True,,ok
+2026-10-13T08:40:00.735Z,Python.org,https://www.python.org,200,126.79,True,,ok
+2026-10-13T08:45:00.034Z,Example.com,https://example.com,200,79.25,True,,ok
+2026-10-13T08:45:00.270Z,HTTPBin health,https://httpbin.org/status/200,200,419.85,True,,ok
+2026-10-13T08:45:00.410Z,GitHub API,https://api.github.com,200,209.88,True,,ok
+2026-10-13T08:45:00.658Z,Python.org,https://www.python.org,200,203.42,True,,ok
+2026-10-13T08:50:00.005Z,GitHub API,https://api.github.com,200,132.1,True,,ok
+2026-10-13T08:50:00.127Z,HTTPBin health,https://httpbin.org/status/200,200,479.49,True,,ok
+2026-10-13T08:50:00.351Z,Python.org,https://www.python.org,200,193.72,True,,ok
+2026-10-13T08:50:00.980Z,Example.com,https://example.com,200,133.16,True,,ok
+2026-10-13T08:55:00.035Z,GitHub API,https://api.github.com,200,167.56,True,,ok
+2026-10-13T08:55:00.045Z,Python.org,https://www.python.org,200,196.22,True,,ok
+2026-10-13T08:55:00.471Z,HTTPBin health,https://httpbin.org/status/200,200,409.57,True,,ok
+2026-10-13T08:55:00.825Z,Example.com,https://example.com,200,79.66,True,,ok
+2026-10-13T09:00:00.220Z,HTTPBin health,https://httpbin.org/status/200,200,404.07,True,,ok
+2026-10-13T09:00:00.669Z,Example.com,https://example.com,200,101.72,True,,ok
+2026-10-13T09:00:00.822Z,GitHub API,https://api.github.com,200,120.78,True,,ok
+2026-10-13T09:00:00.859Z,Python.org,https://www.python.org,200,174.25,True,,ok
+2026-10-13T09:05:00.058Z,GitHub API,https://api.github.com,200,150.79,True,,ok
+2026-10-13T09:05:00.096Z,HTTPBin health,https://httpbin.org/status/200,200,408.48,True,,ok
+2026-10-13T09:05:00.123Z,Python.org,https://www.python.org,200,174.29,True,,ok
+2026-10-13T09:05:00.829Z,Example.com,https://example.com,200,102.87,True,,ok
+2026-10-13T09:10:00.336Z,Python.org,https://www.python.org,200,177.04,True,,ok
+2026-10-13T09:10:00.586Z,HTTPBin health,https://httpbin.org/status/200,200,353.37,True,,ok
+2026-10-13T09:10:00.679Z,Example.com,https://example.com,200,94.43,True,,ok
+2026-10-13T09:10:00.847Z,GitHub API,https://api.github.com,200,160.35,True,,ok
+2026-10-13T09:15:00.127Z,Python.org,https://www.python.org,200,163.14,True,,ok
+2026-10-13T09:15:00.417Z,GitHub API,https://api.github.com,200,121.74,True,,ok
+2026-10-13T09:15:00.570Z,HTTPBin health,https://httpbin.org/status/200,200,436.31,True,,ok
+2026-10-13T09:15:00.698Z,Example.com,https://example.com,200,90.07,True,,ok
+2026-10-13T09:20:00.178Z,HTTPBin health,https://httpbin.org/status/200,200,506.91,True,,ok
+2026-10-13T09:20:00.311Z,Python.org,https://www.python.org,200,179.25,True,,ok
+2026-10-13T09:20:00.936Z,Example.com,https://example.com,200,91.7,True,,ok
+2026-10-13T09:20:00.954Z,GitHub API,https://api.github.com,200,90.8,True,,ok
+2026-10-13T09:25:00.089Z,HTTPBin health,https://httpbin.org/status/200,200,519.34,True,,ok
+2026-10-13T09:25:00.121Z,Example.com,https://example.com,200,122.12,True,,ok
+2026-10-13T09:25:00.303Z,Python.org,https://www.python.org,200,199.55,True,,ok
+2026-10-13T09:25:00.826Z,GitHub API,https://api.github.com,200,183.31,True,,ok
+2026-10-13T09:30:00.253Z,HTTPBin health,https://httpbin.org/status/200,200,474.18,True,,ok
+2026-10-13T09:30:00.280Z,GitHub API,https://api.github.com,200,157.62,True,,ok
+2026-10-13T09:30:00.291Z,Python.org,https://www.python.org,200,182.44,True,,ok
+2026-10-13T09:30:00.754Z,Example.com,https://example.com,200,107.34,True,,ok
+2026-10-13T09:35:00.169Z,Example.com,https://example.com,200,89.36,True,,ok
+2026-10-13T09:35:00.631Z,HTTPBin health,https://httpbin.org/status/200,200,391.9,True,,ok
+2026-10-13T09:35:00.923Z,GitHub API,https://api.github.com,200,171.9,True,,ok
+2026-10-13T09:35:00.984Z,Python.org,https://www.python.org,200,166.99,True,,ok
+2026-10-13T09:40:00.723Z,Example.com,https://example.com,200,100.93,True,,ok
+2026-10-13T09:40:00.724Z,Python.org,https://www.python.org,200,182.44,True,,ok
+2026-10-13T09:40:00.859Z,GitHub API,https://api.github.com,200,163.77,True,,ok
+2026-10-13T09:40:00.991Z,HTTPBin health,https://httpbin.org/status/200,200,309.71,True,,ok
+2026-10-13T09:45:00.295Z,GitHub API,https://api.github.com,200,221.85,True,,ok
+2026-10-13T09:45:00.372Z,Python.org,https://www.python.org,200,124.54,True,,ok
+2026-10-13T09:45:00.425Z,Example.com,https://example.com,200,114.96,True,,ok
+2026-10-13T09:45:00.970Z,HTTPBin health,https://httpbin.org/status/200,200,361.62,True,,ok
+2026-10-13T09:50:00.232Z,HTTPBin health,https://httpbin.org/status/200,200,523.46,True,,ok
+2026-10-13T09:50:00.443Z,GitHub API,https://api.github.com,200,139.52,True,,ok
+2026-10-13T09:50:00.531Z,Python.org,https://www.python.org,200,204.71,True,,ok
+2026-10-13T09:50:00.922Z,Example.com,https://example.com,200,88.68,True,,ok
+2026-10-13T09:55:00.400Z,Example.com,https://example.com,200,99.71,True,,ok
+2026-10-13T09:55:00.419Z,GitHub API,https://api.github.com,200,128.09,True,,ok
+2026-10-13T09:55:00.479Z,Python.org,https://www.python.org,200,176.39,True,,ok
+2026-10-13T09:55:00.843Z,HTTPBin health,https://httpbin.org/status/200,200,344.76,True,,ok
+2026-10-13T10:00:00.036Z,Python.org,https://www.python.org,200,206.57,True,,ok
+2026-10-13T10:00:00.564Z,HTTPBin health,https://httpbin.org/status/200,200,525.98,True,,ok
+2026-10-13T10:00:00.801Z,GitHub API,https://api.github.com,200,110.74,True,,ok
+2026-10-13T10:00:00.894Z,Example.com,https://example.com,200,115.54,True,,ok
+2026-10-13T10:05:00.044Z,GitHub API,https://api.github.com,200,118.8,True,,ok
+2026-10-13T10:05:00.145Z,HTTPBin health,https://httpbin.org/status/200,200,379.84,True,,ok
+2026-10-13T10:05:00.497Z,Python.org,https://www.python.org,200,216.06,True,,ok
+2026-10-13T10:05:00.979Z,Example.com,https://example.com,200,106.9,True,,ok
+2026-10-13T10:10:00.522Z,Python.org,https://www.python.org,200,255.84,True,,ok
+2026-10-13T10:10:00.580Z,HTTPBin health,https://httpbin.org/status/200,200,323.23,True,,ok
+2026-10-13T10:10:00.890Z,Example.com,https://example.com,200,102.29,True,,ok
+2026-10-13T10:10:00.900Z,GitHub API,https://api.github.com,200,150.57,True,,ok
+2026-10-13T10:15:00.183Z,GitHub API,https://api.github.com,200,172.83,True,,ok
+2026-10-13T10:15:00.345Z,Python.org,https://www.python.org,200,181.53,True,,ok
+2026-10-13T10:15:00.389Z,Example.com,https://example.com,200,88.04,True,,ok
+2026-10-13T10:15:00.844Z,HTTPBin health,https://httpbin.org/status/200,200,442.0,True,,ok
+2026-10-13T10:20:00.434Z,Example.com,https://example.com,200,86.77,True,,ok
+2026-10-13T10:20:00.811Z,Python.org,https://www.python.org,200,186.08,True,,ok
+2026-10-13T10:20:00.901Z,HTTPBin health,https://httpbin.org/status/200,200,351.05,True,,ok
+2026-10-13T10:20:00.936Z,GitHub API,https://api.github.com,200,102.6,True,,ok
+2026-10-13T10:25:00.434Z,GitHub API,https://api.github.com,200,141.38,True,,ok
+2026-10-13T10:25:00.532Z,Example.com,https://example.com,200,102.29,True,,ok
+2026-10-13T10:25:00.559Z,HTTPBin health,https://httpbin.org/status/200,200,347.1,True,,ok
+2026-10-13T10:25:00.991Z,Python.org,https://www.python.org,200,193.02,True,,ok
+2026-10-13T10:30:00.041Z,Python.org,https://www.python.org,200,216.06,True,,ok
+2026-10-13T10:30:00.203Z,GitHub API,https://api.github.com,200,131.77,True,,ok
+2026-10-13T10:30:00.730Z,Example.com,https://example.com,200,110.03,True,,ok
+2026-10-13T10:30:00.811Z,HTTPBin health,https://httpbin.org/status/200,200,411.32,True,,ok
+2026-10-13T10:35:00.341Z,HTTPBin health,https://httpbin.org/status/200,200,393.83,True,,ok
+2026-10-13T10:35:00.713Z,GitHub API,https://api.github.com,200,148.9,True,,ok
+2026-10-13T10:35:00.909Z,Python.org,https://www.python.org,200,182.3,True,,ok
+2026-10-13T10:35:00.979Z,Example.com,https://example.com,200,78.3,True,,ok
+2026-10-13T10:40:00.255Z,GitHub API,https://api.github.com,200,133.49,True,,ok
+2026-10-13T10:40:00.488Z,Python.org,https://www.python.org,200,160.36,True,,ok
+2026-10-13T10:40:00.503Z,HTTPBin health,https://httpbin.org/status/200,200,427.16,True,,ok
+2026-10-13T10:40:00.602Z,Example.com,https://example.com,200,110.81,True,,ok
+2026-10-13T10:45:00.142Z,Python.org,https://www.python.org,200,181.81,True,,ok
+2026-10-13T10:45:00.387Z,Example.com,https://example.com,200,104.24,True,,ok
+2026-10-13T10:45:00.744Z,GitHub API,https://api.github.com,200,143.72,True,,ok
+2026-10-13T10:45:00.973Z,HTTPBin health,https://httpbin.org/status/200,200,480.36,True,,ok
+2026-10-13T10:50:00.402Z,GitHub API,https://api.github.com,200,98.92,True,,ok
+2026-10-13T10:50:00.797Z,Example.com,https://example.com,200,88.77,True,,ok
+2026-10-13T10:50:00.844Z,Python.org,https://www.python.org,200,247.37,True,,ok
+2026-10-13T10:50:00.943Z,HTTPBin health,https://httpbin.org/status/200,200,412.92,True,,ok
+2026-10-13T10:55:00.016Z,GitHub API,https://api.github.com,200,175.71,True,,ok
+2026-10-13T10:55:00.207Z,Python.org,https://www.python.org,200,147.67,True,,ok
+2026-10-13T10:55:00.604Z,Example.com,https://example.com,200,84.52,True,,ok
+2026-10-13T10:55:00.956Z,HTTPBin health,https://httpbin.org/status/200,200,435.9,True,,ok
+2026-10-13T11:00:00.047Z,Example.com,https://example.com,200,118.21,True,,ok
+2026-10-13T11:00:00.217Z,GitHub API,https://api.github.com,200,117.12,True,,ok
+2026-10-13T11:00:00.842Z,Python.org,https://www.python.org,200,157.83,True,,ok
+2026-10-13T11:00:00.964Z,HTTPBin health,https://httpbin.org/status/200,200,472.19,True,,ok
+2026-10-13T11:05:00.032Z,Python.org,https://www.python.org,200,201.37,True,,ok
+2026-10-13T11:05:00.057Z,Example.com,https://example.com,200,95.32,True,,ok
+2026-10-13T11:05:00.770Z,HTTPBin health,https://httpbin.org/status/200,200,394.83,True,,ok
+2026-10-13T11:05:00.895Z,GitHub API,https://api.github.com,200,167.32,True,,ok
+2026-10-13T11:10:00.061Z,GitHub API,https://api.github.com,200,147.6,True,,ok
+2026-10-13T11:10:00.581Z,Python.org,https://www.python.org,200,144.3,True,,ok
+2026-10-13T11:10:00.730Z,HTTPBin health,https://httpbin.org/status/200,200,350.1,True,,ok
+2026-10-13T11:10:00.827Z,Example.com,https://example.com,200,77.91,True,,ok
+2026-10-13T11:15:00.169Z,Example.com,https://example.com,200,124.33,True,,ok
+2026-10-13T11:15:00.562Z,Python.org,https://www.python.org,200,220.73,True,,ok
+2026-10-13T11:15:00.919Z,GitHub API,https://api.github.com,200,140.27,True,,ok
+2026-10-13T11:15:00.982Z,HTTPBin health,https://httpbin.org/status/200,200,469.04,True,,ok
+2026-10-13T11:20:00.308Z,GitHub API,https://api.github.com,200,111.74,True,,ok
+2026-10-13T11:20:00.308Z,HTTPBin health,https://httpbin.org/status/200,200,451.43,True,,ok
+2026-10-13T11:20:00.686Z,Example.com,https://example.com,200,119.19,True,,ok
+2026-10-13T11:20:00.864Z,Python.org,https://www.python.org,200,183.34,True,,ok
+2026-10-13T11:25:00.036Z,GitHub API,https://api.github.com,200,146.79,True,,ok
+2026-10-13T11:25:00.505Z,HTTPBin health,https://httpbin.org/status/200,200,475.21,True,,ok
+2026-10-13T11:25:00.587Z,Example.com,https://example.com,200,112.54,True,,ok
+2026-10-13T11:25:00.777Z,Python.org,https://www.python.org,200,192.0,True,,ok
+2026-10-13T11:30:00.022Z,Python.org,https://www.python.org,200,175.72,True,,ok
+2026-10-13T11:30:00.220Z,HTTPBin health,https://httpbin.org/status/200,200,354.93,True,,ok
+2026-10-13T11:30:00.457Z,GitHub API,https://api.github.com,200,152.32,True,,ok
+2026-10-13T11:30:00.556Z,Example.com,https://example.com,200,145.01,True,,ok
+2026-10-13T11:35:00.130Z,HTTPBin health,https://httpbin.org/status/200,200,464.91,True,,ok
+2026-10-13T11:35:00.501Z,Python.org,https://www.python.org,200,146.68,True,,ok
+2026-10-13T11:35:00.929Z,GitHub API,https://api.github.com,200,154.94,True,,ok
+2026-10-13T11:35:00.985Z,Example.com,https://example.com,200,109.75,True,,ok
+2026-10-13T11:40:00.091Z,GitHub API,https://api.github.com,200,130.31,True,,ok
+2026-10-13T11:40:00.148Z,Example.com,https://example.com,200,94.49,True,,ok
+2026-10-13T11:40:00.153Z,HTTPBin health,https://httpbin.org/status/200,200,444.28,True,,ok
+2026-10-13T11:40:00.842Z,Python.org,https://www.python.org,200,155.47,True,,ok
+2026-10-13T11:45:00.467Z,Python.org,https://www.python.org,200,219.98,True,,ok
+2026-10-13T11:45:00.654Z,GitHub API,https://api.github.com,200,156.31,True,,ok
+2026-10-13T11:45:00.748Z,HTTPBin health,https://httpbin.org/status/200,200,395.8,True,,ok
+2026-10-13T11:45:00.864Z,Example.com,https://example.com,200,95.94,True,,ok
+2026-10-13T11:50:00.081Z,GitHub API,https://api.github.com,200,153.43,True,,ok
+2026-10-13T11:50:00.404Z,HTTPBin health,https://httpbin.org/status/200,200,360.62,True,,ok
+2026-10-13T11:50:00.536Z,Python.org,https://www.python.org,200,150.37,True,,ok
+2026-10-13T11:50:00.979Z,Example.com,https://example.com,200,94.0,True,,ok
+2026-10-13T11:55:00.115Z,GitHub API,https://api.github.com,200,115.05,True,,ok
+2026-10-13T11:55:00.515Z,Example.com,https://example.com,200,109.15,True,,ok
+2026-10-13T11:55:00.622Z,HTTPBin health,https://httpbin.org/status/200,200,292.7,True,,ok
+2026-10-13T11:55:00.877Z,Python.org,https://www.python.org,200,163.41,True,,ok
+2026-10-13T12:00:00.276Z,Example.com,https://example.com,200,138.53,True,,ok
+2026-10-13T12:00:00.339Z,HTTPBin health,https://httpbin.org/status/200,200,505.7,True,,ok
+2026-10-13T12:00:00.354Z,Python.org,https://www.python.org,200,183.28,True,,ok
+2026-10-13T12:00:00.837Z,GitHub API,https://api.github.com,200,90.44,True,,ok
+2026-10-13T12:05:00.021Z,Example.com,https://example.com,200,108.62,True,,ok
+2026-10-13T12:05:00.026Z,GitHub API,https://api.github.com,200,146.82,True,,ok
+2026-10-13T12:05:00.114Z,HTTPBin health,https://httpbin.org/status/200,200,487.76,True,,ok
+2026-10-13T12:05:00.972Z,Python.org,https://www.python.org,200,185.75,True,,ok
+2026-10-13T12:10:00.229Z,Python.org,https://www.python.org,200,185.7,True,,ok
+2026-10-13T12:10:00.275Z,HTTPBin health,https://httpbin.org/status/200,200,269.07,True,,ok
+2026-10-13T12:10:00.438Z,Example.com,https://example.com,200,105.89,True,,ok
+2026-10-13T12:10:00.753Z,GitHub API,https://api.github.com,200,207.47,True,,ok
+2026-10-13T12:15:00.323Z,Python.org,https://www.python.org,200,150.66,True,,ok
+2026-10-13T12:15:00.378Z,Example.com,https://example.com,200,73.19,True,,ok
+2026-10-13T12:15:00.680Z,GitHub API,https://api.github.com,200,138.96,True,,ok
+2026-10-13T12:15:00.919Z,HTTPBin health,https://httpbin.org/status/200,200,585.45,True,,ok
+2026-10-13T12:20:00.076Z,Example.com,https://example.com,200,89.87,True,,ok
+2026-10-13T12:20:00.175Z,GitHub API,https://api.github.com,200,151.52,True,,ok
+2026-10-13T12:20:00.584Z,Python.org,https://www.python.org,200,154.58,True,,ok
+2026-10-13T12:20:00.848Z,HTTPBin health,https://httpbin.org/status/200,200,321.4,True,,ok
+2026-10-13T12:25:00.179Z,Python.org,https://www.python.org,200,190.25,True,,ok
+2026-10-13T12:25:00.341Z,Example.com,https://example.com,200,118.89,True,,ok
+2026-10-13T12:25:00.582Z,GitHub API,https://api.github.com,200,135.16,True,,ok
+2026-10-13T12:25:00.899Z,HTTPBin health,https://httpbin.org/status/200,200,376.99,True,,ok
+2026-10-13T12:30:00.394Z,HTTPBin health,https://httpbin.org/status/200,200,385.12,True,,ok
+2026-10-13T12:30:00.655Z,Example.com,https://example.com,200,126.36,True,,ok
+2026-10-13T12:30:00.755Z,GitHub API,https://api.github.com,200,91.63,True,,ok
+2026-10-13T12:30:00.809Z,Python.org,https://www.python.org,200,183.6,True,,ok
+2026-10-13T12:35:00.028Z,GitHub API,https://api.github.com,200,176.98,True,,ok
+2026-10-13T12:35:00.249Z,HTTPBin health,https://httpbin.org/status/200,200,493.43,True,,ok
+2026-10-13T12:35:00.512Z,Python.org,https://www.python.org,200,251.65,True,,ok
+2026-10-13T12:35:00.847Z,Example.com,https://example.com,200,101.25,True,,ok
+2026-10-13T12:40:00.424Z,HTTPBin health,https://httpbin.org/status/200,200,488.1,True,,ok
+2026-10-13T12:40:00.555Z,GitHub API,https://api.github.com,200,131.22,True,,ok
+2026-10-13T12:40:00.594Z,Python.org,https://www.python.org,200,203.77,True,,ok
+2026-10-13T12:40:00.805Z,Example.com,https://example.com,200,109.19,True,,ok
+2026-10-13T12:45:00.470Z,Python.org,https://www.python.org,200,201.2,True,,ok
+2026-10-13T12:45:00.684Z,HTTPBin health,https://httpbin.org/status/200,200,406.39,True,,ok
+2026-10-13T12:45:00.863Z,GitHub API,https://api.github.com,200,114.49,True,,ok
+2026-10-13T12:45:00.948Z,Example.com,https://example.com,200,98.2,True,,ok
+2026-10-13T12:50:00.217Z,Example.com,https://example.com,200,87.12,True,,ok
+2026-10-13T12:50:00.439Z,GitHub API,https://api.github.com,200,119.35,True,,ok
+2026-10-13T12:50:00.854Z,Python.org,https://www.python.org,200,207.32,True,,ok
+2026-10-13T12:50:00.875Z,HTTPBin health,https://httpbin.org/status/200,200,455.15,True,,ok
+2026-10-13T12:55:00.467Z,GitHub API,https://api.github.com,200,105.24,True,,ok
+2026-10-13T12:55:00.512Z,HTTPBin health,https://httpbin.org/status/200,200,479.99,True,,ok
+2026-10-13T12:55:00.709Z,Example.com,https://example.com,200,90.6,True,,ok
+2026-10-13T12:55:00.750Z,Python.org,https://www.python.org,200,190.74,True,,ok
+2026-10-13T13:00:00.031Z,Example.com,https://example.com,200,103.5,True,,ok
+2026-10-13T13:00:00.200Z,Python.org,https://www.python.org,200,177.31,True,,ok
+2026-10-13T13:00:00.492Z,GitHub API,https://api.github.com,200,146.35,True,,ok
+2026-10-13T13:00:00.778Z,HTTPBin health,https://httpbin.org/status/200,200,585.67,True,,ok
+2026-10-13T13:05:00.207Z,HTTPBin health,https://httpbin.org/status/200,503,88.87,False,unexpected status 503 (expected [200]),n/a
+2026-10-13T13:05:00.464Z,Example.com,https://example.com,200,131.95,True,,ok
+2026-10-13T13:05:00.472Z,GitHub API,https://api.github.com,200,130.68,True,,ok
+2026-10-13T13:05:00.482Z,Python.org,https://www.python.org,200,207.06,True,,ok
+2026-10-13T13:10:00.137Z,Python.org,https://www.python.org,200,214.39,True,,ok
+2026-10-13T13:10:00.255Z,GitHub API,https://api.github.com,200,122.68,True,,ok
+2026-10-13T13:10:00.619Z,Example.com,https://example.com,200,88.93,True,,ok
+2026-10-13T13:10:00.761Z,HTTPBin health,https://httpbin.org/status/200,503,62.23,False,unexpected status 503 (expected [200]),n/a
+2026-10-13T13:15:00.308Z,HTTPBin health,https://httpbin.org/status/200,503,106.82,False,unexpected status 503 (expected [200]),n/a
+2026-10-13T13:15:00.373Z,GitHub API,https://api.github.com,200,104.79,True,,ok
+2026-10-13T13:15:00.399Z,Example.com,https://example.com,200,89.88,True,,ok
+2026-10-13T13:15:00.855Z,Python.org,https://www.python.org,200,157.55,True,,ok
+2026-10-13T13:20:00.049Z,Python.org,https://www.python.org,200,157.53,True,,ok
+2026-10-13T13:20:00.520Z,Example.com,https://example.com,200,74.38,True,,ok
+2026-10-13T13:20:00.549Z,HTTPBin health,https://httpbin.org/status/200,503,80.78,False,unexpected status 503 (expected [200]),n/a
+2026-10-13T13:20:00.795Z,GitHub API,https://api.github.com,200,110.67,True,,ok
+2026-10-13T13:25:00.041Z,HTTPBin health,https://httpbin.org/status/200,503,72.35,False,unexpected status 503 (expected [200]),n/a
+2026-10-13T13:25:00.445Z,Python.org,https://www.python.org,200,165.65,True,,ok
+2026-10-13T13:25:00.648Z,GitHub API,https://api.github.com,200,181.16,True,,ok
+2026-10-13T13:25:00.807Z,Example.com,https://example.com,200,103.42,True,,ok
+2026-10-13T13:30:00.108Z,GitHub API,https://api.github.com,200,126.8,True,,ok
+2026-10-13T13:30:00.256Z,HTTPBin health,https://httpbin.org/status/200,200,399.99,True,,ok
+2026-10-13T13:30:00.328Z,Example.com,https://example.com,200,89.63,True,,ok
+2026-10-13T13:30:00.364Z,Python.org,https://www.python.org,200,220.76,True,,ok
+2026-10-13T13:35:00.197Z,Example.com,https://example.com,200,114.41,True,,ok
+2026-10-13T13:35:00.492Z,Python.org,https://www.python.org,200,174.47,True,,ok
+2026-10-13T13:35:00.705Z,GitHub API,https://api.github.com,200,173.27,True,,ok
+2026-10-13T13:35:00.930Z,HTTPBin health,https://httpbin.org/status/200,200,613.6,True,,ok
+2026-10-13T13:40:00.337Z,HTTPBin health,https://httpbin.org/status/200,200,465.18,True,,ok
+2026-10-13T13:40:00.454Z,Python.org,https://www.python.org,200,162.59,True,,ok
+2026-10-13T13:40:00.731Z,GitHub API,https://api.github.com,200,157.43,True,,ok
+2026-10-13T13:40:00.749Z,Example.com,https://example.com,200,114.79,True,,ok
+2026-10-13T13:45:00.117Z,Example.com,https://example.com,200,99.62,True,,ok
+2026-10-13T13:45:00.145Z,GitHub API,https://api.github.com,200,115.11,True,,ok
+2026-10-13T13:45:00.237Z,Python.org,https://www.python.org,200,184.2,True,,ok
+2026-10-13T13:45:00.452Z,HTTPBin health,https://httpbin.org/status/200,200,564.92,True,,ok
+2026-10-13T13:50:00.129Z,HTTPBin health,https://httpbin.org/status/200,200,458.44,True,,ok
+2026-10-13T13:50:00.512Z,GitHub API,https://api.github.com,200,169.55,True,,ok
+2026-10-13T13:50:00.680Z,Example.com,https://example.com,200,96.44,True,,ok
+2026-10-13T13:50:00.947Z,Python.org,https://www.python.org,200,184.31,True,,ok
+2026-10-13T13:55:00.305Z,Example.com,https://example.com,200,112.29,True,,ok
+2026-10-13T13:55:00.532Z,GitHub API,https://api.github.com,200,143.08,True,,ok
+2026-10-13T13:55:00.590Z,Python.org,https://www.python.org,200,205.13,True,,ok
+2026-10-13T13:55:00.647Z,HTTPBin health,https://httpbin.org/status/200,200,332.35,True,,ok
+2026-10-13T14:00:00.107Z,Example.com,https://example.com,200,88.06,True,,ok
+2026-10-13T14:00:00.252Z,HTTPBin health,https://httpbin.org/status/200,200,566.97,True,,ok
+2026-10-13T14:00:00.809Z,GitHub API,https://api.github.com,200,147.72,True,,ok
+2026-10-13T14:00:00.905Z,Python.org,https://www.python.org,200,156.25,True,,ok
+2026-10-13T14:05:00.080Z,Python.org,https://www.python.org,200,231.88,True,,ok
+2026-10-13T14:05:00.110Z,HTTPBin health,https://httpbin.org/status/200,200,367.53,True,,ok
+2026-10-13T14:05:00.182Z,GitHub API,https://api.github.com,200,162.6,True,,ok
+2026-10-13T14:05:00.501Z,Example.com,https://example.com,200,124.44,True,,ok
+2026-10-13T14:10:00.065Z,Example.com,https://example.com,200,87.36,True,,ok
+2026-10-13T14:10:00.085Z,HTTPBin health,https://httpbin.org/status/200,200,448.25,True,,ok
+2026-10-13T14:10:00.359Z,Python.org,https://www.python.org,200,197.47,True,,ok
+2026-10-13T14:10:00.407Z,GitHub API,https://api.github.com,200,151.97,True,,ok
+2026-10-13T14:15:00.113Z,Example.com,https://example.com,200,104.45,True,,ok
+2026-10-13T14:15:00.728Z,GitHub API,https://api.github.com,200,166.03,True,,ok
+2026-10-13T14:15:00.905Z,Python.org,https://www.python.org,200,170.15,True,,ok
+2026-10-13T14:15:00.994Z,HTTPBin health,https://httpbin.org/status/200,200,477.57,True,,ok
+2026-10-13T14:20:00.096Z,GitHub API,https://api.github.com,200,148.37,True,,ok
+2026-10-13T14:20:00.261Z,HTTPBin health,https://httpbin.org/status/200,200,273.78,True,,ok
+2026-10-13T14:20:00.629Z,Example.com,https://example.com,200,120.62,True,,ok
+2026-10-13T14:20:00.981Z,Python.org,https://www.python.org,200,172.14,True,,ok
+2026-10-13T14:25:00.014Z,GitHub API,https://api.github.com,200,136.39,True,,ok
+2026-10-13T14:25:00.083Z,Example.com,https://example.com,200,96.84,True,,ok
+2026-10-13T14:25:00.158Z,Python.org,https://www.python.org,200,142.88,True,,ok
+2026-10-13T14:25:00.953Z,HTTPBin health,https://httpbin.org/status/200,200,398.6,True,,ok
+2026-10-13T14:30:00.144Z,Example.com,https://example.com,200,115.64,True,,ok
+2026-10-13T14:30:00.376Z,Python.org,https://www.python.org,200,159.65,True,,ok
+2026-10-13T14:30:00.648Z,HTTPBin health,https://httpbin.org/status/200,200,466.95,True,,ok
+2026-10-13T14:30:00.744Z,GitHub API,https://api.github.com,200,160.95,True,,ok
+2026-10-13T14:35:00.254Z,HTTPBin health,https://httpbin.org/status/200,200,351.01,True,,ok
+2026-10-13T14:35:00.459Z,GitHub API,https://api.github.com,200,133.94,True,,ok
+2026-10-13T14:35:00.560Z,Example.com,https://example.com,200,91.19,True,,ok
+2026-10-13T14:35:00.857Z,Python.org,https://www.python.org,200,209.07,True,,ok
+2026-10-13T14:40:00.008Z,Python.org,https://www.python.org,200,146.35,True,,ok
+2026-10-13T14:40:00.097Z,HTTPBin health,https://httpbin.org/status/200,200,526.88,True,,ok
+2026-10-13T14:40:00.929Z,GitHub API,https://api.github.com,200,180.68,True,,ok
+2026-10-13T14:40:00.975Z,Example.com,https://example.com,200,101.75,True,,ok
+2026-10-13T14:45:00.234Z,Python.org,https://www.python.org,200,161.5,True,,ok
+2026-10-13T14:45:00.366Z,HTTPBin health,https://httpbin.org/status/200,200,337.69,True,,ok
+2026-10-13T14:45:00.637Z,GitHub API,https://api.github.com,200,95.91,True,,ok
+2026-10-13T14:45:00.826Z,Example.com,https://example.com,200,79.93,True,,ok
+2026-10-13T14:50:00.007Z,Example.com,https://example.com,200,121.26,True,,ok
+2026-10-13T14:50:00.138Z,Python.org,https://www.python.org,200,174.35,True,,ok
+2026-10-13T14:50:00.241Z,HTTPBin health,https://httpbin.org/status/200,200,326.88,True,,ok
+2026-10-13T14:50:00.809Z,GitHub API,https://api.github.com,200,172.45,True,,ok
+2026-10-13T14:55:00.029Z,Python.org,https://www.python.org,200,175.77,True,,ok
+2026-10-13T14:55:00.256Z,Example.com,https://example.com,200,99.99,True,,ok
+2026-10-13T14:55:00.772Z,HTTPBin health,https://httpbin.org/status/200,200,488.97,True,,ok
+2026-10-13T14:55:00.954Z,GitHub API,https://api.github.com,200,132.29,True,,ok
+2026-10-13T15:00:00.003Z,GitHub API,https://api.github.com,200,100.89,True,,ok
+2026-10-13T15:00:00.194Z,Example.com,https://example.com,200,96.33,True,,ok
+2026-10-13T15:00:00.242Z,Python.org,https://www.python.org,200,197.44,True,,ok
+2026-10-13T15:00:00.414Z,HTTPBin health,https://httpbin.org/status/200,200,443.19,True,,ok
+2026-10-13T15:05:00.293Z,Python.org,https://www.python.org,200,191.65,True,,ok
+2026-10-13T15:05:00.422Z,HTTPBin health,https://httpbin.org/status/200,200,492.05,True,,ok
+2026-10-13T15:05:00.703Z,GitHub API,https://api.github.com,200,126.41,True,,ok
+2026-10-13T15:05:00.709Z,Example.com,https://example.com,200,99.24,True,,ok
+2026-10-13T15:10:00.368Z,Python.org,https://www.python.org,200,179.88,True,,ok
+2026-10-13T15:10:00.846Z,Example.com,https://example.com,200,82.91,True,,ok
+2026-10-13T15:10:00.908Z,GitHub API,https://api.github.com,200,202.05,True,,ok
+2026-10-13T15:10:00.913Z,HTTPBin health,https://httpbin.org/status/200,200,334.18,True,,ok
+2026-10-13T15:15:00.555Z,Example.com,https://example.com,200,93.37,True,,ok
+2026-10-13T15:15:00.599Z,Python.org,https://www.python.org,200,184.12,True,,ok
+2026-10-13T15:15:00.725Z,GitHub API,https://api.github.com,200,125.58,True,,ok
+2026-10-13T15:15:00.796Z,HTTPBin health,https://httpbin.org/status/200,200,2933.72,True,,warn
+2026-10-13T15:20:00.215Z,Python.org,https://www.python.org,200,232.89,True,,ok
+2026-10-13T15:20:00.478Z,Example.com,https://example.com,200,110.31,True,,ok
+2026-10-13T15:20:00.673Z,HTTPBin health,https://httpbin.org/status/200,200,589.84,True,,ok
+2026-10-13T15:20:00.684Z,GitHub API,https://api.github.com,200,134.07,True,,ok
+2026-10-13T15:25:00.248Z,Example.com,https://example.com,200,77.01,True,,ok
+2026-10-13T15:25:00.426Z,Python.org,https://www.python.org,200,192.23,True,,ok
+2026-10-13T15:25:00.601Z,GitHub API,https://api.github.com,200,190.35,True,,ok
+2026-10-13T15:25:00.653Z,HTTPBin health,https://httpbin.org/status/200,200,482.53,True,,ok
+2026-10-13T15:30:00.575Z,Python.org,https://www.python.org,200,221.02,True,,ok
+2026-10-13T15:30:00.624Z,HTTPBin health,https://httpbin.org/status/200,200,504.74,True,,ok
+2026-10-13T15:30:00.670Z,Example.com,https://example.com,200,100.7,True,,ok
+2026-10-13T15:30:00.854Z,GitHub API,https://api.github.com,200,142.19,True,,ok
+2026-10-13T15:35:00.083Z,HTTPBin health,https://httpbin.org/status/200,200,470.77,True,,ok
+2026-10-13T15:35:00.297Z,Python.org,https://www.python.org,200,182.61,True,,ok
+2026-10-13T15:35:00.708Z,Example.com,https://example.com,200,107.94,True,,ok
+2026-10-13T15:35:00.951Z,GitHub API,https://api.github.com,200,132.08,True,,ok
+2026-10-13T15:40:00.301Z,Example.com,https://example.com,200,101.72,True,,ok
+2026-10-13T15:40:00.394Z,Python.org,https://www.python.org,200,178.16,True,,ok
+2026-10-13T15:40:00.446Z,GitHub API,https://api.github.com,200,146.51,True,,ok
+2026-10-13T15:40:00.619Z,HTTPBin health,https://httpbin.org/status/200,200,381.59,True,,ok
+2026-10-13T15:45:00.023Z,Example.com,https://example.com,200,107.95,True,,ok
+2026-10-13T15:45:00.191Z,GitHub API,https://api.github.com,200,164.96,True,,ok
+2026-10-13T15:45:00.626Z,HTTPBin health,https://httpbin.org/status/200,200,376.08,True,,ok
+2026-10-13T15:45:00.758Z,Python.org,https://www.python.org,200,140.97,True,,ok
+2026-10-13T15:50:00.200Z,Example.com,https://example.com,200,97.91,True,,ok
+2026-10-13T15:50:00.792Z,HTTPBin health,https://httpbin.org/status/200,200,517.71,True,,ok
+2026-10-13T15:50:00.880Z,Python.org,https://www.python.org,200,163.54,True,,ok
+2026-10-13T15:50:00.910Z,GitHub API,https://api.github.com,200,148.24,True,,ok
+2026-10-13T15:55:00.546Z,HTTPBin health,https://httpbin.org/status/200,200,368.91,True,,ok
+2026-10-13T15:55:00.620Z,GitHub API,https://api.github.com,200,106.39,True,,ok
+2026-10-13T15:55:00.848Z,Example.com,https://example.com,200,89.2,True,,ok
+2026-10-13T15:55:00.910Z,Python.org,https://www.python.org,200,215.87,True,,ok
+2026-10-13T16:00:00.081Z,Example.com,https://example.com,200,107.55,True,,ok
+2026-10-13T16:00:00.442Z,GitHub API,https://api.github.com,200,127.05,True,,ok
+2026-10-13T16:00:00.544Z,HTTPBin health,https://httpbin.org/status/200,200,308.15,True,,ok
+2026-10-13T16:00:00.894Z,Python.org,https://www.python.org,200,203.53,True,,ok
+2026-10-13T16:05:00.067Z,GitHub API,https://api.github.com,200,148.85,True,,ok
+2026-10-13T16:05:00.142Z,Example.com,https://example.com,200,100.65,True,,ok
+2026-10-13T16:05:00.339Z,Python.org,https://www.python.org,200,188.59,True,,ok
+2026-10-13T16:05:00.924Z,HTTPBin health,https://httpbin.org/status/200,200,364.21,True,,ok
+2026-10-13T16:10:00.042Z,HTTPBin health,https://httpbin.org/status/200,200,486.7,True,,ok
+2026-10-13T16:10:00.483Z,GitHub API,https://api.github.com,200,121.63,True,,ok
+2026-10-13T16:10:00.803Z,Example.com,https://example.com,200,69.32,True,,ok
+2026-10-13T16:10:00.894Z,Python.org,https://www.python.org,200,198.82,True,,ok
+2026-10-13T16:15:00.387Z,Python.org,https://www.python.org,200,234.81,True,,ok
+2026-10-13T16:15:00.477Z,Example.com,https://example.com,200,118.17,True,,ok
+2026-10-13T16:15:00.502Z,GitHub API,https://api.github.com,200,112.23,True,,ok
+2026-10-13T16:15:00.608Z,HTTPBin health,https://httpbin.org/status/200,200,448.87,True,,ok
+2026-10-13T16:20:00.144Z,Python.org,https://www.python.org,200,158.64,True,,ok
+2026-10-13T16:20:00.339Z,HTTPBin health,https://httpbin.org/status/200,200,357.42,True,,ok
+2026-10-13T16:20:00.393Z,Example.com,https://example.com,200,127.34,True,,ok
+2026-10-13T16:20:00.822Z,GitHub API,https://api.github.com,200,112.24,True,,ok
+2026-10-13T16:25:00.088Z,Python.org,https://www.python.org,200,197.12,True,,ok
+2026-10-13T16:25:00.134Z,GitHub API,https://api.github.com,200,128.34,True,,ok
+2026-10-13T16:25:00.351Z,HTTPBin health,https://httpbin.org/status/200,200,482.18,True,,ok
+2026-10-13T16:25:00.418Z,Example.com,https://example.com,200,106.25,True,,ok
+2026-10-13T16:30:00.545Z,Example.com,https://example.com,200,96.6,True,,ok
+2026-10-13T16:30:00.580Z,GitHub API,https://api.github.com,200,105.45,True,,ok
+2026-10-13T16:30:00.606Z,Python.org,https://www.python.org,200,158.13,True,,ok
+2026-10-13T16:30:00.956Z,HTTPBin health,https://httpbin.org/status/200,200,371.38,True,,ok
+2026-10-13T16:35:00.125Z,GitHub API,https://api.github.com,200,148.76,True,,ok
+2026-10-13T16:35:00.198Z,HTTPBin health,https://httpbin.org/status/200,200,382.2,True,,ok
+2026-10-13T16:35:00.228Z,Python.org,https://www.python.org,200,193.33,True,,ok
+2026-10-13T16:35:00.372Z,Example.com,https://example.com,200,82.2,True,,ok
+2026-10-13T16:40:00.268Z,Python.org,https://www.python.org,200,177.62,True,,ok
+2026-10-13T16:40:00.523Z,GitHub API,https://api.github.com,200,163.26,True,,ok
+2026-10-13T16:40:00.735Z,HTTPBin health,https://httpbin.org/status/200,200,274.67,True,,ok
+2026-10-13T16:40:00.853Z,Example.com,https://example.com,200,102.2,True,,ok
+2026-10-13T16:45:00.095Z,Python.org,https://www.python.org,200,151.59,True,,ok
+2026-10-13T16:45:00.176Z,GitHub API,https://api.github.com,200,120.71,True,,ok
+2026-10-13T16:45:00.302Z,HTTPBin health,https://httpbin.org/status/200,200,489.18,True,,ok
+2026-10-13T16:45:00.609Z,Example.com,https://example.com,200,109.6,True,,ok
+2026-10-13T16:50:00.054Z,GitHub API,https://api.github.com,200,142.88,True,,ok
+2026-10-13T16:50:00.142Z,Python.org,https://www.python.org,200,184.07,True,,ok
+2026-10-13T16:50:00.628Z,Example.com,https://example.com,200,76.64,True,,ok
+2026-10-13T16:50:00.996Z,HTTPBin health,https://httpbin.org/status/200,200,456.59,True,,ok
+2026-10-13T16:55:00.024Z,GitHub API,https://api.github.com,200,116.87,True,,ok
+2026-10-13T16:55:00.083Z,HTTPBin health,https://httpbin.org/status/200,200,458.43,True,,ok
+2026-10-13T16:55:00.683Z,Example.com,https://example.com,200,82.17,True,,ok
+2026-10-13T16:55:00.689Z,Python.org,https://www.python.org,200,146.54,True,,ok
+2026-10-13T17:00:00.040Z,GitHub API,https://api.github.com,200,123.6,True,,ok
+2026-10-13T17:00:00.406Z,Python.org,https://www.python.org,200,118.65,True,,ok
+2026-10-13T17:00:00.793Z,HTTPBin health,https://httpbin.org/status/200,200,419.12,True,,ok
+2026-10-13T17:00:00.864Z,Example.com,https://example.com,200,84.28,True,,ok
+2026-10-13T17:05:00.060Z,Example.com,https://example.com,200,106.84,True,,ok
+2026-10-13T17:05:00.113Z,Python.org,https://www.python.org,200,194.77,True,,ok
+2026-10-13T17:05:00.430Z,GitHub API,https://api.github.com,200,174.18,True,,ok
+2026-10-13T17:05:00.432Z,HTTPBin health,https://httpbin.org/status/200,200,472.35,True,,ok
+2026-10-13T17:10:00.392Z,GitHub API,https://api.github.com,200,153.43,True,,ok
+2026-10-13T17:10:00.662Z,Python.org,https://www.python.org,200,241.26,True,,ok
+2026-10-13T17:10:00.822Z,Example.com,https://example.com,200,98.41,True,,ok
+2026-10-13T17:10:00.878Z,HTTPBin health,https://httpbin.org/status/200,200,323.01,True,,ok
+2026-10-13T17:15:00.139Z,HTTPBin health,https://httpbin.org/status/200,200,409.07,True,,ok
+2026-10-13T17:15:00.186Z,Example.com,https://example.com,200,97.24,True,,ok
+2026-10-13T17:15:00.753Z,GitHub API,https://api.github.com,200,165.9,True,,ok
+2026-10-13T17:15:00.769Z,Python.org,https://www.python.org,200,257.97,True,,ok
+2026-10-13T17:20:00.201Z,HTTPBin health,https://httpbin.org/status/200,200,392.51,True,,ok
+2026-10-13T17:20:00.254Z,GitHub API,https://api.github.com,200,123.49,True,,ok
+2026-10-13T17:20:00.616Z,Python.org,https://www.python.org,200,154.29,True,,ok
+2026-10-13T17:20:00.997Z,Example.com,https://example.com,200,127.35,True,,ok
+2026-10-13T17:25:00.037Z,Python.org,https://www.python.org,200,159.27,True,,ok
+2026-10-13T17:25:00.385Z,Example.com,https://example.com,200,81.25,True,,ok
+2026-10-13T17:25:00.429Z,HTTPBin health,https://httpbin.org/status/200,200,469.19,True,,ok
+2026-10-13T17:25:00.976Z,GitHub API,https://api.github.com,200,199.45,True,,ok
+2026-10-13T17:30:00.219Z,Python.org,https://www.python.org,200,172.44,True,,ok
+2026-10-13T17:30:00.399Z,GitHub API,https://api.github.com,200,108.45,True,,ok
+2026-10-13T17:30:00.612Z,Example.com,https://example.com,200,110.22,True,,ok
+2026-10-13T17:30:00.691Z,HTTPBin health,https://httpbin.org/status/200,200,512.39,True,,ok
+2026-10-13T17:35:00.179Z,Python.org,https://www.python.org,200,154.5,True,,ok
+2026-10-13T17:35:00.483Z,Example.com,https://example.com,200,125.98,True,,ok
+2026-10-13T17:35:00.614Z,GitHub API,https://api.github.com,200,137.29,True,,ok
+2026-10-13T17:35:00.898Z,HTTPBin health,https://httpbin.org/status/200,200,368.54,True,,ok
+2026-10-13T17:40:00.204Z,HTTPBin health,https://httpbin.org/status/200,200,391.82,True,,ok
+2026-10-13T17:40:00.276Z,Python.org,https://www.python.org,200,205.77,True,,ok
+2026-10-13T17:40:00.737Z,Example.com,https://example.com,200,96.98,True,,ok
+2026-10-13T17:40:00.869Z,GitHub API,https://api.github.com,200,136.8,True,,ok
+2026-10-13T17:45:00.015Z,GitHub API,https://api.github.com,200,141.69,True,,ok
+2026-10-13T17:45:00.275Z,Example.com,https://example.com,200,110.13,True,,ok
+2026-10-13T17:45:00.328Z,Python.org,https://www.python.org,200,146.48,True,,ok
+2026-10-13T17:45:00.803Z,HTTPBin health,https://httpbin.org/status/200,200,399.92,True,,ok
+2026-10-13T17:50:00.151Z,Example.com,https://example.com,200,105.21,True,,ok
+2026-10-13T17:50:00.513Z,GitHub API,https://api.github.com,200,122.13,True,,ok
+2026-10-13T17:50:00.576Z,Python.org,https://www.python.org,200,190.7,True,,ok
+2026-10-13T17:50:00.752Z,HTTPBin health,https://httpbin.org/status/200,200,526.55,True,,ok
+2026-10-13T17:55:00.313Z,Example.com,https://example.com,200,93.89,True,,ok
+2026-10-13T17:55:00.402Z,HTTPBin health,https://httpbin.org/status/200,200,336.4,True,,ok
+2026-10-13T17:55:00.802Z,GitHub API,https://api.github.com,200,194.98,True,,ok
+2026-10-13T17:55:00.897Z,Python.org,https://www.python.org,200,172.9,True,,ok
+2026-10-13T18:00:00.240Z,Example.com,https://example.com,200,105.69,True,,ok
+2026-10-13T18:00:00.252Z,GitHub API,https://api.github.com,200,206.89,True,,ok
+2026-10-13T18:00:00.525Z,HTTPBin health,https://httpbin.org/status/200,200,414.08,True,,ok
+2026-10-13T18:00:00.857Z,Python.org,https://www.python.org,200,198.92,True,,ok
+2026-10-13T18:05:00.254Z,HTTPBin health,https://httpbin.org/status/200,200,481.95,True,,ok
+2026-10-13T18:05:00.577Z,Python.org,https://www.python.org,200,254.51,True,,ok
+2026-10-13T18:05:00.600Z,GitHub API,https://api.github.com,200,122.41,True,,ok
+2026-10-13T18:05:00.922Z,Example.com,https://example.com,200,110.48,True,,ok
+2026-10-13T18:10:00.099Z,HTTPBin health,https://httpbin.org/status/200,200,525.14,True,,ok
+2026-10-13T18:10:00.356Z,Example.com,https://example.com,200,101.51,True,,ok
+2026-10-13T18:10:00.792Z,Python.org,https://www.python.org,200,231.31,True,,ok
+2026-10-13T18:10:00.924Z,GitHub API,https://api.github.com,200,137.82,True,,ok
+2026-10-13T18:15:00.200Z,Example.com,https://example.com,200,95.88,True,,ok
+2026-10-13T18:15:00.205Z,HTTPBin health,https://httpbin.org/status/200,200,340.21,True,,ok
+2026-10-13T18:15:00.264Z,Python.org,https://www.python.org,200,182.54,True,,ok
+2026-10-13T18:15:00.407Z,GitHub API,https://api.github.com,200,124.65,True,,ok
+2026-10-13T18:20:00.312Z,Example.com,https://example.com,200,91.89,True,,ok
+2026-10-13T18:20:00.450Z,Python.org,https://www.python.org,200,156.18,True,,ok
+2026-10-13T18:20:00.705Z,HTTPBin health,https://httpbin.org/status/200,200,383.95,True,,ok
+2026-10-13T18:20:00.813Z,GitHub API,https://api.github.com,200,174.3,True,,ok
+2026-10-13T18:25:00.007Z,Example.com,https://example.com,200,86.29,True,,ok
+2026-10-13T18:25:00.359Z,GitHub API,https://api.github.com,200,119.08,True,,ok
+2026-10-13T18:25:00.456Z,Python.org,https://www.python.org,200,160.55,True,,ok
+2026-10-13T18:25:00.555Z,HTTPBin health,https://httpbin.org/status/200,200,355.76,True,,ok
+2026-10-13T18:30:00.222Z,GitHub API,https://api.github.com,200,113.86,True,,ok
+2026-10-13T18:30:00.224Z,Python.org,https://www.python.org,200,154.93,True,,ok
+2026-10-13T18:30:00.431Z,Example.com,https://example.com,200,88.11,True,,ok
+2026-10-13T18:30:00.709Z,HTTPBin health,https://httpbin.org/status/200,200,341.75,True,,ok
+2026-10-13T18:35:00.123Z,HTTPBin health,https://httpbin.org/status/200,200,468.87,True,,ok
+2026-10-13T18:35:00.216Z,Example.com,https://example.com,200,108.62,True,,ok
+2026-10-13T18:35:00.839Z,Python.org,https://www.python.org,200,211.3,True,,ok
+2026-10-13T18:35:00.881Z,GitHub API,https://api.github.com,200,154.8,True,,ok
+2026-10-13T18:40:00.261Z,HTTPBin health,https://httpbin.org/status/200,200,507.82,True,,ok
+2026-10-13T18:40:00.729Z,Python.org,https://www.python.org,200,164.22,True,,ok
+2026-10-13T18:40:00.741Z,Example.com,https://example.com,200,99.81,True,,ok
+2026-10-13T18:40:00.854Z,GitHub API,https://api.github.com,200,150.66,True,,ok
+2026-10-13T18:45:00.278Z,Python.org,https://www.python.org,200,131.34,True,,ok
+2026-10-13T18:45:00.355Z,GitHub API,https://api.github.com,200,122.72,True,,ok
+2026-10-13T18:45:00.461Z,Example.com,https://example.com,200,106.18,True,,ok
+2026-10-13T18:45:00.913Z,HTTPBin health,https://httpbin.org/status/200,200,453.8,True,,ok
+2026-10-13T18:50:00.189Z,GitHub API,https://api.github.com,200,175.13,True,,ok
+2026-10-13T18:50:00.531Z,Example.com,https://example.com,200,86.85,True,,ok
+2026-10-13T18:50:00.553Z,HTTPBin health,https://httpbin.org/status/200,200,418.92,True,,ok
+2026-10-13T18:50:00.783Z,Python.org,https://www.python.org,200,190.92,True,,ok
+2026-10-13T18:55:00.627Z,HTTPBin health,https://httpbin.org/status/200,200,417.67,True,,ok
+2026-10-13T18:55:00.723Z,Example.com,https://example.com,200,110.31,True,,ok
+2026-10-13T18:55:00.905Z,Python.org,https://www.python.org,200,192.62,True,,ok
+2026-10-13T18:55:00.944Z,GitHub API,https://api.github.com,200,163.13,True,,ok
+2026-10-13T19:00:00.481Z,HTTPBin health,https://httpbin.org/status/200,200,445.03,True,,ok
+2026-10-13T19:00:00.551Z,Python.org,https://www.python.org,200,155.25,True,,ok
+2026-10-13T19:00:00.779Z,Example.com,https://example.com,200,101.13,True,,ok
+2026-10-13T19:00:00.821Z,GitHub API,https://api.github.com,200,124.14,True,,ok
+2026-10-13T19:05:00.113Z,Example.com,https://example.com,200,104.6,True,,ok
+2026-10-13T19:05:00.245Z,GitHub API,https://api.github.com,200,99.73,True,,ok
+2026-10-13T19:05:00.607Z,HTTPBin health,https://httpbin.org/status/200,200,476.44,True,,ok
+2026-10-13T19:05:00.997Z,Python.org,https://www.python.org,200,141.29,True,,ok
+2026-10-13T19:10:00.132Z,Example.com,https://example.com,200,115.12,True,,ok
+2026-10-13T19:10:00.154Z,GitHub API,https://api.github.com,200,148.18,True,,ok
+2026-10-13T19:10:00.679Z,HTTPBin health,https://httpbin.org/status/200,200,375.31,True,,ok
+2026-10-13T19:10:00.757Z,Python.org,https://www.python.org,200,222.85,True,,ok
+2026-10-13T19:15:00.663Z,HTTPBin health,https://httpbin.org/status/200,200,409.0,True,,ok
+2026-10-13T19:15:00.758Z,Python.org,https://www.python.org,200,130.41,True,,ok
+2026-10-13T19:15:00.845Z,Example.com,https://example.com,200,146.93,True,,ok
+2026-10-13T19:15:00.877Z,GitHub API,https://api.github.com,200,125.95,True,,ok
+2026-10-13T19:20:00.295Z,HTTPBin health,https://httpbin.org/status/200,200,382.55,True,,ok
+2026-10-13T19:20:00.345Z,Python.org,https://www.python.org,200,173.49,True,,ok
+2026-10-13T19:20:00.389Z,GitHub API,https://api.github.com,200,135.9,True,,ok
+2026-10-13T19:20:00.909Z,Example.com,https://example.com,200,128.78,True,,ok
+2026-10-13T19:25:00.158Z,Python.org,https://www.python.org,200,125.66,True,,ok
+2026-10-13T19:25:00.436Z,Example.com,https://example.com,200,109.12,True,,ok
+2026-10-13T19:25:00.616Z,GitHub API,https://api.github.com,200,138.07,True,,ok
+2026-10-13T19:25:00.657Z,HTTPBin health,https://httpbin.org/status/200,200,456.32,True,,ok
+2026-10-13T19:30:00.093Z,HTTPBin health,https://httpbin.org/status/200,200,385.37,True,,ok
+2026-10-13T19:30:00.403Z,GitHub API,https://api.github.com,200,141.45,True,,ok
+2026-10-13T19:30:00.577Z,Example.com,https://example.com,200,124.92,True,,ok
+2026-10-13T19:30:00.784Z,Python.org,https://www.python.org,200,263.62,True,,ok
+2026-10-13T19:35:00.091Z,GitHub API,https://api.github.com,200,116.38,True,,ok
+2026-10-13T19:35:00.110Z,Python.org,https://www.python.org,200,230.75,True,,ok
+2026-10-13T19:35:00.639Z,Example.com,https://example.com,200,116.89,True,,ok
+2026-10-13T19:35:00.982Z,HTTPBin health,https://httpbin.org/status/200,200,534.69,True,,ok
+2026-10-13T19:40:00.069Z,HTTPBin health,https://httpbin.org/status/200,200,507.3,True,,ok
+2026-10-13T19:40:00.422Z,GitHub API,https://api.github.com,200,139.72,True,,ok
+2026-10-13T19:40:00.602Z,Python.org,https://www.python.org,200,174.35,True,,ok
+2026-10-13T19:40:00.789Z,Example.com,https://example.com,200,94.16,True,,ok
+2026-10-13T19:45:00.024Z,Example.com,https://example.com,200,86.53,True,,ok
+2026-10-13T19:45:00.268Z,HTTPBin health,https://httpbin.org/status/200,200,526.32,True,,ok
+2026-10-13T19:45:00.567Z,GitHub API,https://api.github.com,200,181.81,True,,ok
+2026-10-13T19:45:00.625Z,Python.org,https://www.python.org,200,197.81,True,,ok
+2026-10-13T19:50:00.143Z,Example.com,https://example.com,200,100.15,True,,ok
+2026-10-13T19:50:00.299Z,Python.org,https://www.python.org,200,195.66,True,,ok
+2026-10-13T19:50:00.346Z,GitHub API,https://api.github.com,200,139.43,True,,ok
+2026-10-13T19:50:00.797Z,HTTPBin health,https://httpbin.org/status/200,200,385.87,True,,ok
+2026-10-13T19:55:00.603Z,Example.com,https://example.com,200,106.94,True,,ok
+2026-10-13T19:55:00.729Z,GitHub API,https://api.github.com,200,164.36,True,,ok
+2026-10-13T19:55:00.808Z,Python.org,https://www.python.org,200,135.34,True,,ok
+2026-10-13T19:55:00.978Z,HTTPBin health,https://httpbin.org/status/200,200,485.63,True,,ok
+2026-10-13T20:00:00.072Z,GitHub API,https://api.github.com,200,148.01,True,,ok
+2026-10-13T20:00:00.148Z,HTTPBin health,https://httpbin.org/status/200,200,354.62,True,,ok
+2026-10-13T20:00:00.194Z,Example.com,https://example.com,200,132.06,True,,ok
+2026-10-13T20:00:00.969Z,Python.org,https://www.python.org,200,156.96,True,,ok
+2026-10-13T20:05:00.742Z,Example.com,https://example.com,200,98.43,True,,ok
+2026-10-13T20:05:00.936Z,Python.org,https://www.python.org,200,173.68,True,,ok
+2026-10-13T20:05:00.951Z,HTTPBin health,https://httpbin.org/status/200,200,410.6,True,,ok
+2026-10-13T20:05:00.965Z,GitHub API,https://api.github.com,200,160.18,True,,ok
+2026-10-13T20:10:00.226Z,GitHub API,https://api.github.com,200,106.6,True,,ok
+2026-10-13T20:10:00.338Z,Example.com,https://example.com,200,117.21,True,,ok
+2026-10-13T20:10:00.483Z,HTTPBin health,https://httpbin.org/status/200,200,317.88,True,,ok
+2026-10-13T20:10:00.767Z,Python.org,https://www.python.org,200,179.09,True,,ok
+2026-10-13T20:15:00.117Z,GitHub API,https://api.github.com,200,135.06,True,,ok
+2026-10-13T20:15:00.342Z,HTTPBin health,https://httpbin.org/status/200,200,319.19,True,,ok
+2026-10-13T20:15:00.417Z,Python.org,https://www.python.org,200,165.6,True,,ok
+2026-10-13T20:15:00.839Z,Example.com,https://example.com,200,104.07,True,,ok
+2026-10-13T20:20:00.116Z,HTTPBin health,https://httpbin.org/status/200,200,437.98,True,,ok
+2026-10-13T20:20:00.484Z,Example.com,https://example.com,200,101.1,True,,ok
+2026-10-13T20:20:00.665Z,Python.org,https://www.python.org,200,195.01,True,,ok
+2026-10-13T20:20:00.781Z,GitHub API,https://api.github.com,200,164.83,True,,ok
+2026-10-13T20:25:00.105Z,GitHub API,https://api.github.com,200,114.12,True,,ok
+2026-10-13T20:25:00.245Z,HTTPBin health,https://httpbin.org/status/200,200,363.38,True,,ok
+2026-10-13T20:25:00.446Z,Example.com,https://example.com,200,80.48,True,,ok
+2026-10-13T20:25:00.549Z,Python.org,https://www.python.org,200,184.35,True,,ok
+2026-10-13T20:30:00.194Z,Python.org,https://www.python.org,200,175.54,True,,ok
+2026-10-13T20:30:00.205Z,HTTPBin health,https://httpbin.org/status/200,200,415.21,True,,ok
+2026-10-13T20:30:00.561Z,GitHub API,https://api.github.com,200,257.33,True,,ok
+2026-10-13T20:30:00.970Z,Example.com,https://example.com,200,89.44,True,,ok
+2026-10-13T20:35:00.013Z,Python.org,https://www.python.org,200,162.26,True,,ok
+2026-10-13T20:35:00.406Z,HTTPBin health,https://httpbin.org/status/200,200,357.06,True,,ok
+2026-10-13T20:35:00.652Z,Example.com,https://example.com,200,96.35,True,,ok
+2026-10-13T20:35:00.990Z,GitHub API,https://api.github.com,200,145.36,True,,ok
+2026-10-13T20:40:00.280Z,Python.org,https://www.python.org,200,127.48,True,,ok
+2026-10-13T20:40:00.522Z,GitHub API,https://api.github.com,200,132.3,True,,ok
+2026-10-13T20:40:00.555Z,HTTPBin health,https://httpbin.org/status/200,200,479.84,True,,ok
+2026-10-13T20:40:00.852Z,Example.com,https://example.com,200,104.07,True,,ok
+2026-10-13T20:45:00.346Z,GitHub API,https://api.github.com,200,121.21,True,,ok
+2026-10-13T20:45:00.362Z,HTTPBin health,https://httpbin.org/status/200,200,327.94,True,,ok
+2026-10-13T20:45:00.637Z,Example.com,https://example.com,200,120.36,True,,ok
+2026-10-13T20:45:00.798Z,Python.org,https://www.python.org,200,221.66,True,,ok
+2026-10-13T20:50:00.221Z,HTTPBin health,https://httpbin.org/status/200,200,300.25,True,,ok
+2026-10-13T20:50:00.393Z,Example.com,https://example.com,200,93.24,True,,ok
+2026-10-13T20:50:00.533Z,GitHub API,https://api.github.com,200,122.39,True,,ok
+2026-10-13T20:50:00.663Z,Python.org,https://www.python.org,200,172.06,True,,ok
+2026-10-13T20:55:00.178Z,GitHub API,https://api.github.com,200,145.64,True,,ok
+2026-10-13T20:55:00.343Z,Example.com,https://example.com,200,110.55,True,,ok
+2026-10-13T20:55:00.510Z,Python.org,https://www.python.org,200,144.58,True,,ok
+2026-10-13T20:55:00.771Z,HTTPBin health,https://httpbin.org/status/200,200,424.97,True,,ok
+2026-10-13T21:00:00.449Z,HTTPBin health,https://httpbin.org/status/200,200,414.36,True,,ok
+2026-10-13T21:00:00.602Z,Python.org,https://www.python.org,200,241.64,True,,ok
+2026-10-13T21:00:00.651Z,Example.com,https://example.com,200,103.5,True,,ok
+2026-10-13T21:00:00.803Z,GitHub API,https://api.github.com,200,128.07,True,,ok
+2026-10-13T21:05:00.012Z,Example.com,https://example.com,200,150.99,True,,ok
+2026-10-13T21:05:00.065Z,HTTPBin health,https://httpbin.org/status/200,200,561.91,True,,ok
+2026-10-13T21:05:00.652Z,GitHub API,https://api.github.com,200,174.59,True,,ok
+2026-10-13T21:05:00.733Z,Python.org,https://www.python.org,200,176.99,True,,ok
+2026-10-13T21:10:00.351Z,Example.com,https://example.com,200,110.54,True,,ok
+2026-10-13T21:10:00.665Z,HTTPBin health,https://httpbin.org/status/200,200,425.68,True,,ok
+2026-10-13T21:10:00.780Z,Python.org,https://www.python.org,200,173.11,True,,ok
+2026-10-13T21:10:00.851Z,GitHub API,https://api.github.com,200,159.58,True,,ok
+2026-10-13T21:15:00.345Z,Example.com,https://example.com,200,82.87,True,,ok
+2026-10-13T21:15:00.503Z,GitHub API,https://api.github.com,200,134.97,True,,ok
+2026-10-13T21:15:00.702Z,Python.org,https://www.python.org,200,205.57,True,,ok
+2026-10-13T21:15:00.816Z,HTTPBin health,https://httpbin.org/status/200,200,495.21,True,,ok
+2026-10-13T21:20:00.144Z,Python.org,https://www.python.org,200,184.75,True,,ok
+2026-10-13T21:20:00.262Z,Example.com,https://example.com,200,134.29,True,,ok
+2026-10-13T21:20:00.267Z,HTTPBin health,https://httpbin.org/status/200,200,529.36,True,,ok
+2026-10-13T21:20:00.369Z,GitHub API,https://api.github.com,200,134.47,True,,ok
+2026-10-13T21:25:00.091Z,Example.com,https://example.com,200,116.54,True,,ok
+2026-10-13T21:25:00.341Z,Python.org,https://www.python.org,200,187.3,True,,ok
+2026-10-13T21:25:00.642Z,HTTPBin health,https://httpbin.org/status/200,200,441.18,True,,ok
+2026-10-13T21:25:00.851Z,GitHub API,https://api.github.com,200,126.73,True,,ok
+2026-10-13T21:30:00.136Z,Example.com,https://example.com,200,117.12,True,,ok
+2026-10-13T21:30:00.456Z,Python.org,https://www.python.org,200,209.17,True,,ok
+2026-10-13T21:30:00.625Z,HTTPBin health,https://httpbin.org/status/200,200,441.87,True,,ok
+2026-10-13T21:30:00.855Z,GitHub API,https://api.github.com,200,120.62,True,,ok
+2026-10-13T21:35:00.081Z,Python.org,https://www.python.org,200,202.88,True,,ok
+2026-10-13T21:35:00.475Z,HTTPBin health,https://httpbin.org/status/200,200,453.06,True,,ok
+2026-10-13T21:35:00.766Z,Example.com,https://example.com,200,94.09,True,,ok
+2026-10-13T21:35:00.792Z,GitHub API,https://api.github.com,200,103.97,True,,ok
+2026-10-13T21:40:00.014Z,HTTPBin health,https://httpbin.org/status/200,200,460.47,True,,ok
+2026-10-13T21:40:00.098Z,Python.org,https://www.python.org,200,146.23,True,,ok
+2026-10-13T21:40:00.335Z,Example.com,https://example.com,200,88.71,True,,ok
+2026-10-13T21:40:00.474Z,GitHub API,https://api.github.com,200,129.4,True,,ok
+2026-10-13T21:45:00.250Z,Example.com,https://example.com,200,70.39,True,,ok
+2026-10-13T21:45:00.656Z,Python.org,https://www.python.org,200,156.55,True,,ok
+2026-10-13T21:45:00.952Z,HTTPBin health,https://httpbin.org/status/200,200,474.38,True,,ok
+2026-10-13T21:45:00.981Z,GitHub API,https://api.github.com,200,158.5,True,,ok
+2026-10-13T21:50:00.298Z,GitHub API,https://api.github.com,200,151.32,True,,ok
+2026-10-13T21:50:00.626Z,Example.com,https://example.com,200,116.0,True,,ok
+2026-10-13T21:50:00.801Z,HTTPBin health,https://httpbin.org/status/200,200,455.04,True,,ok
+2026-10-13T21:50:00.853Z,Python.org,https://www.python.org,200,153.06,True,,ok
+2026-10-13T21:55:00.010Z,Python.org,https://www.python.org,200,244.4,True,,ok
+2026-10-13T21:55:00.215Z,Example.com,https://example.com,200,86.47,True,,ok
+2026-10-13T21:55:00.317Z,HTTPBin health,https://httpbin.org/status/200,200,396.88,True,,ok
+2026-10-13T21:55:00.863Z,GitHub API,https://api.github.com,200,105.53,True,,ok
+2026-10-13T22:00:00.062Z,GitHub API,https://api.github.com,200,110.11,True,,ok
+2026-10-13T22:00:00.072Z,HTTPBin health,https://httpbin.org/status/200,200,470.27,True,,ok
+2026-10-13T22:00:00.488Z,Python.org,https://www.python.org,200,140.51,True,,ok
+2026-10-13T22:00:00.967Z,Example.com,https://example.com,200,115.34,True,,ok
+2026-10-13T22:05:00.250Z,GitHub API,https://api.github.com,200,141.84,True,,ok
+2026-10-13T22:05:00.325Z,Example.com,https://example.com,200,122.77,True,,ok
+2026-10-13T22:05:00.570Z,Python.org,https://www.python.org,200,173.93,True,,ok
+2026-10-13T22:05:00.934Z,HTTPBin health,https://httpbin.org/status/200,200,313.44,True,,ok
+2026-10-13T22:10:00.048Z,HTTPBin health,https://httpbin.org/status/200,200,469.44,True,,ok
+2026-10-13T22:10:00.205Z,Python.org,https://www.python.org,200,167.06,True,,ok
+2026-10-13T22:10:00.803Z,Example.com,https://example.com,200,95.34,True,,ok
+2026-10-13T22:10:00.864Z,GitHub API,https://api.github.com,200,110.7,True,,ok
+2026-10-13T22:15:00.217Z,GitHub API,https://api.github.com,200,93.61,True,,ok
+2026-10-13T22:15:00.378Z,HTTPBin health,https://httpbin.org/status/200,200,394.38,True,,ok
+2026-10-13T22:15:00.838Z,Python.org,https://www.python.org,,10002.84,False,timeout after 10s,n/a
+2026-10-13T22:15:00.863Z,Example.com,https://example.com,200,106.12,True,,ok
+2026-10-13T22:20:00.019Z,Python.org,https://www.python.org,,10018.78,False,timeout after 10s,n/a
+2026-10-13T22:20:00.171Z,HTTPBin health,https://httpbin.org/status/200,200,447.81,True,,ok
+2026-10-13T22:20:00.710Z,Example.com,https://example.com,200,108.42,True,,ok
+2026-10-13T22:20:00.756Z,GitHub API,https://api.github.com,200,132.03,True,,ok
+2026-10-13T22:25:00.043Z,HTTPBin health,https://httpbin.org/status/200,200,477.93,True,,ok
+2026-10-13T22:25:00.313Z,GitHub API,https://api.github.com,200,162.54,True,,ok
+2026-10-13T22:25:00.466Z,Python.org,https://www.python.org,,10031.2,False,timeout after 10s,n/a
+2026-10-13T22:25:00.806Z,Example.com,https://example.com,200,122.55,True,,ok
+2026-10-13T22:30:00.174Z,HTTPBin health,https://httpbin.org/status/200,200,495.15,True,,ok
+2026-10-13T22:30:00.204Z,Python.org,https://www.python.org,200,196.6,True,,ok
+2026-10-13T22:30:00.357Z,Example.com,https://example.com,200,94.49,True,,ok
+2026-10-13T22:30:00.918Z,GitHub API,https://api.github.com,200,112.8,True,,ok
+2026-10-13T22:35:00.366Z,HTTPBin health,https://httpbin.org/status/200,200,326.95,True,,ok
+2026-10-13T22:35:00.387Z,Python.org,https://www.python.org,200,143.11,True,,ok
+2026-10-13T22:35:00.490Z,Example.com,https://example.com,200,129.37,True,,ok
+2026-10-13T22:35:00.523Z,GitHub API,https://api.github.com,200,113.39,True,,ok
+2026-10-13T22:40:00.289Z,HTTPBin health,https://httpbin.org/status/200,200,352.57,True,,ok
+2026-10-13T22:40:00.408Z,Python.org,https://www.python.org,200,174.95,True,,ok
+2026-10-13T22:40:00.446Z,Example.com,https://example.com,200,81.26,True,,ok
+2026-10-13T22:40:00.851Z,GitHub API,https://api.github.com,200,150.98,True,,ok
+2026-10-13T22:45:00.022Z,GitHub API,https://api.github.com,200,139.07,True,,ok
+2026-10-13T22:45:00.605Z,Example.com,https://example.com,200,81.88,True,,ok
+2026-10-13T22:45:00.789Z,Python.org,https://www.python.org,200,179.57,True,,ok
+2026-10-13T22:45:00.962Z,HTTPBin health,https://httpbin.org/status/200,200,360.69,True,,ok
+2026-10-13T22:50:00.344Z,GitHub API,https://api.github.com,200,119.46,True,,ok
+2026-10-13T22:50:00.875Z,Example.com,https://example.com,200,86.04,True,,ok
+2026-10-13T22:50:00.917Z,HTTPBin health,https://httpbin.org/status/200,200,499.09,True,,ok
+2026-10-13T22:50:00.926Z,Python.org,https://www.python.org,200,255.69,True,,ok
+2026-10-13T22:55:00.221Z,GitHub API,https://api.github.com,200,125.61,True,,ok
+2026-10-13T22:55:00.461Z,Python.org,https://www.python.org,200,172.32,True,,ok
+2026-10-13T22:55:00.514Z,HTTPBin health,https://httpbin.org/status/200,200,360.65,True,,ok
+2026-10-13T22:55:00.534Z,Example.com,https://example.com,200,100.47,True,,ok
+2026-10-13T23:00:00.207Z,Example.com,https://example.com,200,109.67,True,,ok
+2026-10-13T23:00:00.224Z,GitHub API,https://api.github.com,200,145.53,True,,ok
+2026-10-13T23:00:00.432Z,HTTPBin health,https://httpbin.org/status/200,200,405.89,True,,ok
+2026-10-13T23:00:00.939Z,Python.org,https://www.python.org,200,281.22,True,,ok
+2026-10-13T23:05:00.118Z,HTTPBin health,https://httpbin.org/status/200,200,318.54,True,,ok
+2026-10-13T23:05:00.676Z,Example.com,https://example.com,200,108.56,True,,ok
+2026-10-13T23:05:00.678Z,GitHub API,https://api.github.com,200,173.14,True,,ok
+2026-10-13T23:05:00.917Z,Python.org,https://www.python.org,200,225.28,True,,ok
+2026-10-13T23:10:00.030Z,Python.org,https://www.python.org,200,185.78,True,,ok
+2026-10-13T23:10:00.101Z,Example.com,https://example.com,200,91.91,True,,ok
+2026-10-13T23:10:00.200Z,GitHub API,https://api.github.com,200,144.16,True,,ok
+2026-10-13T23:10:00.779Z,HTTPBin health,https://httpbin.org/status/200,200,431.07,True,,ok
+2026-10-13T23:15:00.113Z,HTTPBin health,https://httpbin.org/status/200,200,456.32,True,,ok
+2026-10-13T23:15:00.407Z,Python.org,https://www.python.org,200,190.15,True,,ok
+2026-10-13T23:15:00.463Z,Example.com,https://example.com,200,104.1,True,,ok
+2026-10-13T23:15:00.578Z,GitHub API,https://api.github.com,200,116.61,True,,ok
+2026-10-13T23:20:00.098Z,Python.org,https://www.python.org,200,202.76,True,,ok
+2026-10-13T23:20:00.519Z,GitHub API,https://api.github.com,200,122.1,True,,ok
+2026-10-13T23:20:00.613Z,Example.com,https://example.com,200,96.38,True,,ok
+2026-10-13T23:20:00.630Z,HTTPBin health,https://httpbin.org/status/200,200,489.97,True,,ok
+2026-10-13T23:25:00.087Z,Python.org,https://www.python.org,200,196.56,True,,ok
+2026-10-13T23:25:00.325Z,Example.com,https://example.com,200,85.33,True,,ok
+2026-10-13T23:25:00.376Z,GitHub API,https://api.github.com,200,115.89,True,,ok
+2026-10-13T23:25:00.400Z,HTTPBin health,https://httpbin.org/status/200,200,440.55,True,,ok
+2026-10-13T23:30:00.287Z,GitHub API,https://api.github.com,200,149.34,True,,ok
+2026-10-13T23:30:00.287Z,Python.org,https://www.python.org,200,236.89,True,,ok
+2026-10-13T23:30:00.338Z,HTTPBin health,https://httpbin.org/status/200,200,280.53,True,,ok
+2026-10-13T23:30:00.609Z,Example.com,https://example.com,200,89.91,True,,ok
+2026-10-13T23:35:00.045Z,Python.org,https://www.python.org,200,200.52,True,,ok
+2026-10-13T23:35:00.682Z,Example.com,https://example.com,200,151.24,True,,ok
+2026-10-13T23:35:00.865Z,HTTPBin health,https://httpbin.org/status/200,200,480.07,True,,ok
+2026-10-13T23:35:00.939Z,GitHub API,https://api.github.com,200,177.48,True,,ok
+2026-10-13T23:40:00.208Z,HTTPBin health,https://httpbin.org/status/200,200,416.19,True,,ok
+2026-10-13T23:40:00.675Z,Example.com,https://example.com,200,100.66,True,,ok
+2026-10-13T23:40:00.979Z,Python.org,https://www.python.org,200,192.31,True,,ok
+2026-10-13T23:40:00.996Z,GitHub API,https://api.github.com,200,167.76,True,,ok
+2026-10-13T23:45:00.086Z,Example.com,https://example.com,200,104.08,True,,ok
+2026-10-13T23:45:00.569Z,HTTPBin health,https://httpbin.org/status/200,200,305.32,True,,ok
+2026-10-13T23:45:00.776Z,GitHub API,https://api.github.com,200,159.63,True,,ok
+2026-10-13T23:45:00.890Z,Python.org,https://www.python.org,200,137.5,True,,ok
+2026-10-13T23:50:00.232Z,GitHub API,https://api.github.com,200,111.54,True,,ok
+2026-10-13T23:50:00.269Z,Python.org,https://www.python.org,200,224.43,True,,ok
+2026-10-13T23:50:00.753Z,HTTPBin health,https://httpbin.org/status/200,200,445.21,True,,ok
+2026-10-13T23:50:00.829Z,Example.com,https://example.com,200,105.86,True,,ok
+2026-10-13T23:55:00.193Z,GitHub API,https://api.github.com,200,192.16,True,,ok
+2026-10-13T23:55:00.349Z,HTTPBin health,https://httpbin.org/status/200,200,403.07,True,,ok
+2026-10-13T23:55:00.502Z,Example.com,https://example.com,200,111.77,True,,ok
+2026-10-13T23:55:00.526Z,Python.org,https://www.python.org,200,222.36,True,,ok
+2026-10-14T00:00:00.005Z,GitHub API,https://api.github.com,200,152.57,True,,ok
+2026-10-14T00:00:00.019Z,Python.org,https://www.python.org,200,191.07,True,,ok
+2026-10-14T00:00:00.539Z,Example.com,https://example.com,200,81.08,True,,ok
+2026-10-14T00:00:00.993Z,HTTPBin health,https://httpbin.org/status/200,200,455.25,True,,ok
+2026-10-14T00:05:00.106Z,Example.com,https://example.com,200,107.57,True,,ok
+2026-10-14T00:05:00.251Z,HTTPBin health,https://httpbin.org/status/200,200,496.07,True,,ok
+2026-10-14T00:05:00.484Z,Python.org,https://www.python.org,200,165.12,True,,ok
+2026-10-14T00:05:00.548Z,GitHub API,https://api.github.com,200,162.95,True,,ok
+2026-10-14T00:10:00.044Z,Example.com,https://example.com,200,141.22,True,,ok
+2026-10-14T00:10:00.512Z,Python.org,https://www.python.org,200,261.7,True,,ok
+2026-10-14T00:10:00.778Z,GitHub API,https://api.github.com,200,131.44,True,,ok
+2026-10-14T00:10:00.928Z,HTTPBin health,https://httpbin.org/status/200,200,409.96,True,,ok
+2026-10-14T00:15:00.074Z,GitHub API,https://api.github.com,200,117.11,True,,ok
+2026-10-14T00:15:00.397Z,Python.org,https://www.python.org,200,187.18,True,,ok
+2026-10-14T00:15:00.534Z,Example.com,https://example.com,200,125.6,True,,ok
+2026-10-14T00:15:00.865Z,HTTPBin health,https://httpbin.org/status/200,200,361.5,True,,ok
+2026-10-14T00:20:00.065Z,GitHub API,https://api.github.com,200,153.63,True,,ok
+2026-10-14T00:20:00.596Z,Python.org,https://www.python.org,200,156.18,True,,ok
+2026-10-14T00:20:00.752Z,HTTPBin health,https://httpbin.org/status/200,200,407.26,True,,ok
+2026-10-14T00:20:00.804Z,Example.com,https://example.com,200,67.72,True,,ok
+2026-10-14T00:25:00.255Z,Example.com,https://example.com,200,104.41,True,,ok
+2026-10-14T00:25:00.364Z,Python.org,https://www.python.org,200,244.23,True,,ok
+2026-10-14T00:25:00.841Z,HTTPBin health,https://httpbin.org/status/200,200,339.48,True,,ok
+2026-10-14T00:25:00.853Z,GitHub API,https://api.github.com,200,157.98,True,,ok
+2026-10-14T00:30:00.300Z,HTTPBin health,https://httpbin.org/status/200,200,536.73,True,,ok
+2026-10-14T00:30:00.500Z,GitHub API,https://api.github.com,200,139.98,True,,ok
+2026-10-14T00:30:00.650Z,Python.org,https://www.python.org,200,154.37,True,,ok
+2026-10-14T00:30:00.728Z,Example.com,https://example.com,200,88.07,True,,ok
+2026-10-14T00:35:00.098Z,HTTPBin health,https://httpbin.org/status/200,200,410.2,True,,ok
+2026-10-14T00:35:00.310Z,GitHub API,https://api.github.com,200,177.83,True,,ok
+2026-10-14T00:35:00.843Z,Python.org,https://www.python.org,200,164.63,True,,ok
+2026-10-14T00:35:00.980Z,Example.com,https://example.com,200,96.66,True,,ok
+2026-10-14T00:40:00.053Z,HTTPBin health,https://httpbin.org/status/200,200,551.26,True,,ok
+2026-10-14T00:40:00.166Z,Example.com,https://example.com,200,105.5,True,,ok
+2026-10-14T00:40:00.511Z,Python.org,https://www.python.org,200,227.75,True,,ok
+2026-10-14T00:40:00.585Z,GitHub API,https://api.github.com,200,148.1,True,,ok
+2026-10-14T00:45:00.058Z,Python.org,https://www.python.org,200,216.42,True,,ok
+2026-10-14T00:45:00.084Z,HTTPBin health,https://httpbin.org/status/200,200,348.68,True,,ok
+2026-10-14T00:45:00.134Z,GitHub API,https://api.github.com,200,136.05,True,,ok
+2026-10-14T00:45:00.258Z,Example.com,https://example.com,200,105.43,True,,ok
+2026-10-14T00:50:00.279Z,HTTPBin health,https://httpbin.org/status/200,200,417.46,True,,ok
+2026-10-14T00:50:00.308Z,Example.com,https://example.com,200,138.55,True,,ok
+2026-10-14T00:50:00.332Z,GitHub API,https://api.github.com,200,151.31,True,,ok
+2026-10-14T00:50:00.465Z,Python.org,https://www.python.org,200,128.53,True,,ok
+2026-10-14T00:55:00.130Z,GitHub API,https://api.github.com,200,134.34,True,,ok
+2026-10-14T00:55:00.223Z,Python.org,https://www.python.org,200,207.16,True,,ok
+2026-10-14T00:55:00.272Z,HTTPBin health,https://httpbin.org/status/200,200,295.53,True,,ok
+2026-10-14T00:55:00.482Z,Example.com,https://example.com,200,108.28,True,,ok
+2026-10-14T01:00:00.273Z,Example.com,https://example.com,200,89.25,True,,ok
+2026-10-14T01:00:00.328Z,HTTPBin health,https://httpbin.org/status/200,200,423.78,True,,ok
+2026-10-14T01:00:00.340Z,GitHub API,https://api.github.com,200,177.95,True,,ok
+2026-10-14T01:00:00.693Z,Python.org,https://www.python.org,200,138.18,True,,ok
+2026-10-14T01:05:00.163Z,GitHub API,https://api.github.com,200,146.56,True,,ok
+2026-10-14T01:05:00.338Z,Python.org,https://www.python.org,200,189.89,True,,ok
+2026-10-14T01:05:00.840Z,Example.com,https://example.com,200,74.89,True,,ok
+2026-10-14T01:05:00.953Z,HTTPBin health,https://httpbin.org/status/200,200,271.92,True,,ok
+2026-10-14T01:10:00.508Z,HTTPBin health,https://httpbin.org/status/200,200,548.81,True,,ok
+2026-10-14T01:10:00.707Z,Example.com,https://example.com,200,96.56,True,,ok
+2026-10-14T01:10:00.744Z,GitHub API,https://api.github.com,200,159.16,True,,ok
+2026-10-14T01:10:00.897Z,Python.org,https://www.python.org,200,289.05,True,,ok
+2026-10-14T01:15:00.035Z,HTTPBin health,https://httpbin.org/status/200,200,400.84,True,,ok
+2026-10-14T01:15:00.434Z,GitHub API,https://api.github.com,200,129.53,True,,ok
+2026-10-14T01:15:00.448Z,Example.com,https://example.com,200,90.45,True,,ok
+2026-10-14T01:15:00.461Z,Python.org,https://www.python.org,200,287.07,True,,ok
+2026-10-14T01:20:00.502Z,Python.org,https://www.python.org,200,271.21,True,,ok
+2026-10-14T01:20:00.615Z,Example.com,https://example.com,200,90.87,True,,ok
+2026-10-14T01:20:00.666Z,HTTPBin health,https://httpbin.org/status/200,200,501.03,True,,ok
+2026-10-14T01:20:00.769Z,GitHub API,https://api.github.com,200,156.78,True,,ok
+2026-10-14T01:25:00.205Z,GitHub API,https://api.github.com,200,139.83,True,,ok
+2026-10-14T01:25:00.387Z,Python.org,https://www.python.org,200,224.18,True,,ok
+2026-10-14T01:25:00.479Z,HTTPBin health,https://httpbin.org/status/200,200,457.22,True,,ok
+2026-10-14T01:25:00.823Z,Example.com,https://example.com,200,104.75,True,,ok
+2026-10-14T01:30:00.324Z,HTTPBin health,https://httpbin.org/status/200,200,310.39,True,,ok
+2026-10-14T01:30:00.342Z,Python.org,https://www.python.org,200,301.03,True,,ok
+2026-10-14T01:30:00.836Z,GitHub API,https://api.github.com,200,100.01,True,,ok
+2026-10-14T01:30:00.976Z,Example.com,https://example.com,200,104.14,True,,ok
+2026-10-14T01:35:00.188Z,GitHub API,https://api.github.com,200,149.43,True,,ok
+2026-10-14T01:35:00.234Z,HTTPBin health,https://httpbin.org/status/200,200,465.19,True,,ok
+2026-10-14T01:35:00.273Z,Example.com,https://example.com,200,107.32,True,,ok
+2026-10-14T01:35:00.550Z,Python.org,https://www.python.org,200,205.77,True,,ok
+2026-10-14T01:40:00.107Z,HTTPBin health,https://httpbin.org/status/200,200,406.25,True,,ok
+2026-10-14T01:40:00.229Z,Python.org,https://www.python.org,200,186.64,True,,ok
+2026-10-14T01:40:00.387Z,GitHub API,https://api.github.com,200,176.31,True,,ok
+2026-10-14T01:40:00.591Z,Example.com,https://example.com,200,105.23,True,,ok
+2026-10-14T01:45:00.081Z,HTTPBin health,https://httpbin.org/status/200,200,378.96,True,,ok
+2026-10-14T01:45:00.383Z,GitHub API,https://api.github.com,200,120.4,True,,ok
+2026-10-14T01:45:00.462Z,Example.com,https://example.com,200,112.98,True,,ok
+2026-10-14T01:45:00.675Z,Python.org,https://www.python.org,200,193.44,True,,ok
+2026-10-14T01:50:00.022Z,Example.com,https://example.com,200,101.94,True,,ok
+2026-10-14T01:50:00.170Z,Python.org,https://www.python.org,200,143.68,True,,ok
+2026-10-14T01:50:00.191Z,GitHub API,https://api.github.com,200,136.69,True,,ok
+2026-10-14T01:50:00.960Z,HTTPBin health,https://httpbin.org/status/200,200,363.82,True,,ok
+2026-10-14T01:55:00.053Z,Python.org,https://www.python.org,200,171.32,True,,ok
+2026-10-14T01:55:00.341Z,Example.com,https://example.com,200,120.62,True,,ok
+2026-10-14T01:55:00.409Z,HTTPBin health,https://httpbin.org/status/200,200,346.24,True,,ok
+2026-10-14T01:55:00.761Z,GitHub API,https://api.github.com,200,118.55,True,,ok
+2026-10-14T02:00:00.325Z,Example.com,https://example.com,200,120.83,True,,ok
+2026-10-14T02:00:00.838Z,GitHub API,https://api.github.com,200,125.72,True,,ok
+2026-10-14T02:00:00.875Z,Python.org,https://www.python.org,200,161.46,True,,ok
+2026-10-14T02:00:00.939Z,HTTPBin health,https://httpbin.org/status/200,200,471.24,True,,ok
+2026-10-14T02:05:00.034Z,HTTPBin health,https://httpbin.org/status/200,200,315.33,True,,ok
+2026-10-14T02:05:00.247Z,GitHub API,https://api.github.com,200,108.63,True,,ok
+2026-10-14T02:05:00.258Z,Python.org,https://www.python.org,200,179.89,True,,ok
+2026-10-14T02:05:00.904Z,Example.com,https://example.com,200,113.82,True,,ok
+2026-10-14T02:10:00.110Z,HTTPBin health,https://httpbin.org/status/200,200,404.36,True,,ok
+2026-10-14T02:10:00.244Z,Python.org,https://www.python.org,200,197.46,True,,ok
+2026-10-14T02:10:00.524Z,GitHub API,https://api.github.com,200,101.42,True,,ok
+2026-10-14T02:10:00.532Z,Example.com,https://example.com,200,138.47,True,,ok
+2026-10-14T02:15:00.315Z,Python.org,https://www.python.org,200,115.42,True,,ok
+2026-10-14T02:15:00.436Z,Example.com,https://example.com,200,141.31,True,,ok
+2026-10-14T02:15:00.719Z,HTTPBin health,https://httpbin.org/status/200,200,480.43,True,,ok
+2026-10-14T02:15:00.931Z,GitHub API,https://api.github.com,200,131.08,True,,ok
+2026-10-14T02:20:00.084Z,Python.org,https://www.python.org,200,229.57,True,,ok
+2026-10-14T02:20:00.185Z,Example.com,https://example.com,200,75.94,True,,ok
+2026-10-14T02:20:00.406Z,GitHub API,https://api.github.com,200,101.44,True,,ok
+2026-10-14T02:20:00.680Z,HTTPBin health,https://httpbin.org/status/200,200,529.33,True,,ok
+2026-10-14T02:25:00.188Z,HTTPBin health,https://httpbin.org/status/200,200,427.2,True,,ok
+2026-10-14T02:25:00.357Z,Example.com,https://example.com,200,104.75,True,,ok
+2026-10-14T02:25:00.394Z,GitHub API,https://api.github.com,200,161.55,True,,ok
+2026-10-14T02:25:00.910Z,Python.org,https://www.python.org,200,175.45,True,,ok
+2026-10-14T02:30:00.621Z,GitHub API,https://api.github.com,200,188.55,True,,ok
+2026-10-14T02:30:00.702Z,Python.org,https://www.python.org,200,302.36,True,,ok
+2026-10-14T02:30:00.727Z,Example.com,https://example.com,200,99.54,True,,ok
+2026-10-14T02:30:00.752Z,HTTPBin health,https://httpbin.org/status/200,200,519.5,True,,ok
+2026-10-14T02:35:00.276Z,HTTPBin health,https://httpbin.org/status/200,200,455.43,True,,ok
+2026-10-14T02:35:00.747Z,GitHub API,https://api.github.com,200,162.42,True,,ok
+2026-10-14T02:35:00.860Z,Example.com,https://example.com,200,87.83,True,,ok
+2026-10-14T02:35:00.895Z,Python.org,https://www.python.org,200,181.46,True,,ok
+2026-10-14T02:40:00.208Z,HTTPBin health,https://httpbin.org/status/200,200,497.7,True,,ok
+2026-10-14T02:40:00.272Z,GitHub API,https://api.github.com,200,135.81,True,,ok
+2026-10-14T02:40:00.683Z,Example.com,https://example.com,200,84.44,True,,ok
+2026-10-14T02:40:00.776Z,Python.org,https://www.python.org,200,192.72,True,,ok
+2026-10-14T02:45:00.010Z,HTTPBin health,https://httpbin.org/status/200,200,297.94,True,,ok
+2026-10-14T02:45:00.259Z,GitHub API,https://api.github.com,200,133.45,True,,ok
+2026-10-14T02:45:00.945Z,Example.com,https://example.com,200,92.47,True,,ok
+2026-10-14T02:45:00.958Z,Python.org,https://www.python.org,200,234.11,True,,ok
+2026-10-14T02:50:00.111Z,GitHub API,https://api.github.com,200,175.17,True,,ok
+2026-10-14T02:50:00.311Z,Python.org,https://www.python.org,200,180.02,True,,ok
+2026-10-14T02:50:00.581Z,HTTPBin health,https://httpbin.org/status/200,200,408.43,True,,ok
+2026-10-14T02:50:00.598Z,Example.com,https://example.com,200,91.31,True,,ok
+2026-10-14T02:55:00.422Z,GitHub API,https://api.github.com,200,130.36,True,,ok
+2026-10-14T02:55:00.437Z,HTTPBin health,https://httpbin.org/status/200,200,353.56,True,,ok
+2026-10-14T02:55:00.982Z,Python.org,https://www.python.org,200,234.68,True,,ok
+2026-10-14T02:55:00.987Z,Example.com,https://example.com,200,101.59,True,,ok
+2026-10-14T03:00:00.011Z,Example.com,https://example.com,200,142.45,True,,ok
+2026-10-14T03:00:00.179Z,HTTPBin health,https://httpbin.org/status/200,200,350.18,True,,ok
+2026-10-14T03:00:00.241Z,GitHub API,https://api.github.com,200,121.78,True,,ok
+2026-10-14T03:00:00.635Z,Python.org,https://www.python.org,200,186.42,True,,ok
+2026-10-14T03:05:00.300Z,GitHub API,https://api.github.com,200,167.19,True,,ok
+2026-10-14T03:05:00.327Z,HTTPBin health,https://httpbin.org/status/200,200,542.55,True,,ok
+2026-10-14T03:05:00.816Z,Example.com,https://example.com,200,91.24,True,,ok
+2026-10-14T03:05:00.998Z,Python.org,https://www.python.org,200,140.82,True,,ok
+2026-10-14T03:10:00.153Z,Example.com,https://example.com,200,112.24,True,,ok
+2026-10-14T03:10:00.153Z,GitHub API,https://api.github.com,200,150.41,True,,ok
+2026-10-14T03:10:00.239Z,HTTPBin health,https://httpbin.org/status/200,200,322.56,True,,ok
+2026-10-14T03:10:00.669Z,Python.org,https://www.python.org,200,215.59,True,,ok
+2026-10-14T03:15:00.593Z,Python.org,https://www.python.org,200,169.46,True,,ok
+2026-10-14T03:15:00.821Z,HTTPBin health,https://httpbin.org/status/200,200,487.52,True,,ok
+2026-10-14T03:15:00.867Z,Example.com,https://example.com,200,92.88,True,,ok
+2026-10-14T03:15:00.948Z,GitHub API,https://api.github.com,200,120.87,True,,ok
+2026-10-14T03:20:00.131Z,GitHub API,https://api.github.com,200,141.11,True,,ok
+2026-10-14T03:20:00.436Z,Python.org,https://www.python.org,200,197.26,True,,ok
+2026-10-14T03:20:00.473Z,HTTPBin health,https://httpbin.org/status/200,200,438.61,True,,ok
+2026-10-14T03:20:00.649Z,Example.com,https://example.com,200,104.9,True,,ok
+2026-10-14T03:25:00.154Z,Python.org,https://www.python.org,200,182.52,True,,ok
+2026-10-14T03:25:00.603Z,GitHub API,https://api.github.com,200,127.32,True,,ok
+2026-10-14T03:25:00.634Z,HTTPBin health,https://httpbin.org/status/200,200,341.41,True,,ok
+2026-10-14T03:25:00.718Z,Example.com,https://example.com,200,89.82,True,,ok
+2026-10-14T03:30:00.037Z,Example.com,https://example.com,200,136.25,True,,ok
+2026-10-14T03:30:00.232Z,Python.org,https://www.python.org,200,195.87,True,,ok
+2026-10-14T03:30:00.324Z,GitHub API,https://api.github.com,200,109.12,True,,ok
+2026-10-14T03:30:00.498Z,HTTPBin health,https://httpbin.org/status/200,200,462.8,True,,ok
+2026-10-14T03:35:00.258Z,HTTPBin health,https://httpbin.org/status/200,200,505.09,True,,ok
+2026-10-14T03:35:00.365Z,Python.org,https://www.python.org,200,141.52,True,,ok
+2026-10-14T03:35:00.582Z,GitHub API,https://api.github.com,200,149.99,True,,ok
+2026-10-14T03:35:00.894Z,Example.com,https://example.com,200,133.52,True,,ok
+2026-10-14T03:40:00.058Z,Python.org,https://www.python.org,200,184.43,True,,ok
+2026-10-14T03:40:00.241Z,Example.com,https://example.com,200,99.21,True,,ok
+2026-10-14T03:40:00.594Z,GitHub API,https://api.github.com,200,140.44,True,,ok
+2026-10-14T03:40:00.696Z,HTTPBin health,https://httpbin.org/status/200,200,466.19,True,,ok
+2026-10-14T03:45:00.093Z,Example.com,https://example.com,200,89.02,True,,ok
+2026-10-14T03:45:00.094Z,Python.org,https://www.python.org,200,212.92,True,,ok
+2026-10-14T03:45:00.317Z,HTTPBin health,https://httpbin.org/status/200,200,337.8,True,,ok
+2026-10-14T03:45:00.583Z,GitHub API,https://api.github.com,200,121.24,True,,ok
+2026-10-14T03:50:00.035Z,GitHub API,https://api.github.com,200,155.83,True,,ok
+2026-10-14T03:50:00.223Z,Python.org,https://www.python.org,200,152.03,True,,ok
+2026-10-14T03:50:00.332Z,Example.com,https://example.com,200,140.92,True,,ok
+2026-10-14T03:50:00.631Z,HTTPBin health,https://httpbin.org/status/200,200,459.44,True,,ok
+2026-10-14T03:55:00.370Z,GitHub API,https://api.github.com,200,166.22,True,,ok
+2026-10-14T03:55:00.568Z,Example.com,https://example.com,200,81.88,True,,ok
+2026-10-14T03:55:00.693Z,Python.org,https://www.python.org,200,156.08,True,,ok
+2026-10-14T03:55:00.774Z,HTTPBin health,https://httpbin.org/status/200,200,425.66,True,,ok
+2026-10-14T04:00:00.378Z,HTTPBin health,https://httpbin.org/status/200,200,673.83,True,,ok
+2026-10-14T04:00:00.479Z,Example.com,https://example.com,200,89.88,True,,ok
+2026-10-14T04:00:00.509Z,GitHub API,https://api.github.com,200,111.02,True,,ok
+2026-10-14T04:00:00.698Z,Python.org,https://www.python.org,200,194.87,True,,ok
+2026-10-14T04:05:00.047Z,GitHub API,https://api.github.com,200,2261.77,True,,warn
+2026-10-14T04:05:00.349Z,Example.com,https://example.com,200,138.46,True,,ok
+2026-10-14T04:05:00.442Z,HTTPBin health,https://httpbin.org/status/200,200,343.31,True,,ok
+2026-10-14T04:05:00.941Z,Python.org,https://www.python.org,200,144.72,True,,ok
+2026-10-14T04:10:00.126Z,HTTPBin health,https://httpbin.org/status/200,200,299.68,True,,ok
+2026-10-14T04:10:00.378Z,Example.com,https://example.com,200,106.09,True,,ok
+2026-10-14T04:10:00.565Z,GitHub API,https://api.github.com,200,2052.56,True,,warn
+2026-10-14T04:10:00.853Z,Python.org,https://www.python.org,200,183.23,True,,ok
+2026-10-14T04:15:00.019Z,GitHub API,https://api.github.com,200,1773.81,True,,warn
+2026-10-14T04:15:00.072Z,HTTPBin health,https://httpbin.org/status/200,200,440.31,True,,ok
+2026-10-14T04:15:00.870Z,Example.com,https://example.com,200,119.76,True,,ok
+2026-10-14T04:15:00.967Z,Python.org,https://www.python.org,200,184.16,True,,ok
+2026-10-14T04:20:00.026Z,Python.org,https://www.python.org,200,204.24,True,,ok
+2026-10-14T04:20:00.579Z,HTTPBin health,https://httpbin.org/status/200,200,423.74,True,,ok
+2026-10-14T04:20:00.768Z,Example.com,https://example.com,200,97.14,True,,ok
+2026-10-14T04:20:00.818Z,GitHub API,https://api.github.com,200,1724.41,True,,warn
+2026-10-14T04:25:00.200Z,GitHub API,https://api.github.com,200,1815.82,True,,warn
+2026-10-14T04:25:00.442Z,Example.com,https://example.com,200,103.19,True,,ok
+2026-10-14T04:25:00.465Z,HTTPBin health,https://httpbin.org/status/200,200,494.81,True,,ok
+2026-10-14T04:25:00.929Z,Python.org,https://www.python.org,200,221.89,True,,ok
+2026-10-14T04:30:00.107Z,Example.com,https://example.com,200,97.35,True,,ok
+2026-10-14T04:30:00.169Z,GitHub API,https://api.github.com,200,1862.37,True,,warn
+2026-10-14T04:30:00.481Z,Python.org,https://www.python.org,200,145.74,True,,ok
+2026-10-14T04:30:00.601Z,HTTPBin health,https://httpbin.org/status/200,200,399.41,True,,ok
+2026-10-14T04:35:00.164Z,Example.com,https://example.com,200,131.75,True,,ok
+2026-10-14T04:35:00.367Z,HTTPBin health,https://httpbin.org/status/200,200,323.57,True,,ok
+2026-10-14T04:35:00.852Z,Python.org,https://www.python.org,200,205.21,True,,ok
+2026-10-14T04:35:00.911Z,GitHub API,https://api.github.com,200,1729.94,True,,warn
+2026-10-14T04:40:00.156Z,Python.org,https://www.python.org,200,168.68,True,,ok
+2026-10-14T04:40:00.507Z,GitHub API,https://api.github.com,200,3369.07,True,,critical
+2026-10-14T04:40:00.803Z,HTTPBin health,https://httpbin.org/status/200,200,553.49,True,,ok
+2026-10-14T04:40:00.841Z,Example.com,https://example.com,200,70.94,True,,ok
+2026-10-14T04:45:00.117Z,GitHub API,https://api.github.com,200,3311.77,True,,critical
+2026-10-14T04:45:00.302Z,Python.org,https://www.python.org,200,169.19,True,,ok
+2026-10-14T04:45:00.528Z,Example.com,https://example.com,200,140.22,True,,ok
+2026-10-14T04:45:00.773Z,HTTPBin health,https://httpbin.org/status/200,200,395.33,True,,ok
+2026-10-14T04:50:00.497Z,HTTPBin health,https://httpbin.org/status/200,200,437.18,True,,ok
+2026-10-14T04:50:00.529Z,GitHub API,https://api.github.com,200,3297.45,True,,critical
+2026-10-14T04:50:00.842Z,Python.org,https://www.python.org,200,141.72,True,,ok
+2026-10-14T04:50:00.882Z,Example.com,https://example.com,200,164.61,True,,ok
+2026-10-14T04:55:00.236Z,GitHub API,https://api.github.com,200,121.77,True,,ok
+2026-10-14T04:55:00.290Z,HTTPBin health,https://httpbin.org/status/200,200,320.73,True,,ok
+2026-10-14T04:55:00.685Z,Example.com,https://example.com,200,91.91,True,,ok
+2026-10-14T04:55:00.942Z,Python.org,https://www.python.org,200,225.74,True,,ok
+2026-10-14T05:00:00.104Z,GitHub API,https://api.github.com,200,156.11,True,,ok
+2026-10-14T05:00:00.933Z,Example.com,https://example.com,200,96.4,True,,ok
+2026-10-14T05:00:00.958Z,HTTPBin health,https://httpbin.org/status/200,200,402.79,True,,ok
+2026-10-14T05:00:00.969Z,Python.org,https://www.python.org,200,177.44,True,,ok
+2026-10-14T05:05:00.082Z,Example.com,https://example.com,200,124.22,True,,ok
+2026-10-14T05:05:00.105Z,GitHub API,https://api.github.com,200,131.03,True,,ok
+2026-10-14T05:05:00.735Z,HTTPBin health,https://httpbin.org/status/200,200,360.35,True,,ok
+2026-10-14T05:05:00.977Z,Python.org,https://www.python.org,200,142.76,True,,ok
+2026-10-14T05:10:00.057Z,GitHub API,https://api.github.com,200,108.65,True,,ok
+2026-10-14T05:10:00.615Z,HTTPBin health,https://httpbin.org/status/200,200,461.33,True,,ok
+2026-10-14T05:10:00.706Z,Example.com,https://example.com,200,84.37,True,,ok
+2026-10-14T05:10:00.932Z,Python.org,https://www.python.org,200,300.05,True,,ok
+2026-10-14T05:15:00.386Z,Python.org,https://www.python.org,200,155.89,True,,ok
+2026-10-14T05:15:00.458Z,GitHub API,https://api.github.com,200,164.59,True,,ok
+2026-10-14T05:15:00.571Z,Example.com,https://example.com,200,138.64,True,,ok
+2026-10-14T05:15:00.789Z,HTTPBin health,https://httpbin.org/status/200,200,431.4,True,,ok
+2026-10-14T05:20:00.155Z,GitHub API,https://api.github.com,200,126.29,True,,ok
+2026-10-14T05:20:00.475Z,Example.com,https://example.com,200,94.68,True,,ok
+2026-10-14T05:20:00.533Z,Python.org,https://www.python.org,200,206.5,True,,ok
+2026-10-14T05:20:00.694Z,HTTPBin health,https://httpbin.org/status/200,200,596.47,True,,ok
+2026-10-14T05:25:00.231Z,Python.org,https://www.python.org,200,135.61,True,,ok
+2026-10-14T05:25:00.330Z,GitHub API,https://api.github.com,200,120.21,True,,ok
+2026-10-14T05:25:00.530Z,Example.com,https://example.com,200,109.51,True,,ok
+2026-10-14T05:25:00.667Z,HTTPBin health,https://httpbin.org/status/200,200,389.82,True,,ok
+2026-10-14T05:30:00.486Z,GitHub API,https://api.github.com,200,125.99,True,,ok
+2026-10-14T05:30:00.646Z,HTTPBin health,https://httpbin.org/status/200,200,283.0,True,,ok
+2026-10-14T05:30:00.976Z,Example.com,https://example.com,200,81.57,True,,ok
+2026-10-14T05:30:00.985Z,Python.org,https://www.python.org,200,223.08,True,,ok
+2026-10-14T05:35:00.164Z,Example.com,https://example.com,200,122.14,True,,ok
+2026-10-14T05:35:00.395Z,GitHub API,https://api.github.com,200,148.93,True,,ok
+2026-10-14T05:35:00.723Z,Python.org,https://www.python.org,200,206.07,True,,ok
+2026-10-14T05:35:00.782Z,HTTPBin health,https://httpbin.org/status/200,200,370.52,True,,ok
+2026-10-14T05:40:00.502Z,HTTPBin health,https://httpbin.org/status/200,200,377.75,True,,ok
+2026-10-14T05:40:00.771Z,GitHub API,https://api.github.com,200,152.34,True,,ok
+2026-10-14T05:40:00.807Z,Example.com,https://example.com,200,74.23,True,,ok
+2026-10-14T05:40:00.890Z,Python.org,https://www.python.org,200,154.02,True,,ok
+2026-10-14T05:45:00.499Z,HTTPBin health,https://httpbin.org/status/200,200,330.51,True,,ok
+2026-10-14T05:45:00.578Z,Example.com,https://example.com,200,98.39,True,,ok
+2026-10-14T05:45:00.788Z,Python.org,https://www.python.org,200,199.17,True,,ok
+2026-10-14T05:45:00.927Z,GitHub API,https://api.github.com,200,156.6,True,,ok
+2026-10-14T05:50:00.502Z,Python.org,https://www.python.org,200,189.46,True,,ok
+2026-10-14T05:50:00.600Z,Example.com,https://example.com,200,88.33,True,,ok
+2026-10-14T05:50:00.684Z,HTTPBin health,https://httpbin.org/status/200,200,362.11,True,,ok
+2026-10-14T05:50:00.940Z,GitHub API,https://api.github.com,200,138.46,True,,ok
+2026-10-14T05:55:00.231Z,HTTPBin health,https://httpbin.org/status/200,200,543.8,True,,ok
+2026-10-14T05:55:00.727Z,Python.org,https://www.python.org,200,210.3,True,,ok
+2026-10-14T05:55:00.842Z,Example.com,https://example.com,200,99.9,True,,ok
+2026-10-14T05:55:00.899Z,GitHub API,https://api.github.com,200,152.22,True,,ok
+2026-10-14T06:00:00.173Z,HTTPBin health,https://httpbin.org/status/200,200,353.26,True,,ok
+2026-10-14T06:00:00.721Z,GitHub API,https://api.github.com,200,130.93,True,,ok
+2026-10-14T06:00:00.889Z,Python.org,https://www.python.org,200,157.67,True,,ok
+2026-10-14T06:00:00.917Z,Example.com,https://example.com,200,114.09,True,,ok
+2026-10-14T06:05:00.659Z,Example.com,https://example.com,200,109.84,True,,ok
+2026-10-14T06:05:00.698Z,GitHub API,https://api.github.com,200,163.76,True,,ok
+2026-10-14T06:05:00.699Z,Python.org,https://www.python.org,200,179.57,True,,ok
+2026-10-14T06:05:00.760Z,HTTPBin health,https://httpbin.org/status/200,200,340.64,True,,ok
+2026-10-14T06:10:00.153Z,Example.com,https://example.com,200,131.33,True,,ok
+2026-10-14T06:10:00.244Z,Python.org,https://www.python.org,200,142.95,True,,ok
+2026-10-14T06:10:00.869Z,GitHub API,https://api.github.com,200,174.19,True,,ok
+2026-10-14T06:10:00.924Z,HTTPBin health,https://httpbin.org/status/200,200,501.29,True,,ok
+2026-10-14T06:15:00.196Z,Python.org,https://www.python.org,200,172.99,True,,ok
+2026-10-14T06:15:00.544Z,HTTPBin health,https://httpbin.org/status/200,200,444.83,True,,ok
+2026-10-14T06:15:00.803Z,GitHub API,https://api.github.com,200,184.77,True,,ok
+2026-10-14T06:15:00.985Z,Example.com,https://example.com,200,92.16,True,,ok
+2026-10-14T06:20:00.354Z,HTTPBin health,https://httpbin.org/status/200,200,541.22,True,,ok
+2026-10-14T06:20:00.419Z,Python.org,https://www.python.org,200,159.62,True,,ok
+2026-10-14T06:20:00.648Z,Example.com,https://example.com,200,93.91,True,,ok
+2026-10-14T06:20:00.855Z,GitHub API,https://api.github.com,200,117.72,True,,ok
+2026-10-14T06:25:00.051Z,Python.org,https://www.python.org,200,174.44,True,,ok
+2026-10-14T06:25:00.124Z,Example.com,https://example.com,200,124.72,True,,ok
+2026-10-14T06:25:00.442Z,HTTPBin health,https://httpbin.org/status/200,200,481.95,True,,ok
+2026-10-14T06:25:00.802Z,GitHub API,https://api.github.com,200,160.19,True,,ok
+2026-10-14T06:30:00.030Z,Example.com,https://example.com,200,100.04,True,,ok
+2026-10-14T06:30:00.205Z,Python.org,https://www.python.org,200,172.25,True,,ok
+2026-10-14T06:30:00.250Z,HTTPBin health,https://httpbin.org/status/200,200,236.69,True,,ok
+2026-10-14T06:30:00.802Z,GitHub API,https://api.github.com,200,109.06,True,,ok
+2026-10-14T06:35:00.096Z,Example.com,https://example.com,200,81.55,True,,ok
+2026-10-14T06:35:00.350Z,HTTPBin health,https://httpbin.org/status/200,200,409.05,True,,ok
+2026-10-14T06:35:00.407Z,GitHub API,https://api.github.com,200,138.26,True,,ok
+2026-10-14T06:35:00.582Z,Python.org,https://www.python.org,200,179.18,True,,ok
+2026-10-14T06:40:00.052Z,HTTPBin health,https://httpbin.org/status/200,200,504.03,True,,ok
+2026-10-14T06:40:00.339Z,GitHub API,https://api.github.com,200,188.5,True,,ok
+2026-10-14T06:40:00.353Z,Python.org,https://www.python.org,200,221.83,True,,ok
+2026-10-14T06:40:00.826Z,Example.com,https://example.com,200,79.58,True,,ok
+2026-10-14T06:45:00.063Z,Python.org,https://www.python.org,200,147.06,True,,ok
+2026-10-14T06:45:00.376Z,Example.com,https://example.com,200,81.98,True,,ok
+2026-10-14T06:45:00.591Z,GitHub API,https://api.github.com,200,134.04,True,,ok
+2026-10-14T06:45:00.596Z,HTTPBin health,https://httpbin.org/status/200,200,418.19,True,,ok
+2026-10-14T06:50:00.154Z,GitHub API,https://api.github.com,200,124.19,True,,ok
+2026-10-14T06:50:00.689Z,Example.com,https://example.com,200,122.27,True,,ok
+2026-10-14T06:50:00.700Z,HTTPBin health,https://httpbin.org/status/200,200,405.46,True,,ok
+2026-10-14T06:50:00.868Z,Python.org,https://www.python.org,200,200.05,True,,ok
+2026-10-14T06:55:00.046Z,Example.com,https://example.com,200,90.89,True,,ok
+2026-10-14T06:55:00.461Z,Python.org,https://www.python.org,200,212.84,True,,ok
+2026-10-14T06:55:00.645Z,HTTPBin health,https://httpbin.org/status/200,200,641.12,True,,ok
+2026-10-14T06:55:00.782Z,GitHub API,https://api.github.com,200,172.86,True,,ok
+2026-10-14T07:00:00.310Z,HTTPBin health,https://httpbin.org/status/200,200,408.2,True,,ok
+2026-10-14T07:00:00.660Z,Python.org,https://www.python.org,200,141.85,True,,ok
+2026-10-14T07:00:00.825Z,Example.com,https://example.com,200,85.64,True,,ok
+2026-10-14T07:00:00.975Z,GitHub API,https://api.github.com,200,92.13,True,,ok
+2026-10-14T07:05:00.507Z,GitHub API,https://api.github.com,200,175.67,True,,ok
+2026-10-14T07:05:00.590Z,Python.org,https://www.python.org,200,268.39,True,,ok
+2026-10-14T07:05:00.704Z,HTTPBin health,https://httpbin.org/status/200,200,422.14,True,,ok
+2026-10-14T07:05:00.854Z,Example.com,https://example.com,200,104.02,True,,ok
+2026-10-14T07:10:00.204Z,Example.com,https://example.com,200,71.22,True,,ok
+2026-10-14T07:10:00.378Z,GitHub API,https://api.github.com,200,194.29,True,,ok
+2026-10-14T07:10:00.435Z,HTTPBin health,https://httpbin.org/status/200,200,405.16,True,,ok
+2026-10-14T07:10:00.590Z,Python.org,https://www.python.org,200,225.35,True,,ok
+2026-10-14T07:15:00.155Z,HTTPBin health,https://httpbin.org/status/200,200,515.29,True,,ok
+2026-10-14T07:15:00.359Z,Python.org,https://www.python.org,200,168.45,True,,ok
+2026-10-14T07:15:00.579Z,GitHub API,https://api.github.com,200,157.16,True,,ok
+2026-10-14T07:15:00.771Z,Example.com,https://example.com,200,83.99,True,,ok
+2026-10-14T07:20:00.112Z,Python.org,https://www.python.org,200,207.46,True,,ok
+2026-10-14T07:20:00.156Z,GitHub API,https://api.github.com,200,142.69,True,,ok
+2026-10-14T07:20:00.436Z,HTTPBin health,https://httpbin.org/status/200,200,365.57,True,,ok
+2026-10-14T07:20:00.772Z,Example.com,https://example.com,200,84.45,True,,ok
+2026-10-14T07:25:00.053Z,Python.org,https://www.python.org,200,211.22,True,,ok
+2026-10-14T07:25:00.368Z,HTTPBin health,https://httpbin.org/status/200,200,354.42,True,,ok
+2026-10-14T07:25:00.484Z,GitHub API,https://api.github.com,200,199.1,True,,ok
+2026-10-14T07:25:00.653Z,Example.com,https://example.com,200,90.26,True,,ok
+2026-10-14T07:30:00.260Z,Python.org,https://www.python.org,200,186.36,True,,ok
+2026-10-14T07:30:00.581Z,Example.com,https://example.com,200,97.97,True,,ok
+2026-10-14T07:30:00.806Z,GitHub API,https://api.github.com,200,130.13,True,,ok
+2026-10-14T07:30:00.904Z,HTTPBin health,https://httpbin.org/status/200,200,425.65,True,,ok
+2026-10-14T07:35:00.186Z,Example.com,https://example.com,200,106.9,True,,ok
+2026-10-14T07:35:00.579Z,HTTPBin health,https://httpbin.org/status/200,200,445.21,True,,ok
+2026-10-14T07:35:00.610Z,Python.org,https://www.python.org,200,153.0,True,,ok
+2026-10-14T07:35:00.762Z,GitHub API,https://api.github.com,200,205.62,True,,ok
+2026-10-14T07:40:00.245Z,Example.com,https://example.com,200,100.88,True,,ok
+2026-10-14T07:40:00.283Z,Python.org,https://www.python.org,200,226.55,True,,ok
+2026-10-14T07:40:00.570Z,GitHub API,https://api.github.com,200,150.9,True,,ok
+2026-10-14T07:40:00.730Z,HTTPBin health,https://httpbin.org/status/200,200,376.27,True,,ok
+2026-10-14T07:45:00.204Z,GitHub API,https://api.github.com,200,130.04,True,,ok
+2026-10-14T07:45:00.739Z,Python.org,https://www.python.org,200,198.99,True,,ok
+2026-10-14T07:45:00.855Z,Example.com,https://example.com,200,112.99,True,,ok
+2026-10-14T07:45:00.908Z,HTTPBin health,https://httpbin.org/status/200,200,444.64,True,,ok
+2026-10-14T07:50:00.302Z,Python.org,https://www.python.org,200,181.4,True,,ok
+2026-10-14T07:50:00.526Z,Example.com,https://example.com,200,131.11,True,,ok
+2026-10-14T07:50:00.575Z,GitHub API,https://api.github.com,200,134.3,True,,ok
+2026-10-14T07:50:00.611Z,HTTPBin health,https://httpbin.org/status/200,200,422.92,True,,ok
+2026-10-14T07:55:00.006Z,Python.org,https://www.python.org,200,250.48,True,,ok
+2026-10-14T07:55:00.162Z,Example.com,https://example.com,200,90.82,True,,ok
+2026-10-14T07:55:00.570Z,GitHub API,https://api.github.com,200,154.63,True,,ok
+2026-10-14T07:55:00.665Z,HTTPBin health,https://httpbin.org/status/200,200,308.65,True,,ok
+2026-10-14T08:00:00.164Z,Python.org,https://www.python.org,200,224.49,True,,ok
+2026-10-14T08:00:00.614Z,Example.com,https://example.com,200,100.65,True,,ok
+2026-10-14T08:00:00.824Z,HTTPBin health,https://httpbin.org/status/200,200,351.86,True,,ok
+2026-10-14T08:00:00.996Z,GitHub API,https://api.github.com,200,120.82,True,,ok
+2026-10-14T08:05:00.180Z,HTTPBin health,https://httpbin.org/status/200,200,442.91,True,,ok
+2026-10-14T08:05:00.316Z,GitHub API,https://api.github.com,200,173.28,True,,ok
+2026-10-14T08:05:00.857Z,Python.org,https://www.python.org,200,168.93,True,,ok
+2026-10-14T08:05:00.985Z,Example.com,https://example.com,200,97.22,True,,ok
+2026-10-14T08:10:00.111Z,Python.org,https://www.python.org,200,189.6,True,,ok
+2026-10-14T08:10:00.538Z,Example.com,https://example.com,200,71.12,True,,ok
+2026-10-14T08:10:00.929Z,HTTPBin health,https://httpbin.org/status/200,200,489.32,True,,ok
+2026-10-14T08:10:00.967Z,GitHub API,https://api.github.com,200,94.42,True,,ok
+2026-10-14T08:15:00.006Z,Example.com,https://example.com,200,90.44,True,,ok
+2026-10-14T08:15:00.439Z,GitHub API,https://api.github.com,200,146.09,True,,ok
+2026-10-14T08:15:00.475Z,HTTPBin health,https://httpbin.org/status/200,200,523.67,True,,ok
+2026-10-14T08:15:00.869Z,Python.org,https://www.python.org,200,229.85,True,,ok
+2026-10-14T08:20:00.231Z,Example.com,https://example.com,200,93.25,True,,ok
+2026-10-14T08:20:00.529Z,Python.org,https://www.python.org,200,232.78,True,,ok
+2026-10-14T08:20:00.647Z,HTTPBin health,https://httpbin.org/status/200,200,350.21,True,,ok
+2026-10-14T08:20:00.823Z,GitHub API,https://api.github.com,200,136.35,True,,ok
+2026-10-14T08:25:00.382Z,HTTPBin health,https://httpbin.org/status/200,200,389.08,True,,ok
+2026-10-14T08:25:00.671Z,Python.org,https://www.python.org,200,166.13,True,,ok
+2026-10-14T08:25:00.677Z,Example.com,https://example.com,200,116.78,True,,ok
+2026-10-14T08:25:00.797Z,GitHub API,https://api.github.com,200,162.38,True,,ok
+2026-10-14T08:30:00.171Z,HTTPBin health,https://httpbin.org/status/200,200,516.68,True,,ok
+2026-10-14T08:30:00.171Z,Python.org,https://www.python.org,200,181.3,True,,ok
+2026-10-14T08:30:00.257Z,Example.com,https://example.com,200,96.59,True,,ok
+2026-10-14T08:30:00.696Z,GitHub API,https://api.github.com,200,144.87,True,,ok
+2026-10-14T08:35:00.249Z,Python.org,https://www.python.org,200,182.76,True,,ok
+2026-10-14T08:35:00.439Z,GitHub API,https://api.github.com,200,132.92,True,,ok
+2026-10-14T08:35:00.637Z,Example.com,https://example.com,200,392.29,True,,ok
+2026-10-14T08:35:00.732Z,HTTPBin health,https://httpbin.org/status/200,200,579.09,True,,ok
+2026-10-14T08:40:00.175Z,GitHub API,https://api.github.com,200,149.54,True,,ok
+2026-10-14T08:40:00.191Z,Python.org,https://www.python.org,200,229.55,True,,ok
+2026-10-14T08:40:00.472Z,HTTPBin health,https://httpbin.org/status/200,200,435.87,True,,ok
+2026-10-14T08:40:00.925Z,Example.com,https://example.com,200,87.34,True,,ok
+2026-10-14T08:45:00.621Z,GitHub API,https://api.github.com,200,193.3,True,,ok
+2026-10-14T08:45:00.712Z,Example.com,https://example.com,200,87.75,True,,ok
+2026-10-14T08:45:00.765Z,HTTPBin health,https://httpbin.org/status/200,200,371.34,True,,ok
+2026-10-14T08:45:00.770Z,Python.org,https://www.python.org,200,183.22,True,,ok
+2026-10-14T08:50:00.035Z,GitHub API,https://api.github.com,200,159.92,True,,ok
+2026-10-14T08:50:00.638Z,Python.org,https://www.python.org,200,191.92,True,,ok
+2026-10-14T08:50:00.878Z,Example.com,https://example.com,200,100.08,True,,ok
+2026-10-14T08:50:00.945Z,HTTPBin health,https://httpbin.org/status/200,200,566.75,True,,ok
+2026-10-14T08:55:00.144Z,GitHub API,https://api.github.com,200,137.46,True,,ok
+2026-10-14T08:55:00.379Z,HTTPBin health,https://httpbin.org/status/200,200,394.5,True,,ok
+2026-10-14T08:55:00.617Z,Python.org,https://www.python.org,200,239.07,True,,ok
+2026-10-14T08:55:00.754Z,Example.com,https://example.com,200,116.41,True,,ok
+2026-10-14T09:00:00.096Z,GitHub API,https://api.github.com,200,145.1,True,,ok
+2026-10-14T09:00:00.161Z,HTTPBin health,https://httpbin.org/status/200,200,390.95,True,,ok
+2026-10-14T09:00:00.377Z,Python.org,https://www.python.org,200,167.76,True,,ok
+2026-10-14T09:00:00.643Z,Example.com,https://example.com,200,122.39,True,,ok
+2026-10-14T09:05:00.227Z,GitHub API,https://api.github.com,200,181.58,True,,ok
+2026-10-14T09:05:00.446Z,HTTPBin health,https://httpbin.org/status/200,200,265.66,True,,ok
+2026-10-14T09:05:00.723Z,Python.org,https://www.python.org,200,188.7,True,,ok
+2026-10-14T09:05:00.875Z,Example.com,https://example.com,200,87.8,True,,ok
+2026-10-14T09:10:00.043Z,Python.org,https://www.python.org,200,152.77,True,,ok
+2026-10-14T09:10:00.254Z,HTTPBin health,https://httpbin.org/status/200,200,393.11,True,,ok
+2026-10-14T09:10:00.376Z,GitHub API,https://api.github.com,200,126.12,True,,ok
+2026-10-14T09:10:00.871Z,Example.com,https://example.com,200,111.51,True,,ok
+2026-10-14T09:15:00.518Z,Python.org,https://www.python.org,200,188.57,True,,ok
+2026-10-14T09:15:00.681Z,Example.com,https://example.com,200,77.98,True,,ok
+2026-10-14T09:15:00.768Z,HTTPBin health,https://httpbin.org/status/200,200,450.9,True,,ok
+2026-10-14T09:15:00.807Z,GitHub API,https://api.github.com,200,167.05,True,,ok
+2026-10-14T09:20:00.041Z,HTTPBin health,https://httpbin.org/status/200,200,509.87,True,,ok
+2026-10-14T09:20:00.225Z,Python.org,https://www.python.org,200,202.74,True,,ok
+2026-10-14T09:20:00.267Z,GitHub API,https://api.github.com,200,142.21,True,,ok
+2026-10-14T09:20:00.449Z,Example.com,https://example.com,200,93.4,True,,ok
+2026-10-14T09:25:00.312Z,Example.com,https://example.com,200,98.31,True,,ok
+2026-10-14T09:25:00.378Z,HTTPBin health,https://httpbin.org/status/200,200,426.64,True,,ok
+2026-10-14T09:25:00.764Z,GitHub API,https://api.github.com,200,108.62,True,,ok
+2026-10-14T09:25:00.876Z,Python.org,https://www.python.org,200,207.12,True,,ok
+2026-10-14T09:30:00.418Z,Python.org,https://www.python.org,200,181.54,True,,ok
+2026-10-14T09:30:00.497Z,Example.com,https://example.com,200,115.46,True,,ok
+2026-10-14T09:30:00.661Z,GitHub API,https://api.github.com,200,140.58,True,,ok
+2026-10-14T09:30:00.840Z,HTTPBin health,https://httpbin.org/status/200,200,426.52,True,,ok
+2026-10-14T09:35:00.038Z,GitHub API,https://api.github.com,200,126.89,True,,ok
+2026-10-14T09:35:00.063Z,HTTPBin health,https://httpbin.org/status/200,200,402.28,True,,ok
+2026-10-14T09:35:00.671Z,Python.org,https://www.python.org,200,153.12,True,,ok
+2026-10-14T09:35:00.817Z,Example.com,https://example.com,200,101.95,True,,ok
+2026-10-14T09:40:00.126Z,HTTPBin health,https://httpbin.org/status/200,200,461.33,True,,ok
+2026-10-14T09:40:00.433Z,Example.com,https://example.com,200,115.85,True,,ok
+2026-10-14T09:40:00.484Z,Python.org,https://www.python.org,200,225.13,True,,ok
+2026-10-14T09:40:00.662Z,GitHub API,https://api.github.com,200,131.56,True,,ok
+2026-10-14T09:45:00.236Z,Python.org,https://www.python.org,200,209.14,True,,ok
+2026-10-14T09:45:00.354Z,GitHub API,https://api.github.com,200,133.76,True,,ok
+2026-10-14T09:45:00.711Z,HTTPBin health,https://httpbin.org/status/200,200,361.16,True,,ok
+2026-10-14T09:45:00.862Z,Example.com,https://example.com,200,109.11,True,,ok
+2026-10-14T09:50:00.030Z,HTTPBin health,https://httpbin.org/status/200,200,587.43,True,,ok
+2026-10-14T09:50:00.079Z,GitHub API,https://api.github.com,200,120.39,True,,ok
+2026-10-14T09:50:00.560Z,Python.org,https://www.python.org,200,242.1,True,,ok
+2026-10-14T09:50:00.580Z,Example.com,https://example.com,200,109.84,True,,ok
+2026-10-14T09:55:00.592Z,Example.com,https://example.com,200,92.85,True,,ok
+2026-10-14T09:55:00.804Z,HTTPBin health,https://httpbin.org/status/200,200,393.83,True,,ok
+2026-10-14T09:55:00.884Z,Python.org,https://www.python.org,200,216.91,True,,ok
+2026-10-14T09:55:00.903Z,GitHub API,https://api.github.com,200,192.99,True,,ok
+2026-10-14T10:00:00.100Z,Example.com,https://example.com,200,106.25,True,,ok
+2026-10-14T10:00:00.344Z,HTTPBin health,https://httpbin.org/status/200,200,446.36,True,,ok
+2026-10-14T10:00:00.421Z,GitHub API,https://api.github.com,200,140.05,True,,ok
+2026-10-14T10:00:00.531Z,Python.org,https://www.python.org,200,201.42,True,,ok
+2026-10-14T10:05:00.110Z,Example.com,https://example.com,200,76.46,True,,ok
+2026-10-14T10:05:00.155Z,HTTPBin health,https://httpbin.org/status/200,200,444.71,True,,ok
+2026-10-14T10:05:00.836Z,Python.org,https://www.python.org,200,153.75,True,,ok
+2026-10-14T10:05:00.980Z,GitHub API,https://api.github.com,200,162.94,True,,ok
+2026-10-14T10:10:00.075Z,Python.org,https://www.python.org,200,194.79,True,,ok
+2026-10-14T10:10:00.083Z,Example.com,https://example.com,200,68.38,True,,ok
+2026-10-14T10:10:00.184Z,GitHub API,https://api.github.com,200,135.51,True,,ok
+2026-10-14T10:10:00.838Z,HTTPBin health,https://httpbin.org/status/200,200,396.1,True,,ok
+2026-10-14T10:15:00.365Z,Python.org,https://www.python.org,200,204.0,True,,ok
+2026-10-14T10:15:00.529Z,Example.com,https://example.com,200,103.15,True,,ok
+2026-10-14T10:15:00.874Z,HTTPBin health,https://httpbin.org/status/200,200,461.88,True,,ok
+2026-10-14T10:15:00.943Z,GitHub API,https://api.github.com,200,109.67,True,,ok
+2026-10-14T10:20:00.289Z,GitHub API,https://api.github.com,200,138.25,True,,ok
+2026-10-14T10:20:00.668Z,HTTPBin health,https://httpbin.org/status/200,200,603.73,True,,ok
+2026-10-14T10:20:00.724Z,Example.com,https://example.com,200,103.86,True,,ok
+2026-10-14T10:20:00.738Z,Python.org,https://www.python.org,200,177.63,True,,ok
+2026-10-14T10:25:00.071Z,Example.com,https://example.com,200,89.39,True,,ok
+2026-10-14T10:25:00.072Z,HTTPBin health,https://httpbin.org/status/200,200,392.18,True,,ok
+2026-10-14T10:25:00.215Z,GitHub API,https://api.github.com,200,154.0,True,,ok
+2026-10-14T10:25:00.915Z,Python.org,https://www.python.org,200,241.5,True,,ok
+2026-10-14T10:30:00.215Z,Example.com,https://example.com,200,88.32,True,,ok
+2026-10-14T10:30:00.318Z,GitHub API,https://api.github.com,200,137.92,True,,ok
+2026-10-14T10:30:00.731Z,Python.org,https://www.python.org,200,205.57,True,,ok
+2026-10-14T10:30:00.790Z,HTTPBin health,https://httpbin.org/status/200,200,321.99,True,,ok
+2026-10-14T10:35:00.127Z,GitHub API,https://api.github.com,200,146.28,True,,ok
+2026-10-14T10:35:00.542Z,Example.com,https://example.com,200,95.82,True,,ok
+2026-10-14T10:35:00.967Z,Python.org,https://www.python.org,200,196.95,True,,ok
+2026-10-14T10:35:00.969Z,HTTPBin health,https://httpbin.org/status/200,200,474.04,True,,ok
+2026-10-14T10:40:00.299Z,Python.org,https://www.python.org,200,155.26,True,,ok
+2026-10-14T10:40:00.386Z,HTTPBin health,https://httpbin.org/status/200,200,377.17,True,,ok
+2026-10-14T10:40:00.447Z,Example.com,https://example.com,200,113.54,True,,ok
+2026-10-14T10:40:00.909Z,GitHub API,https://api.github.com,200,121.15,True,,ok
+2026-10-14T10:45:00.053Z,GitHub API,https://api.github.com,200,144.19,True,,ok
+2026-10-14T10:45:00.124Z,Example.com,https://example.com,200,96.84,True,,ok
+2026-10-14T10:45:00.603Z,Python.org,https://www.python.org,200,206.71,True,,ok
+2026-10-14T10:45:00.937Z,HTTPBin health,https://httpbin.org/status/200,200,453.26,True,,ok
+2026-10-14T10:50:00.334Z,GitHub API,https://api.github.com,200,144.52,True,,ok
+2026-10-14T10:50:00.870Z,Example.com,https://example.com,200,130.76,True,,ok
+2026-10-14T10:50:00.891Z,HTTPBin health,https://httpbin.org/status/200,200,448.34,True,,ok
+2026-10-14T10:50:00.919Z,Python.org,https://www.python.org,200,229.68,True,,ok
+2026-10-14T10:55:00.066Z,Example.com,https://example.com,200,103.06,True,,ok
+2026-10-14T10:55:00.368Z,HTTPBin health,https://httpbin.org/status/200,200,386.29,True,,ok
+2026-10-14T10:55:00.703Z,Python.org,https://www.python.org,200,251.97,True,,ok
+2026-10-14T10:55:00.787Z,GitHub API,https://api.github.com,200,108.34,True,,ok
+2026-10-14T11:00:00.083Z,Example.com,https://example.com,200,107.22,True,,ok
+2026-10-14T11:00:00.137Z,Python.org,https://www.python.org,200,173.7,True,,ok
+2026-10-14T11:00:00.510Z,HTTPBin health,https://httpbin.org/status/200,200,480.71,True,,ok
+2026-10-14T11:00:00.730Z,GitHub API,https://api.github.com,200,154.15,True,,ok
+2026-10-14T11:05:00.021Z,GitHub API,https://api.github.com,200,199.95,True,,ok
+2026-10-14T11:05:00.380Z,HTTPBin health,https://httpbin.org/status/200,200,434.22,True,,ok
+2026-10-14T11:05:00.528Z,Example.com,https://example.com,200,77.19,True,,ok
+2026-10-14T11:05:00.845Z,Python.org,https://www.python.org,200,209.56,True,,ok
+2026-10-14T11:10:00.090Z,HTTPBin health,https://httpbin.org/status/200,200,541.76,True,,ok
+2026-10-14T11:10:00.431Z,Example.com,https://example.com,200,134.42,True,,ok
+2026-10-14T11:10:00.465Z,Python.org,https://www.python.org,200,243.61,True,,ok
+2026-10-14T11:10:00.636Z,GitHub API,https://api.github.com,200,194.74,True,,ok
+2026-10-14T11:15:00.124Z,Example.com,https://example.com,200,98.84,True,,ok
+2026-10-14T11:15:00.348Z,Python.org,https://www.python.org,200,175.47,True,,ok
+2026-10-14T11:15:00.581Z,HTTPBin health,https://httpbin.org/status/200,200,444.29,True,,ok
+2026-10-14T11:15:00.682Z,GitHub API,https://api.github.com,200,155.97,True,,ok
+2026-10-14T11:20:00.031Z,GitHub API,https://api.github.com,200,136.59,True,,ok
+2026-10-14T11:20:00.245Z,Python.org,https://www.python.org,200,239.77,True,,ok
+2026-10-14T11:20:00.586Z,HTTPBin health,https://httpbin.org/status/200,200,327.15,True,,ok
+2026-10-14T11:20:00.708Z,Example.com,https://example.com,200,117.09,True,,ok
+2026-10-14T11:25:00.208Z,Example.com,https://example.com,200,119.61,True,,ok
+2026-10-14T11:25:00.247Z,GitHub API,https://api.github.com,200,149.58,True,,ok
+2026-10-14T11:25:00.793Z,Python.org,https://www.python.org,200,172.09,True,,ok
+2026-10-14T11:25:00.830Z,HTTPBin health,https://httpbin.org/status/200,200,464.1,True,,ok
+2026-10-14T11:30:00.133Z,Python.org,https://www.python.org,200,258.25,True,,ok
+2026-10-14T11:30:00.258Z,HTTPBin health,https://httpbin.org/status/200,200,468.19,True,,ok
+2026-10-14T11:30:00.369Z,GitHub API,https://api.github.com,200,121.87,True,,ok
+2026-10-14T11:30:00.563Z,Example.com,https://example.com,200,103.51,True,,ok
+2026-10-14T11:35:00.175Z,Example.com,https://example.com,200,100.6,True,,ok
+2026-10-14T11:35:00.180Z,Python.org,https://www.python.org,200,205.11,True,,ok
+2026-10-14T11:35:00.822Z,GitHub API,https://api.github.com,200,184.79,True,,ok
+2026-10-14T11:35:00.909Z,HTTPBin health,https://httpbin.org/status/200,200,528.51,True,,ok
+2026-10-14T11:40:00.088Z,HTTPBin health,https://httpbin.org/status/200,200,381.59,True,,ok
+2026-10-14T11:40:00.177Z,GitHub API,https://api.github.com,200,143.74,True,,ok
+2026-10-14T11:40:00.436Z,Python.org,https://www.python.org,200,212.62,True,,ok
+2026-10-14T11:40:00.952Z,Example.com,https://example.com,200,107.5,True,,ok
+2026-10-14T11:45:00.172Z,GitHub API,https://api.github.com,200,163.41,True,,ok
+2026-10-14T11:45:00.317Z,Python.org,https://www.python.org,200,178.69,True,,ok
+2026-10-14T11:45:00.321Z,HTTPBin health,https://httpbin.org/status/200,200,295.88,True,,ok
+2026-10-14T11:45:00.808Z,Example.com,https://example.com,200,101.45,True,,ok
+2026-10-14T11:50:00.083Z,HTTPBin health,https://httpbin.org/status/200,200,637.88,True,,ok
+2026-10-14T11:50:00.100Z,Example.com,https://example.com,200,81.57,True,,ok
+2026-10-14T11:50:00.313Z,Python.org,https://www.python.org,200,185.46,True,,ok
+2026-10-14T11:50:00.926Z,GitHub API,https://api.github.com,200,128.61,True,,ok
+2026-10-14T11:55:00.264Z,GitHub API,https://api.github.com,200,128.72,True,,ok
+2026-10-14T11:55:00.331Z,Python.org,https://www.python.org,200,172.34,True,,ok
+2026-10-14T11:55:00.549Z,Example.com,https://example.com,200,118.61,True,,ok
+2026-10-14T11:55:00.955Z,HTTPBin health,https://httpbin.org/status/200,200,412.91,True,,ok
+2026-10-14T12:00:00.467Z,Example.com,https://example.com,200,105.43,True,,ok
+2026-10-14T12:00:00.718Z,HTTPBin health,https://httpbin.org/status/200,200,469.02,True,,ok
+2026-10-14T12:00:00.794Z,Python.org,https://www.python.org,200,144.86,True,,ok
+2026-10-14T12:00:00.930Z,GitHub API,https://api.github.com,200,114.79,True,,ok
