@@ -1,0 +1,20 @@
+{
+  "Auth API": {
+    "consecutive_failures": 0,
+    "down_since": null,
+    "first_failure_ts": null,
+    "last_alert_ts": null,
+    "latency_level": "ok",
+    "status": "UP",
+    "uptime_breached": false
+  },
+  "Orders API": {
+    "consecutive_failures": 0,
+    "down_since": null,
+    "first_failure_ts": null,
+    "last_alert_ts": "2026-10-15T15:37:39.611Z",
+    "latency_level": "ok",
+    "status": "UP",
+    "uptime_breached": true
+  }
+}
