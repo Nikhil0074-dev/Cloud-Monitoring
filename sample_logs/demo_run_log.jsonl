@@ -1,0 +1,26 @@
+{"timestamp":"2026-10-14T06:10:41.753Z","name":"Orders API","url":"http://127.0.0.1:35573/health","status_code":200,"latency_ms":4.29,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:41.752Z","name":"Auth API","url":"http://127.0.0.1:44225/health","status_code":200,"latency_ms":1.91,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:42.160Z","name":"Orders API","url":"http://127.0.0.1:35573/health","status_code":200,"latency_ms":4.19,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:42.160Z","name":"Auth API","url":"http://127.0.0.1:44225/health","status_code":200,"latency_ms":2.89,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:42.565Z","name":"Orders API","url":"http://127.0.0.1:35573/health","status_code":200,"latency_ms":3.13,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:42.564Z","name":"Auth API","url":"http://127.0.0.1:44225/health","status_code":200,"latency_ms":1.76,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:42.970Z","name":"Orders API","url":"http://127.0.0.1:35573/health","status_code":503,"latency_ms":2.75,"ok":false,"error":"unexpected status 503 (expected [200])","latency_level":"n/a"}
+{"timestamp":"2026-10-14T06:10:42.971Z","name":"Auth API","url":"http://127.0.0.1:44225/health","status_code":200,"latency_ms":3.16,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:43.378Z","name":"Orders API","url":"http://127.0.0.1:35573/health","status_code":503,"latency_ms":3.67,"ok":false,"error":"unexpected status 503 (expected [200])","latency_level":"n/a"}
+{"timestamp":"2026-10-14T06:10:43.378Z","name":"Auth API","url":"http://127.0.0.1:44225/health","status_code":200,"latency_ms":2.46,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:43.784Z","name":"Orders API","url":"http://127.0.0.1:35573/health","status_code":503,"latency_ms":3.65,"ok":false,"error":"unexpected status 503 (expected [200])","latency_level":"n/a"}
+{"timestamp":"2026-10-14T06:10:43.784Z","name":"Auth API","url":"http://127.0.0.1:44225/health","status_code":200,"latency_ms":2.73,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:44.191Z","name":"Orders API","url":"http://127.0.0.1:35573/health","status_code":200,"latency_ms":3.66,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:44.192Z","name":"Auth API","url":"http://127.0.0.1:44225/health","status_code":200,"latency_ms":2.86,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:44.600Z","name":"Orders API","url":"http://127.0.0.1:35573/health","status_code":200,"latency_ms":3.71,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:44.599Z","name":"Auth API","url":"http://127.0.0.1:44225/health","status_code":200,"latency_ms":3.25,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:46.005Z","name":"Orders API","url":"http://127.0.0.1:35573/health","status_code":200,"latency_ms":1002.85,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-14T06:10:45.005Z","name":"Auth API","url":"http://127.0.0.1:44225/health","status_code":200,"latency_ms":2.27,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:47.414Z","name":"Orders API","url":"http://127.0.0.1:35573/health","status_code":200,"latency_ms":1003.35,"ok":true,"error":null,"latency_level":"warn"}
+{"timestamp":"2026-10-14T06:10:46.413Z","name":"Auth API","url":"http://127.0.0.1:44225/health","status_code":200,"latency_ms":2.18,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:50.121Z","name":"Orders API","url":"http://127.0.0.1:35573/health","status_code":200,"latency_ms":2303.55,"ok":true,"error":null,"latency_level":"critical"}
+{"timestamp":"2026-10-14T06:10:47.820Z","name":"Auth API","url":"http://127.0.0.1:44225/health","status_code":200,"latency_ms":1.77,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:50.329Z","name":"Orders API","url":"http://127.0.0.1:35573/health","status_code":200,"latency_ms":2.61,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:50.329Z","name":"Auth API","url":"http://127.0.0.1:44225/health","status_code":200,"latency_ms":2.75,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:50.736Z","name":"Orders API","url":"http://127.0.0.1:35573/health","status_code":200,"latency_ms":3.0,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-14T06:10:50.736Z","name":"Auth API","url":"http://127.0.0.1:44225/health","status_code":200,"latency_ms":1.91,"ok":true,"error":null,"latency_level":"ok"}

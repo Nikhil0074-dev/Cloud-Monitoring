@@ -1,0 +1,6 @@
+{"text": "\ud83d\udd34 [CRITICAL] DOWN | Orders API is DOWN: unexpected status 503 (expected [200]) (1 consecutive failed check(s)) | 2026-10-14T06:10:42.970Z", "username": "cloudmon"}
+{"text": "\ud83d\udfe2 [INFO] RECOVERED | Orders API has RECOVERED after 1s of downtime (HTTP 200, 4 ms) | 2026-10-14T06:10:44.191Z", "username": "cloudmon"}
+{"text": "\ud83d\udfe0 [WARNING] LATENCY_WARN | Orders API latency 1003 ms exceeds warning threshold 800 ms | 2026-10-14T06:10:46.005Z", "username": "cloudmon"}
+{"text": "\ud83d\udfe0 [WARNING] UPTIME_BREACH | Orders API rolling uptime 70.00% is below the 99.0% target (last 10 checks) | 2026-10-14T06:10:47.414Z", "username": "cloudmon"}
+{"text": "\ud83d\udd34 [CRITICAL] LATENCY_CRITICAL | Orders API latency 2304 ms exceeds critical threshold 2000 ms | 2026-10-14T06:10:50.121Z", "username": "cloudmon"}
+{"text": "\ud83d\udfe2 [INFO] LATENCY_RECOVERED | Orders API latency back to normal (3 ms) | 2026-10-14T06:10:50.329Z", "username": "cloudmon"}
