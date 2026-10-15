@@ -1,0 +1,85 @@
+name: Uptime Monitor
+
+on:
+  schedule:
+    # GitHub's minimum cron granularity is 5 minutes (runs can start a few minutes late under load).
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      simulate_outage:
+        description: "Simulate an outage of every endpoint to test alerting (uses a separate log, real data untouched)"
+        type: boolean
+        default: false
+
+# The job commits logs and the report back to the repository.
+permissions:
+  contents: write
+
+# Never run two monitors at once: they would race on logs/state.json and the git push.
+concurrency:
+  group: uptime-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # continue-on-error lets the next step still commit the log when an outage makes this step exit 2.
+      - name: Run health checks and send alerts
+        id: monitor
+        continue-on-error: true
+        env:
+          # Add these under Settings -> Secrets and variables -> Actions. All are optional.
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          SIMULATE_OUTAGE: ${{ inputs.simulate_outage }}
+        run: |
+          if [ "$SIMULATE_OUTAGE" = "true" ]; then
+            python monitor.py --simulate-down all --fail-on-alert
+          else
+            python monitor.py --fail-on-alert
+          fi
+
+      - name: Publish report to the run summary
+        if: always() && hashFiles('docs/uptime_report.md') != ''
+        run: cat docs/uptime_report.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit logs and report
+        if: always()
+        run: |
+          git config user.name  "cloudmon[bot]"
+          git config user.email "cloudmon-bot@users.noreply.github.com"
+          git add logs docs
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git commit -m "chore: uptime check $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      # Make the workflow run itself red during an incident, so GitHub also e-mails
+      # the repository owner (Settings -> Notifications -> Actions).
+      - name: Fail the run when a critical alert fired
+        if: steps.monitor.outcome == 'failure'
+        run: |
+          echo "::error::cloudmon raised a critical alert - see the 'Run health checks' step."
+          exit 1
