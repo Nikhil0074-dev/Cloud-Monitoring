@@ -1,6 +1,6 @@
-node_modules/
-.serverless/
-.local-db/
-.esbuild/
-*.log
-.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+demo_output/
+.DS_Store
