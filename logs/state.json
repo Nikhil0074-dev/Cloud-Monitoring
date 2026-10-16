@@ -9,12 +9,12 @@
     "uptime_breached": true
   },
   "GitHub API": {
-    "consecutive_failures": 0,
-    "down_since": null,
-    "first_failure_ts": null,
-    "last_alert_ts": "2026-10-15T15:34:56.670Z",
+    "consecutive_failures": 1,
+    "down_since": "2026-10-16T10:06:46.032Z",
+    "first_failure_ts": "2026-10-16T10:06:46.032Z",
+    "last_alert_ts": "2026-10-16T10:06:46.032Z",
     "latency_level": "ok",
-    "status": "UP",
+    "status": "DOWN",
     "uptime_breached": true
   },
   "HTTPBin health": {
@@ -22,7 +22,7 @@
     "down_since": null,
     "first_failure_ts": null,
     "last_alert_ts": "2026-10-15T15:35:33.067Z",
-    "latency_level": "critical",
+    "latency_level": "ok",
     "status": "UP",
     "uptime_breached": true
   },

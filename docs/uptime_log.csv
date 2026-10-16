@@ -335,3 +335,7 @@ timestamp,name,url,status_code,latency_ms,ok,error,latency_level
 2026-10-16T05:44:34.723Z,Example.com,https://example.com,200,127.21,True,,ok
 2026-10-16T05:44:34.728Z,GitHub API,https://api.github.com,200,132.41,True,,ok
 2026-10-16T05:44:38.653Z,HTTPBin health,https://httpbin.org/status/200,200,4055.6,True,,critical
+2026-10-16T10:06:45.889Z,Example.com,https://example.com,200,56.02,True,,ok
+2026-10-16T10:06:45.914Z,Python.org,https://www.python.org,200,79.32,True,,ok
+2026-10-16T10:06:46.032Z,GitHub API,https://api.github.com,403,199.43,False,unexpected status 403 (expected [200]),n/a
+2026-10-16T10:06:46.088Z,HTTPBin health,https://httpbin.org/status/200,200,253.39,True,,ok
