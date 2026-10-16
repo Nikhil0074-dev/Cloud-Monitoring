@@ -339,3 +339,7 @@ timestamp,name,url,status_code,latency_ms,ok,error,latency_level
 2026-10-16T10:06:45.914Z,Python.org,https://www.python.org,200,79.32,True,,ok
 2026-10-16T10:06:46.032Z,GitHub API,https://api.github.com,403,199.43,False,unexpected status 403 (expected [200]),n/a
 2026-10-16T10:06:46.088Z,HTTPBin health,https://httpbin.org/status/200,200,253.39,True,,ok
+2026-10-16T14:46:59.510Z,Python.org,https://www.python.org,200,32.99,True,,ok
+2026-10-16T14:46:59.539Z,Example.com,https://example.com,200,63.82,True,,ok
+2026-10-16T14:46:59.667Z,GitHub API,https://api.github.com,200,192.0,True,,ok
+2026-10-16T14:46:59.719Z,HTTPBin health,https://httpbin.org/status/200,200,243.68,True,,ok
