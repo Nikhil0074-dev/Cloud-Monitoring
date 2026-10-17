@@ -367,3 +367,7 @@ timestamp,name,url,status_code,latency_ms,ok,error,latency_level
 2026-10-17T10:33:11.683Z,Python.org,https://www.python.org,200,74.03,True,,ok
 2026-10-17T10:33:11.693Z,GitHub API,https://api.github.com,200,84.86,True,,ok
 2026-10-17T10:33:11.751Z,HTTPBin health,https://httpbin.org/status/200,200,142.22,True,,ok
+2026-10-17T13:53:06.480Z,Example.com,https://example.com,200,98.46,True,,ok
+2026-10-17T13:53:06.504Z,Python.org,https://www.python.org,200,121.15,True,,ok
+2026-10-17T13:53:06.566Z,GitHub API,https://api.github.com,200,185.35,True,,ok
+2026-10-17T13:53:06.608Z,HTTPBin health,https://httpbin.org/status/200,200,226.28,True,,ok
